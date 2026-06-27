@@ -12,19 +12,13 @@
 
 ## What this is
 
-Mythology wikis already exist. This isn't another one.
-
-God-Museum is a stubborn project. It takes the *Classic of Mountains and Seas*, *Journey to the West*, the Greek, Norse, and Egyptian pantheons — systems that have nothing to do with each other — and forces them into one shared cosmos, then demands they not fight. Why does the same lightning principle manifest as Zeus in Greece and as Leigong in the East? Why do the Chinese and the Hebrews both remember a world-drowning flood? Take those questions seriously and the whole mythological landscape has to be rearranged.
+Take the *Classic of Mountains and Seas*, *Journey to the West*, the Greek, Norse, and Egyptian pantheons — systems that have nothing to do with each other — and fit them into one shared cosmos, then make them not fight. The same lightning principle manifests as Zeus in Greece and as Leigong in the East. The same world-drowning flood is remembered by the Chinese as Nüwa patching the sky and by the Hebrews as Noah's ark. Take those questions seriously and the whole mythological landscape gets rearranged.
 
 This repo holds the rearranged version. It's a setting bible, a project charter, and the foundation of a digital culture IP. Game writers can lift it as a world, novelists can lift it as a backbone, a digital exhibition can lift it for the visuals. Star it before you lift it.
 
-## Why not put everyone on the same supercontinent
+## Multiple realms in parallel, joined by Gates
 
-The first design decision you can't dodge. The "one big Earth, separate regions" route is the cheap one and the boring one. Zeus shrinks into a Mediterranean tribal god, Pangu shrinks into a North-China-Plain tribal god, and the whole thing devolves into a pile of local deities speaking regional dialects.
-
-God-Museum goes the other way: **ten parallel layers, joined by Gates**.
-
-The Nine Heavens, Olympus, the Yellow Springs, Hades, Niflheim — in this museum they're real, parallel layers, normally blind to one another, connected at a handful of points called Gates. That lets Set wander into the East as a foreign plague-god, lets Mjölnir crack open a rift into the underworld, lets the sun Kuafu chases each night plunge into a trench in Niflheim. "He came from the West." "She descended to the underworld." Those lines in mythology describe crossings between layers. Taking them as cross-layer movement, literally, holds up much better than flattening the gods onto one map.
+The Nine Heavens, Olympus, the Yellow Springs, Hades, Niflheim — in this museum they're all real, parallel layers, normally blind to one another, connected at a handful of points called Gates. That lets Set wander into the East as a foreign plague-god, lets Mjölnir crack open a rift into the underworld, lets the sun Kuafu chases each night plunge into a trench in Niflheim. "He came from the West." "She descended to the underworld." Those lines in mythology describe crossings between layers. Taking them as cross-layer movement, literally, holds up much better than flattening the gods onto one map.
 
 The protocol below keeps this design standing.
 
@@ -48,7 +42,7 @@ Content is grouped by dossier, not by country. The point of a museum is to see h
 - Lords of Death: Yanluo Wang / Hades / Anubis
 - Each god gets one entry: titles, office, origin, which layer they live in, and what happens when they cross over. Domain resonances and godhead fusions get logged here too.
 
-**03 · Containment** — non-human creatures, treated as more than monsters. They're anomalies produced by laws spilling over or slipping out of alignment, either extensions of a god's will leaking past its body, or a natural disaster given shape.
+**03 · Containment** — non-human creatures treated as anomalies produced by laws spilling over or slipping out of alignment. Extensions of a god's will leaking past its body, or a natural disaster given shape.
 - Eastern spine: the *Classic of Mountains and Seas* — Qiongqi, Taotie, the nine-tailed fox
 - Western spine: Greek and Norse — Medusa, Argus, Fenrir
 - The same dossier also contains the Fallen Mythos — gods whose belief hit zero and Outer Ones that fell out of the pantheon.
@@ -56,7 +50,7 @@ Content is grouped by dossier, not by country. The point of a museum is to see h
 **04 · Armory** — the artifacts that actually rewrote the course of the pantheons, with attributes and physical explanations.
 - Eastern treasures: the Ocean-Calming Pillar / Xuanyuan Sword / the Demon-Refining Pot / the Investiture Scroll
 - Western relics: Mjölnir / Gungnir / the Fates' threads / Pandora's box
-- Once enough of them are catalogued, open the "Cross-Layer Weapon Collider" — a sandbox for questions like what actually happens when the Ruyi Jingu Bang hits the Aegis. The collider answers that question as part of the setting. Not a stunt.
+- Once enough of them are catalogued, open the "Cross-Layer Weapon Collider" — a sandbox for questions like what actually happens when the Ruyi Jingu Bang hits the Aegis. The collider answers that question as part of the setting.
 
 **05 · Chronosphere** — every mythological plot gets jammed onto a single timeline that converges toward an absolute cosmic timeline. This is the part that makes the universe stand up. Three eras in, the pantheon has already been rearranged:
 
