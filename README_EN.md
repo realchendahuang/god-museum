@@ -1,6 +1,6 @@
 # God-Museum
 
-[![License](https://img.shields.io/badge/license-Concept%20Only-lightgrey)](./LICENSE)
+[![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-lightgrey)](./LICENSE)
 [![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-blue)](https://www.markdownguide.org)
 [![GitHub stars](https://img.shields.io/github/stars/realchendahuang/god-museum?style=social)](https://github.com/realchendahuang/god-museum/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/realchendahuang/god-museum)](https://github.com/realchendahuang/god-museum/commits)
@@ -87,7 +87,9 @@ This will shift as the content gets broken down. The skeleton above is where it 
 
 ## License
 
-The setting itself is not openly licensed. Talk to us before lifting it.
+The God-Museum setting, text, taxonomy, cosmology, rearranged pantheons, and related original expressions are not openly licensed. You may read, fork, open issues, and submit pull requests for discussion; without prior written permission, you may not copy, adapt, redistribute, commercialize, or use the material in games, fiction, comics, films, exhibitions, datasets, model training, or other derivative projects.
+
+See [LICENSE](./LICENSE) for the full terms. Contact the project owner before collaboration or commercial use.
 
 ## Star History
 

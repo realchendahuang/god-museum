@@ -1,6 +1,6 @@
 # God-Museum · 众神博物馆
 
-[![License](https://img.shields.io/badge/license-Concept%20Only-lightgrey)](./LICENSE)
+[![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-lightgrey)](./LICENSE)
 [![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-blue)](https://www.markdownguide.org)
 [![GitHub stars](https://img.shields.io/github/stars/realchendahuang/god-museum?style=social)](https://github.com/realchendahuang/god-museum/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/realchendahuang/god-museum)](https://github.com/realchendahuang/god-museum/commits)
@@ -87,7 +87,9 @@ god-museum/
 
 ## 授权
 
-设定本身目前不公开授权，搬走前先来谈。
+God-Museum 的设定、文本、分类结构、宇宙观、神谱重排和相关原创表达目前不公开授权。你可以阅读、fork、提 issue 或 PR 参与讨论；未经书面许可，不得复制、改编、再发布、商用，或用于游戏、小说、漫画、影视、展览、数据集、模型训练及其他衍生项目。
+
+完整条款见 [LICENSE](./LICENSE)。合作或商业使用请先联系项目所有者。
 
 ## Star History
 
