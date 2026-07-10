@@ -1,0 +1,142 @@
+---
+import { getCollection } from 'astro:content'
+import BaseLayout from '../layouts/BaseLayout.astro'
+import PantheonOrbit from '../components/PantheonOrbit.astro'
+import {
+  type DocEntry,
+  entrySummary,
+  entryTitle,
+  routeForEntry,
+  traditionLabel,
+  withBase
+} from '../lib/content'
+
+const docs: DocEntry[] = await getCollection('docs')
+const halls = docs
+  .filter(entry => entry.data.type === 'hall')
+  .sort((a, b) => a.id.localeCompare(b.id))
+const deities = docs
+  .filter(entry => entry.data.type === 'deity')
+  .sort((a, b) => a.id.localeCompare(b.id))
+  .slice(0, 8)
+
+const domainLabels: Record<string, string> = {
+  chaos: '混沌', creation: '创世', primordial: '原初', cosmogony: '宇宙起源', ancestry: '始祖',
+  sky: '天空', kingship: '王权', order: '秩序', law: '律法', oath: '誓言',
+  sun: '太阳', moon: '月亮', stars: '星辰', calendar: '历法', light: '光明',
+  thunder: '雷霆', lightning: '雷电', storm: '风暴', wind: '风', rain: '雨', fire: '火',
+  mountain: '山岳', sea: '海洋', river: '河流', spring: '泉源', navigation: '航行',
+  earth: '土地', harvest: '丰收', agriculture: '农耕', season: '季节', healing: '医疗', life: '生命',
+  love: '爱欲', marriage: '婚姻', birth: '生育', childbirth: '分娩', lineage: '血脉', family: '家庭', desire: '欲望',
+  war: '战争', victory: '胜利', guardianship: '守护', protection: '守护', courage: '勇武', vengeance: '复仇',
+  wisdom: '智慧', craft: '技艺', civilization: '文明', writing: '文字', medicine: '医术', music: '音乐', invention: '发明',
+  fate: '命运', prophecy: '预言', time: '时间', divination: '占卜', memory: '记忆',
+  road: '道路', roads: '道路', messenger: '信使', language: '语言', trade: '交易', trickery: '诡计', transformation: '变化', boundary: '边界',
+  death: '死亡', burial: '葬仪', judgment: '审判', underworld: '冥界', soul: '灵魂', ancestor: '祖先', ancestors: '祖先', afterlife: '来世',
+  'celestial-motion': '天体运行'
+}
+
+function hallDomains(entry: (typeof halls)[number]) {
+  return (entry.data.domains || []).slice(0, 4).map((domain: string) => domainLabels[domain] || domain).join(' · ')
+}
+---
+
+<BaseLayout>
+  <div class="shell hero">
+    <div class="hero-copy">
+      <h1>God-Museum<span>众神殿</span></h1>
+      <p class="hero-statement">一界，多天，万神，共殿。</p>
+      <p class="hero-note">世界只有一个人间，却有许多套天空。</p>
+      <div class="hero-actions">
+        <a class="primary-link" href={withBase('halls')}>
+          进入众神殿
+          <span class="link-arrow" aria-hidden="true"></span>
+        </a>
+        <a class="secondary-link" href="https://github.com/realchendahuang/god-museum">
+          查看 GitHub
+          <span class="link-arrow" aria-hidden="true"></span>
+        </a>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <PantheonOrbit />
+    </div>
+    <a class="next-section-mark" href="#halls">十二座权柄大殿</a>
+  </div>
+
+  <section class="shell museum-section section-rule" id="halls">
+    <div class="section-heading">
+      <h2>十二座权柄大殿</h2>
+      <p>按权柄看见诸神，按原典保留差异。大殿是入口，不是新的神系，也不是力量排行榜。</p>
+    </div>
+    <div class="hall-list">
+      {halls.map((hall, index) => (
+        <a class="hall-row" href={routeForEntry(hall)}>
+          <span class="hall-number">{String(index + 1).padStart(2, '0')}</span>
+          <strong>{entryTitle(hall)}</strong>
+          <em>{hallDomains(hall)}</em>
+          <svg class="row-arrow" aria-hidden="true" viewBox="0 0 24 24">
+            <path d="M5 12h13m-5-5 5 5-5 5" />
+          </svg>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section class="shell museum-section section-rule" id="deities">
+    <div class="section-heading">
+      <h2>已登记神座</h2>
+      <p>相似的权柄只让他们进入同一座殿，不会把他们改写成同一个神。</p>
+    </div>
+    <div class="deity-axis">
+      {deities.map((deity, index) => (
+        <a class="deity-entry" href={routeForEntry(deity)}>
+          <small>{String(index + 1).padStart(2, '0')} · {traditionLabel(deity.data.tradition)}</small>
+          <h3>
+            {entryTitle(deity)}
+            {deity.data.name_native && deity.data.name_native !== entryTitle(deity) && <span>{deity.data.name_native}</span>}
+          </h3>
+          <p>{entrySummary(deity)}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section class="shell museum-section section-rule" id="canon">
+    <div class="section-heading">
+      <h2>所有叙述，都要说明自己站在哪一层。</h2>
+      <p>God-Museum 允许大胆创作，但不允许把来源、整理和原创混写成一件事。</p>
+    </div>
+    <div class="canon-grid">
+      <div class="canon-band">
+        <span class="entry-number">01</span>
+        <strong>原典层</strong>
+        <p>文本、铭文、器物、图像、仪式与历史研究实际能够确认什么。</p>
+      </div>
+      <div class="canon-band">
+        <span class="entry-number">02</span>
+        <strong>整理层</strong>
+        <p>为了跨文明阅读而建立的权柄、大殿、关系类型、时间与版本索引。</p>
+      </div>
+      <div class="canon-band">
+        <span class="entry-number">03</span>
+        <strong>设定层</strong>
+        <p>众神殿本身、跨神系会面、原创冲突与故事；自由从清楚标注之后开始。</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="shell museum-section section-rule">
+    <p class="corridor-quote">神不是因为权柄相似才相遇，<span>而是因为记住他们的人相遇。</span></p>
+    <div class="corridor-links">
+      <a class="primary-link" href={withBase('civilizations/corridors')}>
+        进入文明通道
+        <span class="link-arrow" aria-hidden="true"></span>
+      </a>
+      <a class="secondary-link" href={withBase('catalog')}>
+        查看完整目录
+        <span class="link-arrow" aria-hidden="true"></span>
+      </a>
+    </div>
+  </section>
+</BaseLayout>

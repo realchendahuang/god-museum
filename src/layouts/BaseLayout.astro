@@ -1,0 +1,49 @@
+---
+import '../styles/global.css'
+import SiteFooter from '../components/SiteFooter.astro'
+import SiteHeader from '../components/SiteHeader.astro'
+import SearchDialog from '../components/SearchDialog.astro'
+
+interface Props {
+  title?: string
+  description?: string
+  canonicalPath?: string
+}
+
+const {
+  title = 'God-Museum · 众神殿',
+  description = '一界，多天，万神，共殿。为东西方神话建立一座共同的数字众神殿。',
+  canonicalPath = '/'
+} = Astro.props
+
+const pageTitle = title === 'God-Museum · 众神殿' ? title : `${title} · God-Museum`
+const canonical = new URL(`/god-museum${canonicalPath === '/' ? '/' : canonicalPath}`, Astro.site)
+---
+
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="theme-color" content="#090908" />
+    <meta name="description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:site_name" content="God-Museum · 众神殿" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/svg+xml" href="/god-museum/favicon.svg" />
+    <title>{pageTitle}</title>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">跳到正文</a>
+    <SiteHeader />
+    <main id="main-content">
+      <slot />
+    </main>
+    <SiteFooter />
+    <SearchDialog />
+  </body>
+</html>

@@ -1,0 +1,136 @@
+---
+import { getCollection, render, type CollectionEntry } from 'astro:content'
+import BaseLayout from '../layouts/BaseLayout.astro'
+import {
+  type DocEntry,
+  entrySection,
+  entrySummary,
+  entryTitle,
+  entryTypeLabel,
+  githubUrlForEntry,
+  routeForEntry,
+  routeSegmentsForEntry,
+  sectionLabel,
+  traditionLabel,
+  withBase
+} from '../lib/content'
+
+type Entry = CollectionEntry<'docs'>
+
+export async function getStaticPaths() {
+  const docs: DocEntry[] = await getCollection('docs')
+  return docs.map(entry => ({
+    params: { slug: routeSegmentsForEntry(entry).join('/') },
+    props: { entry, docs }
+  }))
+}
+
+const { entry, docs } = Astro.props as { entry: Entry; docs: Entry[] }
+const { Content, headings } = await render(entry)
+const docHeadings = headings as { depth: number; slug: string; text: string }[]
+const title = entryTitle(entry)
+const summary = entrySummary(entry)
+const canonicalPath = `/${routeSegmentsForEntry(entry).join('/')}/`
+const sectionIndex = docs.find(candidate => (
+  entrySection(candidate) === entrySection(entry)
+  && candidate.id.toLowerCase().endsWith('/readme')
+))
+const isDeity = entry.data.type === 'deity'
+const isHall = entry.data.type === 'hall'
+const relatedHalls = isDeity
+  ? docs.filter(candidate => candidate.data.type === 'hall' && [
+      ...(entry.data.primary_halls || []),
+      ...(entry.data.secondary_halls || [])
+    ].includes(candidate.data.id || ''))
+  : []
+const seatedDeities = isHall && entry.data.id
+  ? docs.filter(candidate => candidate.data.type === 'deity' && [
+      ...(candidate.data.primary_halls || []),
+      ...(candidate.data.secondary_halls || [])
+    ].includes(entry.data.id || ''))
+  : []
+
+const sourceLabels: Record<string, string> = {
+  sourced: '已建立来源',
+  partial: '来源扩充中',
+  unsourced: '待建立来源'
+}
+const settingLabels: Record<string, string> = {
+  established: '设定已建立',
+  draft: '设定草案',
+  none: '无设定'
+}
+---
+
+<BaseLayout title={title} description={summary} canonicalPath={canonicalPath}>
+  <header class="shell doc-hero">
+    <nav class="breadcrumbs" aria-label="面包屑">
+      <a href={withBase()}>众神殿</a>
+      <span aria-hidden="true">/</span>
+      {sectionIndex ? <a href={routeForEntry(sectionIndex)}>{sectionLabel(entry)}</a> : <span>{sectionLabel(entry)}</span>}
+      <span aria-hidden="true">/</span>
+      <span>{title}</span>
+    </nav>
+    <div class="doc-hero-grid">
+      <div>
+        <p class="doc-type">{entryTypeLabel(entry)}</p>
+        <h1>{title}</h1>
+        {entry.data.name_native && entry.data.name_native !== title && <p class="doc-native">{entry.data.name_native}</p>}
+        {summary && <p class="doc-intro">{summary}</p>}
+      </div>
+      <dl class="doc-meta">
+        {entry.data.tradition && <div><dt>文明传统</dt><dd>{traditionLabel(entry.data.tradition)}</dd></div>}
+        {entry.data.periods?.length && <div><dt>时代层次</dt><dd>{entry.data.periods.join(' / ')}</dd></div>}
+        {entry.data.source_status && <div><dt>来源状态</dt><dd>{sourceLabels[entry.data.source_status] || entry.data.source_status}</dd></div>}
+        {entry.data.setting_status && <div><dt>设定状态</dt><dd>{settingLabels[entry.data.setting_status] || entry.data.setting_status}</dd></div>}
+        {isHall && <div><dt>已登记神座</dt><dd>{seatedDeities.length} 位</dd></div>}
+      </dl>
+    </div>
+  </header>
+
+  <div class="shell doc-layout">
+    <article class="prose">
+      <Content />
+    </article>
+    <aside class="doc-rail" aria-label="条目辅助导航">
+      {docHeadings.filter(heading => heading.depth === 2).length > 0 && (
+        <div class="rail-block">
+          <p>本页目录</p>
+          <nav>
+            {docHeadings.filter(heading => heading.depth === 2).map(heading => (
+              <a href={`#${heading.slug}`}>{heading.text}</a>
+            ))}
+          </nav>
+        </div>
+      )}
+
+      {relatedHalls.length > 0 && (
+        <div class="rail-block">
+          <p>进入大殿</p>
+          <div class="rail-links">
+            {relatedHalls.map(hall => <a href={routeForEntry(hall)}>{entryTitle(hall)}</a>)}
+          </div>
+        </div>
+      )}
+
+      {seatedDeities.length > 0 && (
+        <div class="rail-block">
+          <p>本殿神座</p>
+          <div class="rail-links">
+            {seatedDeities.map(deity => <a href={routeForEntry(deity)}>{entryTitle(deity)}</a>)}
+          </div>
+        </div>
+      )}
+
+      <div class="rail-block">
+        <p>文本边界</p>
+        <p class="rail-note">网页与 GitHub 读取同一份 Markdown；修改原文即可更新展厅。</p>
+        <div class="rail-links">
+          <a href={githubUrlForEntry(entry)} target="_blank" rel="noreferrer">在 GitHub 查看原文 ↗</a>
+          <a href={withBase('foundation/canon')}>阅读三层正典</a>
+          <a href={withBase('catalog')}>返回完整目录</a>
+        </div>
+      </div>
+    </aside>
+  </div>
+</BaseLayout>

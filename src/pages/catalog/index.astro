@@ -1,0 +1,92 @@
+---
+import { getCollection } from 'astro:content'
+import BaseLayout from '../../layouts/BaseLayout.astro'
+import {
+  type DocEntry,
+  entrySection,
+  entryTitle,
+  entryTypeLabel,
+  plainSearchText,
+  routeForEntry,
+  sectionLabel
+} from '../../lib/content'
+
+const docs: DocEntry[] = await getCollection('docs')
+const sectionOrder = [
+  '00_foundation', '01_halls', '02_deities', '03_civilizations', '04_heroes',
+  '05_relics', '06_beasts', '07_places', '08_myths', '09_silent-gallery', '99_sources'
+]
+const groups = sectionOrder.map(section => ({
+  section,
+  label: sectionLabel(docs.find(entry => entrySection(entry) === section)!),
+  entries: docs
+    .filter(entry => entrySection(entry) === section)
+    .sort((a, b) => a.id.localeCompare(b.id))
+})).filter(group => group.entries.length)
+---
+
+<BaseLayout title="完整目录" description="God-Museum 众神殿的完整可检索馆藏目录。" canonicalPath="/catalog/">
+  <header class="shell catalog-hero">
+    <p class="doc-type">The complete collection</p>
+    <h1>完整目录</h1>
+    <p>同一批 Markdown，同时构成 GitHub 仓库与这座数字众神殿。你可以按神名、文明、权柄或正文关键词检索。</p>
+  </header>
+
+  <div class="shell catalog-tools">
+    <label class="catalog-search">
+      <span>检索</span>
+      <input type="search" placeholder="输入神名、文明、权柄或原典…" data-catalog-search />
+    </label>
+    <span class="catalog-count" data-catalog-count>{docs.length} 项馆藏</span>
+  </div>
+
+  <div class="shell catalog-groups">
+    {groups.map(group => (
+      <section class="catalog-group" data-catalog-group>
+        <h2>{group.label}</h2>
+        <div class="catalog-items">
+          {group.entries.map((entry, index) => (
+            <a
+              class="catalog-item"
+              href={routeForEntry(entry)}
+              data-catalog-item
+              data-search={plainSearchText(entry)}
+            >
+              <span class="entry-number">{String(index + 1).padStart(2, '0')}</span>
+              <strong>{entryTitle(entry)}</strong>
+              <small>{entryTypeLabel(entry)}</small>
+            </a>
+          ))}
+        </div>
+      </section>
+    ))}
+  </div>
+
+  <script>
+    const input = document.querySelector('[data-catalog-search]')
+    const count = document.querySelector('[data-catalog-count]')
+    const items = [...document.querySelectorAll('[data-catalog-item]')]
+    const groups = [...document.querySelectorAll('[data-catalog-group]')]
+
+    input?.addEventListener('input', event => {
+      const query = event.target instanceof HTMLInputElement
+        ? event.target.value.trim().toLocaleLowerCase('zh-CN')
+        : ''
+      let visible = 0
+
+      items.forEach(item => {
+        if (!(item instanceof HTMLElement)) return
+        const matches = !query || (item.dataset.search || '').includes(query)
+        item.hidden = !matches
+        if (matches) visible += 1
+      })
+
+      groups.forEach(group => {
+        if (!(group instanceof HTMLElement)) return
+        group.hidden = !group.querySelector('[data-catalog-item]:not([hidden])')
+      })
+
+      if (count) count.textContent = `${visible} 项馆藏`
+    })
+  </script>
+</BaseLayout>

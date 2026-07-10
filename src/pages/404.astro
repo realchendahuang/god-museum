@@ -1,0 +1,18 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+import { withBase } from '../lib/content'
+---
+
+<BaseLayout title="没有这座神殿" description="这条路尚未通向任何神座。" canonicalPath="/404/">
+  <section class="shell not-found">
+    <div>
+      <p class="doc-type">404 · Silent gallery</p>
+      <h1>此处无神座</h1>
+      <p>这条路尚未通向任何神座，也可能已经沉入静默长廊。</p>
+      <a class="primary-link" href={withBase()}>
+        返回众神殿
+        <span class="link-arrow" aria-hidden="true"></span>
+      </a>
+    </div>
+  </section>
+</BaseLayout>

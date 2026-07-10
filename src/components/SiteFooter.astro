@@ -1,0 +1,19 @@
+---
+import { withBase } from '../lib/content'
+---
+
+<footer class="site-footer">
+  <div>
+    <p class="footer-title">一界，多天，万神，共殿。</p>
+    <p class="footer-note">内容源托管于 GitHub，网站由同一批 Markdown 静态生成。</p>
+  </div>
+
+  <nav aria-label="页脚导航">
+    <a href={withBase('catalog')}>总目录</a>
+    <a href={withBase('foundation/constitution')}>众神殿宪章</a>
+    <a href="https://chendahuang.com/">陈大黄的博客</a>
+    <a href="https://github.com/realchendahuang/god-museum">GitHub</a>
+  </nav>
+
+  <p class="copyright">© {new Date().getFullYear()} God-Museum · All Rights Reserved</p>
+</footer>

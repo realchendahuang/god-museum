@@ -1,0 +1,22 @@
+---
+const halls = [
+  '创世', '天权', '星辰', '雷火', '山海', '丰饶',
+  '爱欲', '战争', '智慧', '命运', '道路', '冥界'
+]
+---
+
+<div class="pantheon-orbit" aria-hidden="true">
+  <div class="orbit-ring orbit-ring-outer"></div>
+  <div class="orbit-ring orbit-ring-middle"></div>
+  <div class="orbit-ring orbit-ring-inner"></div>
+  <div class="orbit-core">
+    <span>万神</span>
+    <strong>共殿</strong>
+  </div>
+  {halls.map((hall, index) => (
+    <span class="orbit-label" style={`--index: ${index};`}>
+      <small>{String(index + 1).padStart(2, '0')}</small>
+      {hall}
+    </span>
+  ))}
+</div>

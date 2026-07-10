@@ -1,0 +1,26 @@
+{
+  "name": "god-museum",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev --host 0.0.0.0 --port 43118",
+    "build": "pnpm validate:catalog && astro check && astro build && node scripts/check-site.mjs",
+    "preview": "astro preview --host 0.0.0.0 --port 43118",
+    "validate:catalog": "ruby scripts/validate_catalog.rb",
+    "deploy": "pnpm build && wrangler pages deploy dist --project-name god-museum --branch main",
+    "deploy:router": "wrangler deploy --config worker/wrangler.jsonc",
+    "types:router": "wrangler types --config worker/wrangler.jsonc worker/env.d.ts"
+  },
+  "dependencies": {
+    "astro": "latest",
+    "unist-util-visit": "latest"
+  },
+  "devDependencies": {
+    "@astrojs/check": "latest",
+    "@astrojs/markdown-remark": "^7.2.1",
+    "typescript": "^6.0.3",
+    "wrangler": "4.110.0"
+  },
+  "packageManager": "pnpm@11.8.0"
+}

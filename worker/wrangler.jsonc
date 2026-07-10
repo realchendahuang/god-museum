@@ -1,0 +1,23 @@
+{
+  "$schema": "../node_modules/wrangler/config-schema.json",
+  "name": "god-museum-proxy",
+  "main": "index.ts",
+  "compatibility_date": "2026-07-10",
+  "vars": {
+    "PAGES_ORIGIN": "https://god-museum.pages.dev"
+  },
+  "observability": {
+    "enabled": true,
+    "head_sampling_rate": 1
+  },
+  "routes": [
+    {
+      "pattern": "chendahuang.com/god-museum",
+      "zone_name": "chendahuang.com"
+    },
+    {
+      "pattern": "chendahuang.com/god-museum/*",
+      "zone_name": "chendahuang.com"
+    }
+  ]
+}

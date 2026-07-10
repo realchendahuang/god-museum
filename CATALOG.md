@@ -1,0 +1,63 @@
+# 众神殿总目录
+
+这是 God-Museum 当前可进入的完整结构。条目数量会增长，稳定 ID 和三层正典保持不变。
+
+## 设定基石
+
+- [设定基石总览](./00_foundation/README.md)
+- [众神殿宪章](./00_foundation/constitution.md)
+- [三层正典](./00_foundation/canon.md)
+- [编目协议](./00_foundation/cataloging.md)
+- [关系类型](./00_foundation/relation-types.md)
+
+## 十二座权柄大殿
+
+- [十二殿总览](./01_halls/README.md)
+- [创世与原初之殿](./01_halls/01_creation-and-primordials.md)
+- [天空、王权与秩序之殿](./01_halls/02_sky-kingship-and-order.md)
+- [太阳、月亮与星辰之殿](./01_halls/03_sun-moon-and-stars.md)
+- [雷霆、风、雨与火之殿](./01_halls/04_thunder-wind-rain-and-fire.md)
+- [山岳、海洋与河流之殿](./01_halls/05_mountains-seas-and-rivers.md)
+- [土地、丰收与生命之殿](./01_halls/06_earth-harvest-and-life.md)
+- [爱欲、婚姻与生育之殿](./01_halls/07_love-marriage-and-birth.md)
+- [战争、胜利与守护之殿](./01_halls/08_war-victory-and-guardianship.md)
+- [智慧、技艺与文明之殿](./01_halls/09_wisdom-craft-and-civilization.md)
+- [命运、预言与时间之殿](./01_halls/10_fate-prophecy-and-time.md)
+- [道路、信使、交易与诡计之殿](./01_halls/11_roads-messengers-trade-and-trickery.md)
+- [死亡、审判与冥界之殿](./01_halls/12_death-judgment-and-underworld.md)
+
+## 神明档案
+
+- [神明档案总览](./02_deities/README.md)
+- [神明档案模板](./02_deities/_template.md)
+- [雷公](./02_deities/chinese/leigong.md)
+- [女娲](./02_deities/chinese/nvwa.md)
+- [雅典娜](./02_deities/greek/athena.md)
+- [宙斯](./02_deities/greek/zeus.md)
+- [奥丁](./02_deities/norse/odin.md)
+- [索尔](./02_deities/norse/thor.md)
+- [阿耆尼](./02_deities/vedic/agni.md)
+- [因陀罗](./02_deities/vedic/indra.md)
+
+## 文明与通道
+
+- [文明与诸神域](./03_civilizations/README.md)
+- [文明通道](./03_civilizations/corridors.md)
+- [中国神话与宗教传统](./03_civilizations/chinese.md)
+- [希腊神话与祭祀传统](./03_civilizations/greek.md)
+- [北欧神话传统](./03_civilizations/norse.md)
+- [吠陀传统](./03_civilizations/vedic.md)
+
+## 众神殿周围
+
+- [英雄长廊](./04_heroes/README.md)
+- [圣物宝库](./05_relics/README.md)
+- [异兽庭院](./06_beasts/README.md)
+- [神域与地点](./07_places/README.md)
+- [神话剧场](./08_myths/README.md)
+- [静默长廊](./09_silent-gallery/README.md)
+
+## 来源
+
+- [来源规则](./99_sources/README.md)
+- [书目与原典节点](./99_sources/bibliography.md)
