@@ -37,5 +37,8 @@
 | [奥丁悬树得符文](./norse/odin-wins-runes.md) | 北欧 | 身体、九夜、自我献祭与知识代价 |
 | [妙尔尼尔失窃](./norse/the-theft-of-mjolnir.md) | 北欧 | 失去力量、拒绝、乔装、仪式与取回 |
 | [因陀罗击弗栗多](./vedic/indra-and-vritra.md) | 吠陀 | 雷击破障并让被封闭的水重新流动 |
+| [奥西里斯之死、寻回与复苏](./egyptian/osiris-death-and-revival.md) | 古埃及 | 跨文本的尸体破坏、哀悼、复苏、继承与死后王权 |
+| [荷鲁斯与塞特争位](./egyptian/contendings-of-horus-and-seth.md) | 古埃及 | 亲子继承、力量、法庭、身体竞争与反复裁决 |
+| [太阳夜航](./egyptian/solar-night-journey.md) | 古埃及 | 太阳穿行杜阿特、结合死亡力量、抵抗阻断并于黎明更新 |
 
 这些事件可以被比较，却不会被拼成一条虚构的全球神话年表。神话剧场展示的是每份材料如何组织危机、行动和结果。

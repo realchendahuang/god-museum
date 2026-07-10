@@ -42,6 +42,9 @@ domains:
 - [宙斯](../02_deities/greek/zeus.md)：继承预言推动吞下墨提斯，证明统治者也会被未来威胁塑造。
 - [雅典娜的诞生](../08_myths/greek/birth-of-athena.md)：预言、控制与新神诞生之间的具体事件。
 - [奥丁悬树得符文](../08_myths/norse/odin-wins-runes.md)：知识代价与时间持续性，但不把符文等同于全知预言。
+- [托特](../02_deities/egyptian/thoth.md)：月相、历法与记录让时间可计算，不意味着预定全部未来。
+- [玛阿特](../02_deities/egyptian/maat.md)：世界持续运行所需的正当关系，不是人格化宿命。
+- [太阳夜航](../08_myths/egyptian/solar-night-journey.md)：每夜重复的十二时把循环时间、死亡与更新连成具体行动。
 
 ## 本殿设定
 

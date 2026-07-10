@@ -1,6 +1,157 @@
 # 书目与原典节点
 
-访问日期：2026-07-10。
+访问日期：2026-07-11。
+
+## 古埃及
+
+### source.ucl.digital-egypt.deities-framework
+
+- 等级：S2（大学博物馆与教学项目）
+- 机构：University College London, Digital Egypt for Universities
+- 页面：*Gods and goddesses in ancient Egypt*
+- 支持：神名应在 cosmic、political、mythic 三个维度中理解；神名可以发生 fission 与 fusion；动物头和混合形态表达主题、行动与权柄，不能当作固定“物种外貌”。
+- 限制：这是编目框架和材料导引，不替代具体原典、器物和地方神庙证据。
+- 访问：[UCL Digital Egypt](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiesindex.html)
+
+### source.ucl.digital-egypt.creation
+
+- 等级：S2（大学博物馆与教学项目）
+- 机构：University College London, Digital Egypt for Universities
+- 页面：*Gods and goddesses in Ancient Egypt: creation*
+- 支持：埃及创世材料包含多套并存的隐喻；《棺材文》76 的八位原初力量；拉—阿图姆从原初水域显现；舒、泰芙努特、盖布、努特直至奥西里斯—荷鲁斯神谱；不存在一份古埃及文本把全部创世母题写成统一叙事。
+- 限制：“赫尔莫波利斯神学”“赫利奥波利斯神学”是现代研究标签，不能假定它们在古代始终是互斥的固定体系。
+- 访问：[UCL Digital Egypt](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html)
+
+### source.ucl.digital-egypt.places
+
+- 等级：S2（大学博物馆与教学项目）
+- 机构：University College London, Digital Egypt for Universities
+- 页面：*The main names at the main places*
+- 支持：城市主神与个人命名的关系；地方宗教地图随时代改变；哈索尔、荷鲁斯、塞特、阿蒙、阿努比斯、奥西里斯、拉和托特等神在具体城市与神庙中的位置；吸收与复合神格必须保留地方路径。
+- 限制：这份列表展示地方主神分布，不等于“最重要埃及神排行榜”。
+- 访问：[UCL Digital Egypt](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiesplaces.html)
+
+### source.ucl.digital-egypt.daily-cult
+
+- 等级：S2（含 P1 仪式、铭文与纸草节点导引）
+- 机构：University College London, Digital Egypt for Universities
+- 页面：*Daily Offering Ritual in ancient Egyptian temples*
+- 原始材料：塞提一世阿拜多斯神庙图像与铭文；Berlin Papyri 3014、3053、3055
+- 支持：每日供奉通过神像这一可接近媒介向神圣力量服务；仪式意在维持宇宙结构与运行；Berlin Papyrus 3055 保存阿蒙祭仪，包括开龛、焚香、衣饰、涂油、献水与献上玛阿特。
+- 限制：仪式有神庙、时代与职司边界，不应写成所有埃及人在家中每天执行的统一礼拜。
+- 访问：[UCL Digital Egypt](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/dailycult.html)
+
+### source.allen.pyramid-texts
+
+- 等级：P1 / S1（原始语料的研究型译本）
+- 作者：James P. Allen
+- 作品：*The Ancient Egyptian Pyramid Texts*
+- 出版：Society of Biblical Literature, 2005
+- 支持：乌纳斯及古王国王室金字塔中的丧葬言说、王的升天与奥西里斯化，以及拉、荷鲁斯、奥西里斯、阿努比斯等神在古王国丧葬文本中的关系。
+- 限制：“金字塔文”是现代语料名称；不同金字塔、言说和排列不能合成一篇连续神话。
+
+### source.faulkner.coffin-texts
+
+- 等级：P1 / S1（原始语料的研究型译本）
+- 作者：R. O. Faulkner
+- 作品：*The Ancient Egyptian Coffin Texts*, 3 vols.
+- 出版：Aris & Phillips, 1973–1978
+- 支持：中王国木棺等媒介上的丧葬言说、八位原初力量、《棺材文》335 及其后来进入《亡灵书》17 的文本连续性。
+- 限制：语料持续发现与重编；不能把三卷译本当作古代已经固定的一本书。
+
+### source.scalf.book-of-the-dead
+
+- 等级：S1 / S2（大学博物馆研究出版物，含 P1 器物目录）
+- 主编：Foy Scalf
+- 作品：*Book of the Dead: Becoming God in Ancient Egypt*
+- 出版：Oriental Institute Museum Publications 39, University of Chicago, 2017
+- 支持：“亡灵书”是现代名称，古代常称“白昼出行之书／咒语”；它不是首尾连续的单一叙事，而是跨纸草、裹尸布、棺椁、护符、墓壁等媒介的可变咒语集合；金字塔文、棺材文与亡灵书处在有继承也有创新的连续传统中。
+- 访问：[University of Chicago PDF](https://oi-idb-static.uchicago.edu/multimedia/239131/oimp39.pdf)
+
+### source.book-of-dead.spell-17
+
+- 等级：P1 / S1
+- 作品：《亡灵书》咒语 17
+- 版本：不同纸草、棺椁与时期存在异文；参见 Foy Scalf 编 2017 年目录及 R. O. Faulkner 译本
+- 支持：拉—阿图姆、奥西里斯传统、荷鲁斯与塞特的争斗、荷鲁斯之眼受损与修复，以及阿佩普受制等彼此叠合的神学注释。
+- 限制：第 17 咒本身就是跨时期增注和变体密集的文本，不能用单一现代译句封闭所有版本。
+
+### source.book-of-dead.spell-125
+
+- 等级：P1 / S1
+- 作品：《亡灵书》咒语 125 及审判图像
+- 版本：不同纸草与墓葬图像存在变体；参见 Foy Scalf 编 2017 年第 1、4、11 章与器物目录
+- 支持：死者进入“两真理厅”、心与玛阿特之羽的衡量、阿努比斯主持天平、托特记录结果、奥西里斯主持审判，以及阿米特作为不利判决后的吞噬威胁。
+- 限制：常见图像布局不是唯一不变版本；四十二位审判者、宣告文本和人物位置应按具体抄本记录。
+- 访问：[University of Chicago PDF](https://oi-idb-static.uchicago.edu/multimedia/239131/oimp39.pdf)
+
+### source.book-of-dead.spell-151
+
+- 等级：P1 / S1
+- 作品：《亡灵书》咒语 151 及魔砖传统
+- 支持：阿努比斯的墓室保护、四方位魔砖与护符实践；杰德柱可与西方魔砖及护卫咒语结合，但实际墓葬做法不总与纸草指令一致。
+- 器物节点：OIM E6330A、E6401、E6786、E6792 等，见 Scalf 2017 目录 21–23。
+- 限制：不得用一件魔砖或一根杰德柱概括所有时代的葬仪。
+
+### source.chester-beatty-i.contendings
+
+- 等级：P1 / S1（拉美西斯时期纸草及研究型译本）
+- 作品：《荷鲁斯与塞特之争》（Papyrus Chester Beatty I, recto）
+- 时期：拉美西斯时期抄本
+- 版本：Miriam Lichtheim, *Ancient Egyptian Literature*, vol. II, pp. 214–223；亦参见 UCL Digital Egypt 创世页面的文本导引
+- 支持：奥西里斯王位继承争议、荷鲁斯与塞特在诸神法庭及多轮竞争中的对抗、伊西斯的策略性介入，以及裁决反复延宕。
+- 限制：这是争位传统中篇幅最长的保存版本之一，不是唯一“标准剧情”。
+
+### source.heavenly-cow.destruction
+
+- 等级：P1 / S1（新王国墓葬文本及研究型译本）
+- 作品：《天牛之书》中的“毁灭人类”段落
+- 版本：Miriam Lichtheim, *Ancient Egyptian Literature*, vol. II, pp. 197–199；参见 UCL Digital Egypt 创世页面
+- 支持：拉之眼作为女神力量惩罚叛乱人类，塞赫麦特的毁灭面相，以及以染红啤酒使其停止杀戮并回到哈索尔关联面相的叙事。
+- 限制：哈索尔与塞赫麦特的关系应按文本语境标作 aspect-of / syncretism 讨论，不能据此宣布所有时期二者完全同一。
+
+### source.amduat.solar-night-journey
+
+- 等级：P1 / S1
+- 作品：《阿姆杜阿特》（“冥界之中者之书”）
+- 版本：Erik Hornung, *The Ancient Egyptian Books of the Afterlife*, Cornell University Press, 1999；Scalf 2017 第 11–12 章
+- 支持：太阳神在夜间穿行十二时、与奥西里斯之体结合并更新、遭遇并制伏阿佩普，最终在清晨再生的结构。
+- 限制：阿姆杜阿特最初进入新王国王室墓葬语境，后来才以不同媒介和删节形式扩散；它与《亡灵书》不是同一本书。
+
+### source.leiden-i-350.amun
+
+- 等级：P1 / S1
+- 作品：Leiden Papyrus I 350 阿蒙赞歌
+- 时期：新王国后期抄本
+- 版本：Jan Assmann, *Egyptian Solar Religion in the New Kingdom*, 1995，及相关莱顿纸草出版
+- 支持：阿蒙作为“隐者”、多名与多形的普遍神力，以及阿蒙—拉复合神格在新王国神学中的展开。
+- 限制：赞歌神学不能倒推为中王国以前所有地区都已接受的统一阿蒙教义。
+
+### source.ucl.egyptian-sites
+
+- 等级：S2（大学考古与博物馆项目，链接 P1 遗址与器物记录）
+- 机构：University College London, Digital Egypt for Universities
+- 范围：[赫利奥波利斯／Iunu（下埃及第十三省）](https://www.ucl.ac.uk/museums-static/digitalegypt/geo/nomel13.html) · [阿拜多斯](https://www.ucl.ac.uk/museums-static/digitalegypt/abydos/index.html) · [底比斯](https://www.ucl.ac.uk/museums-static/digitalegypt/thebes/index.html)
+- 支持：神话地点必须与真实城市、神庙、墓地、考古保存和时代变化并置；赫利奥波利斯是拉—阿图姆传统的重要祭祀中心，阿拜多斯的地方神与奥西里斯传统发生历史吸收，底比斯支撑阿蒙崛起的地方政治语境。
+- 限制：神话地理和考古地点相连但不等同；“杜阿特”不是可直接标在现代地图上的地下城市。
+
+### source.allen.middle-egyptian.ankh
+
+- 等级：S1（语言学教材）
+- 作者：James P. Allen
+- 作品：*Middle Egyptian: An Introduction to the Language and Culture of Hieroglyphs*, 3rd ed.
+- 出版：Cambridge University Press, 2014
+- 定位：ꜥnḫ“生活、活着”及 Gardiner S34 符号的语言用法
+- 支持：安卡首先是可书写“生命／活着”的埃及语符号，也可作为物件、护符和神手中的图像元素。
+- 限制：语言意义不能自动说明每一件安卡护符的具体仪式用途。
+
+### source.met.ankh-objects
+
+- 等级：P1 / S2（博物馆器物与编目记录）
+- 机构：The Metropolitan Museum of Art, Egyptian Art
+- 器物：[安卡护符模具 11.215.711](https://www.metmuseum.org/art/collection/search/559134)，第十八王朝，约公元前 1390–1352 年；[持安卡与连枷的女神／王后护符 41.160.136](https://www.metmuseum.org/art/collection/search/546148)，第十八王朝晚期
+- 支持：安卡不仅存在于文字中，也被制成护符、模具并由神圣／王权人物持有；器物的材料、年代与出土地可以具体追踪。
+- 限制：博物馆标题中的人物识别若带斜线或问号，应保留不确定性；两件器物不能代表全部安卡用途。
 
 ## 中国
 

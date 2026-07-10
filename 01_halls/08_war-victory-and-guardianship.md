@@ -41,8 +41,11 @@ domains:
 | [因陀罗](../02_deities/vedic/indra.md) | 战斗只有在破障并释放水流后才完成 |
 | [奥丁](../02_deities/norse/odin.md) | 战争选择、阵亡者与未来准备互相牵连 |
 | [赫拉克勒斯](../04_heroes/heracles.md) | 功业、苦难和神化不能被纯力量排名取代 |
+| [荷鲁斯](../02_deities/egyptian/horus.md) | 王位争斗、身体受损、修复与合法继承共同定义胜利 |
+| [塞特](../02_deities/egyptian/seth.md) | 既是奥西里斯杀害者和争位者，也在特定太阳船文本中承担危险守护力量 |
+| [法老（王权角色）](../04_heroes/egyptian/pharaoh.md) | 王权图像中的击敌与边境保护必须与具体历史战争分开 |
 
-[泰坦战争](../08_myths/greek/titanomachy.md)、[妙尔尼尔失窃](../08_myths/norse/the-theft-of-mjolnir.md)和[因陀罗击弗栗多](../08_myths/vedic/indra-and-vritra.md)分别展示战争如何服务于继承、守护与放水；相似的战斗表面没有产生同一种胜利。
+[泰坦战争](../08_myths/greek/titanomachy.md)、[妙尔尼尔失窃](../08_myths/norse/the-theft-of-mjolnir.md)、[因陀罗击弗栗多](../08_myths/vedic/indra-and-vritra.md)和[荷鲁斯与塞特争位](../08_myths/egyptian/contendings-of-horus-and-seth.md)分别展示战争如何服务于继承、守护、放水与法庭承认；相似的战斗表面没有产生同一种胜利。
 
 ## 本殿设定
 

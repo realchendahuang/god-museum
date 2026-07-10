@@ -15,10 +15,23 @@ const docs: DocEntry[] = await getCollection('docs')
 const halls = docs
   .filter(entry => entry.data.type === 'hall')
   .sort((a, b) => a.id.localeCompare(b.id))
+const featuredDeityIds = [
+  'deity.chinese.leigong',
+  'deity.chinese.nvwa',
+  'deity.greek.zeus',
+  'deity.greek.athena',
+  'deity.norse.thor',
+  'deity.norse.odin',
+  'deity.vedic.indra',
+  'deity.vedic.agni',
+  'deity.egyptian.ra',
+  'deity.egyptian.osiris',
+  'deity.egyptian.isis',
+  'deity.egyptian.maat'
+]
 const deities = docs
-  .filter(entry => entry.data.type === 'deity')
-  .sort((a, b) => a.id.localeCompare(b.id))
-  .slice(0, 8)
+  .filter(entry => entry.data.type === 'deity' && featuredDeityIds.includes(entry.data.id || ''))
+  .sort((a, b) => featuredDeityIds.indexOf(a.data.id || '') - featuredDeityIds.indexOf(b.data.id || ''))
 
 const domainLabels: Record<string, string> = {
   chaos: '混沌', creation: '创世', primordial: '原初', cosmogony: '宇宙起源', ancestry: '始祖',

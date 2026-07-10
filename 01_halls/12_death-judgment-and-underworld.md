@@ -39,6 +39,12 @@ domains:
 - [奥丁](../02_deities/norse/odin.md)与[瓦尔哈拉](../07_places/valhalla.md)：阵亡者、选择与未来准备相连，不代表所有死者去向。
 - [赫拉克勒斯](../04_heroes/heracles.md)：《奥德赛》中冥界影像与不死身份并置，迫使档案同时保存死亡和神化。
 - [奥丁悬树得符文](../08_myths/norse/odin-wins-runes.md)：在死亡边界上求知，但不是普通亡者的来世路线。
+- [奥西里斯](../02_deities/egyptian/osiris.md)：被杀与复苏后的死者王权、审判和死亡王—在位王继承结构。
+- [阿努比斯](../02_deities/egyptian/anubis.md)：防腐、尸体保护、引导与称心天平职司；不是冥界最高统治者。
+- [玛阿特](../02_deities/egyptian/maat.md)与[托特](../02_deities/egyptian/thoth.md)：分别提供衡量尺度和记录裁决，不与审判主持者合并。
+- [杜阿特](../07_places/egyptian/duat.md)：太阳夜航、奥西里斯王国、门、守卫和死者转化的多版本空间。
+- [阿米特](../06_beasts/egyptian/ammit.md)：只在不利判决后发挥有限吞噬权能，不是可离开法庭的战兽。
+- [太阳夜航](../08_myths/egyptian/solar-night-journey.md)：死亡不是静止终点，也可成为每日更新必须经过的时段。
 
 ## 本殿设定
 

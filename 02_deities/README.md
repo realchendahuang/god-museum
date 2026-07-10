@@ -24,6 +24,21 @@
 - [因陀罗](./vedic/indra.md)
 - [阿耆尼](./vedic/agni.md)
 
+### 古埃及传统
+
+- [拉](./egyptian/ra.md)
+- [奥西里斯](./egyptian/osiris.md)
+- [伊西斯](./egyptian/isis.md)
+- [荷鲁斯](./egyptian/horus.md)
+- [塞特](./egyptian/seth.md)
+- [阿努比斯](./egyptian/anubis.md)
+- [托特](./egyptian/thoth.md)
+- [哈索尔](./egyptian/hathor.md)
+- [玛阿特](./egyptian/maat.md)
+- [阿蒙](./egyptian/amun.md)
+
+古埃及神座额外执行“裂分与融合”规则：荷鲁斯的不同面相先标记 aspect-of，阿蒙—拉等复合神格标记 syncretism；动物头和混合形态按图像主题、动作和器物语境解释。
+
 ## 新建档案
 
 请从 GitHub 复制 [_template.md](https://github.com/realchendahuang/god-museum/blob/main/02_deities/_template.md)，确定稳定 ID 后再写正文。

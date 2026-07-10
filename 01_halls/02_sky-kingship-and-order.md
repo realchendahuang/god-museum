@@ -40,8 +40,12 @@ domains:
 | [雅典娜](../02_deities/greek/athena.md) | 墨提斯、继承预言与宙斯新秩序 | 与王权紧密相连但拥有独立判断 |
 | [雷公](../02_deities/chinese/leigong.md) | 后世雷罚与秩序观念的次要入口 | 不是天空神王，早期护卫面相不可删 |
 | [因陀罗](../02_deities/vedic/indra.md) | 强大神祇、战斗与部分天界秩序 | 吠陀地位不能只用后世“天帝”职位解释 |
+| [荷鲁斯](../02_deities/egyptian/horus.md) | 活王身份、奥西里斯继承与两地王权 | 不同荷鲁斯面相和地方中心必须分层 |
+| [玛阿特](../02_deities/egyptian/maat.md) | 真理、正当秩序、称心与王权合法性 | 不是跨文明统一法律或现代因果报应 |
+| [阿蒙](../02_deities/egyptian/amun.md) | 底比斯地方神扩展为国家与普遍神力 | 新王国普遍性不能倒投为永恒最高神 |
+| [法老（王权角色）](../04_heroes/egyptian/pharaoh.md) | 荷鲁斯身份、拉之子与玛阿特执行者 | 是制度角色和具体历史人物，不是一位抽象神 |
 
-相关事件包括[泰坦战争](../08_myths/greek/titanomachy.md)和[雅典娜的诞生](../08_myths/greek/birth-of-athena.md)。它们分别展示王权如何通过战争、盟友、分配和继承控制形成。
+相关事件包括[泰坦战争](../08_myths/greek/titanomachy.md)、[雅典娜的诞生](../08_myths/greek/birth-of-athena.md)和[荷鲁斯与塞特争位](../08_myths/egyptian/contendings-of-horus-and-seth.md)。它们分别展示王权如何通过战争与分配、继承控制，以及血缘—法庭—力量之间的漫长裁决形成。
 
 ## 本殿设定
 

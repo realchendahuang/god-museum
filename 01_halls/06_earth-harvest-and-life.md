@@ -38,6 +38,9 @@ domains:
 - [女娲](../02_deities/chinese/nvwa.md)：当前以灾后复序为核心，造人与生命权柄仍需更多来源，因此只从次要入口进入本殿。
 - [大禹](../04_heroes/yu-the-great.md)：不是土地神，却通过恢复平土与人群定居让生命条件重新成立。
 - [女娲补天](../08_myths/chinese/nvwa-mends-heaven.md)：天、地、水与猛兽失序如何共同威胁人间生活。
+- [奥西里斯](../02_deities/egyptian/osiris.md)：尸体复苏、死者持续和后续植物／谷物关联必须按文本与仪式分层，不能缩写成“春天复活神”。
+- [伊西斯](../02_deities/egyptian/isis.md)：寻找、哀悼、保护幼子与治疗让生命权柄成为连续行动。
+- [哈索尔](../02_deities/egyptian/hathor.md)：母性、滋养、感官力量和太阳之眼的危险面相共同存在。
 
 ## 本殿设定
 

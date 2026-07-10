@@ -25,6 +25,7 @@ const TYPE_LABELS: Record<string, string> = {
   foundation: '设定基石',
   source: '来源',
   hero: '英雄',
+  royal_actor: '王权行动者',
   relic: '圣物',
   being: '异兽',
   place: '地点',
@@ -136,7 +137,8 @@ export function traditionLabel(tradition?: string): string {
     'tradition.chinese': '中国',
     'tradition.greek': '希腊',
     'tradition.norse': '北欧',
-    'tradition.vedic': '吠陀'
+    'tradition.vedic': '吠陀',
+    'tradition.egyptian': '古埃及'
   }
   return tradition ? labels[tradition] || tradition.replace('tradition.', '') : ''
 }
