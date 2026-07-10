@@ -29,3 +29,12 @@ source_status: partial
 
 - [雷公](../02_deities/chinese/leigong.md)
 - [女娲](../02_deities/chinese/nvwa.md)
+
+## 关联馆藏
+
+- 英雄：[大禹](../04_heroes/yu-the-great.md)
+- 圣物：[五色石](../05_relics/five-colored-stones.md)
+- 异兽：[黑龙](../06_beasts/black-dragon.md)
+- 神话事件：[女娲补天](../08_myths/chinese/nvwa-mends-heaven.md)
+
+这组馆藏目前围绕“灾变后的复序”形成第一条中国传统阅读路径：女娲修补天地结构，大禹疏导洪水并恢复人间定居。二者可以比较，却来自不同文本、时代与行动逻辑。

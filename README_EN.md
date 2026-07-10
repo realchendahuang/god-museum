@@ -321,9 +321,16 @@ The setting now operates as a real, connected content repository:
 - [The Twelve Halls of Domain](./01_halls/README.md)
 - [Divine Seat records](./02_deities/README.md)
 - [Civilizations, Mythic Realms, and Corridors](./03_civilizations/README.md)
+- [Gallery of Heroes](./04_heroes/README.md)
+- [Treasury of Relics](./05_relics/README.md)
+- [Court of Beings](./06_beasts/README.md)
+- [Mythic Realms and Places](./07_places/README.md)
+- [Theater of Myths](./08_myths/README.md)
 - [Bibliography and source nodes](./99_sources/bibliography.md)
 
 Eight formal Divine Seats now exist: Leigong, Nüwa, Zeus, Athena, Thor, Odin, Indra, and Agni. The first fully connected hall is the [Hall of Thunder, Wind, Rain, and Fire](./01_halls/04_thunder-wind-rain-and-fire.md). Leigong, Zeus, Thor, and Indra share parts of the thunder domain without being collapsed into one being; Agni enters the same hall through the separate path of sacrificial fire and divine mediation.
+
+The seats now open into a wider collection rather than ending as isolated biographies. Yu the Great and Heracles anchor the Gallery of Heroes; the five-colored stones, Zeus's thunderbolt, Mjölnir, and the vajra form the first relic network; Vṛtra and the fragmentary Black Dragon open the Court of Beings; Valhalla, Þrúðvangr/Bilskírnir, and the Pantheon itself establish the first place records; six sourced events now connect deities, heroes, relics, beings, and halls inside the Theater of Myths.
 
 The archive documents are currently Chinese-first. Stable IDs and links are language-neutral so that translations can be added without changing the canon.
 

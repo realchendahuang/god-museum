@@ -51,10 +51,27 @@
 ## 众神殿周围
 
 - [英雄长廊](./04_heroes/README.md)
+  - [大禹](./04_heroes/yu-the-great.md)
+  - [赫拉克勒斯](./04_heroes/heracles.md)
 - [圣物宝库](./05_relics/README.md)
+  - [五色石](./05_relics/five-colored-stones.md)
+  - [宙斯的雷霆](./05_relics/zeus-thunderbolt.md)
+  - [妙尔尼尔](./05_relics/mjolnir.md)
+  - [金刚杵](./05_relics/vajra.md)
 - [异兽庭院](./06_beasts/README.md)
+  - [弗栗多](./06_beasts/vritra.md)
+  - [黑龙](./06_beasts/black-dragon.md)
 - [神域与地点](./07_places/README.md)
+  - [瓦尔哈拉](./07_places/valhalla.md)
+  - [Þrúðvangr 与 Bilskírnir](./07_places/thrudvangr-bilskirnir.md)
+  - [众神殿](./07_places/pantheon.md)
 - [神话剧场](./08_myths/README.md)
+  - [女娲补天](./08_myths/chinese/nvwa-mends-heaven.md)
+  - [泰坦战争](./08_myths/greek/titanomachy.md)
+  - [雅典娜的诞生](./08_myths/greek/birth-of-athena.md)
+  - [奥丁悬树得符文](./08_myths/norse/odin-wins-runes.md)
+  - [妙尔尼尔失窃](./08_myths/norse/the-theft-of-mjolnir.md)
+  - [因陀罗击弗栗多](./08_myths/vedic/indra-and-vritra.md)
 - [静默长廊](./09_silent-gallery/README.md)
 
 ## 来源

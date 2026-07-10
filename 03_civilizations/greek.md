@@ -30,3 +30,11 @@ source_status: partial
 
 - [宙斯](../02_deities/greek/zeus.md)
 - [雅典娜](../02_deities/greek/athena.md)
+
+## 关联馆藏
+
+- 英雄：[赫拉克勒斯](../04_heroes/heracles.md)
+- 圣物：[宙斯的雷霆](../05_relics/zeus-thunderbolt.md)
+- 神话事件：[泰坦战争](../08_myths/greek/titanomachy.md)、[雅典娜的诞生](../08_myths/greek/birth-of-athena.md)
+
+当前希腊馆藏围绕“秩序如何继承”建立网络：宙斯从神代战争进入权能分配，雅典娜从继承预言与被吞下的谋略中诞生，赫拉克勒斯则把宙斯亲缘延伸到英雄功业、死亡与神化边界。

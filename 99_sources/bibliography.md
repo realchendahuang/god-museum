@@ -31,6 +31,24 @@
 - 限制：该段直接支持补天与复序，不足以单独证明后世造人、婚姻、伏羲关系和全部图像传统。
 - 访问：[中国哲学书电子化计划](https://ctext.org/huainanzi/lan-ming-xun/zh)
 
+### source.mengzi.tengwengong2.yu-flood
+
+- 等级：P1
+- 作品：《孟子·滕文公下》
+- 定位：“当尧之时，水逆行，泛滥于中国”至“然后人得平土而居之”一段
+- 支持：洪水造成的生存危机、禹受命治水、疏导江淮河汉、驱逐蛇龙，以及人群重新获得平土定居的叙事。
+- 限制：该段强调治水行动与人间秩序恢复，不足以单独覆盖夏王朝谱系、全部家族故事或后世神化。
+- 访问：[中国哲学书电子化计划](https://ctext.org/mengzi/teng-wen-gong-ii/zh)
+
+### source.mengzi.lilou2.yu-three-pass
+
+- 等级：P1
+- 作品：《孟子·离娄下》
+- 定位：“禹、稷当平世，三过其门而不入”一段
+- 支持：后世广泛流传的“三过家门而不入”在《孟子》中的明确文本节点，以及孟子对其行为所作的伦理评价。
+- 限制：该段是战国时期的伦理论述，不应被改写成对治水全过程的现场记录。
+- 访问：[中国哲学书电子化计划](https://ctext.org/mengzi/li-lou-ii/zh)
+
 ## 希腊
 
 ### source.hesiod.theogony.139-146
@@ -94,6 +112,25 @@
 - 支持：雅典娜全副武装从宙斯头部诞生，以及众神、大地、海洋和太阳对神显的反应。
 - 版本提示：在线访问为 Hugh G. Evelyn-White 英译，正式中文引文仍需标明所用中译本或项目自译。
 - 访问：[Theoi Classical Texts Library](https://www.theoi.com/Text/HomericHymns3.html#28)
+
+### source.hesiod.theogony.950-955
+
+- 等级：P1
+- 作者：赫西俄德
+- 作品：《神谱》
+- 定位：950–955 行
+- 支持：宙斯与阿尔克墨涅所生的赫拉克勒斯、艰苦功业完成后的神化位置，以及他与赫柏的婚姻。
+- 限制：该段不逐项叙述十二功业，不能替代其他史诗、抒情诗、悲剧、图像与神话汇编中的版本。
+- 访问：[Harvard Center for Hellenic Studies](https://chs.harvard.edu/primary-source/hesiod-theogony-sb/)
+
+### source.homer.odyssey.11.601-604
+
+- 等级：P1
+- 作品：《奥德赛》
+- 定位：第 11 卷 601–604 行附近
+- 支持：奥德修斯在冥界看见赫拉克勒斯的影像，同时诗句又说明赫拉克勒斯本人已在不死神中；呈现其死亡与神化并置的复杂状态。
+- 版本提示：不同校本对相关诗行的插入性质存在讨论；条目应保留这一文本问题，不把它当作毫无争议的单一结论。
+- 访问：[Perseus Digital Library，原文定位至 11.601](https://www.perseus.tufts.edu/hopper/text?doc=Hom.%20Od.%2011.601&lang=original)
 
 ## 北欧
 

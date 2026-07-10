@@ -28,3 +28,11 @@ source_status: partial
 
 - [因陀罗](../02_deities/vedic/indra.md)
 - [阿耆尼](../02_deities/vedic/agni.md)
+
+## 关联馆藏
+
+- 圣物：[金刚杵](../05_relics/vajra.md)
+- 异兽：[弗栗多](../06_beasts/vritra.md)
+- 神话事件：[因陀罗击弗栗多](../08_myths/vedic/indra-and-vritra.md)
+
+当前吠陀馆藏展示两种完全不同的通行方式：阿耆尼通过祭火、言语和召请建立神人道路；因陀罗通过雷击、战斗和破障让被封闭的水重新流动。共同进入雷火殿不表示两者属于同一功能链。

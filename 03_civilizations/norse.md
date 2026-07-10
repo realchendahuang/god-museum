@@ -29,3 +29,11 @@ source_status: partial
 
 - [索尔](../02_deities/norse/thor.md)
 - [奥丁](../02_deities/norse/odin.md)
+
+## 关联馆藏
+
+- 圣物：[妙尔尼尔](../05_relics/mjolnir.md)
+- 地点：[瓦尔哈拉](../07_places/valhalla.md)、[Þrúðvangr 与 Bilskírnir](../07_places/thrudvangr-bilskirnir.md)
+- 神话事件：[奥丁悬树得符文](../08_myths/norse/odin-wins-runes.md)、[妙尔尼尔失窃](../08_myths/norse/the-theft-of-mjolnir.md)
+
+当前北欧馆藏刻意形成两条互补路径：奥丁以知识代价、阵亡者与未来进入档案；索尔以身体、圣物、失而复得与持续守护进入档案。二者共同属于北欧诸神域，却不共享同一种权威。
