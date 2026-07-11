@@ -58,6 +58,9 @@ domains:
 - [烛龙](../06_beasts/chinese/zhulong.md)：以开闭目组织明暗的宇宙身体，显示原初秩序未必来自一次创世行为。
 - [太一／东皇太一](../02_deities/chinese/taiyi.md)：从《九歌》祭歌、宇宙论概念到汉代高位天神保持 disputed，不把“一”自动解释为创世人格。
 - [天／昊天](../02_deities/chinese/tian-haotian.md)：只有具体文本明确把天写成有意志行动者时才进入本殿，不将天空、自然与人格神无条件合并。
+- [元始天尊](../02_deities/chinese/yuanshi-tianzun.md)：以灵宝经系开劫、说经和度人进入，不倒投为商周唯一造物主。
+- [太上老君](../02_deities/chinese/taishang-laojun.md)与[灵宝天尊](../02_deities/chinese/lingbao-tianzun.md)：通过后起三清宇宙论进入，保留天师道、灵宝经系和三清定型的时代差异。
+- [三清境](../07_places/chinese/sanqing-realms.md)与[三清秩序形成](../08_myths/chinese/lingbao-three-purities.md)：显示“最高诸天”也有经典分类、神谱编纂和宫观空间化的形成史。
 
 ## 美索不达米亚馆藏
 

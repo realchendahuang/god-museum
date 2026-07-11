@@ -71,7 +71,17 @@ setting_status: established
 
 ### 4. 道教诸传统
 
-早期天师道、上清、灵宝、唐宋斋醮、神霄与雷法、全真和地方道坛拥有不同经典、祖师和神圣官署。“三清—四御—雷部—斗府”不是从上古完整流传的一张组织图。正式接入时将分别标注经书、仪式职能和形成时期。
+早期天师道、上清、灵宝、唐宋斋醮、神霄与雷法、全真和地方道坛拥有不同经典、祖师和神圣官署。“三清—四御—雷部—斗府”不是从上古完整流传的一张组织图。本馆现已建立第一组历史层：
+
+- [太上老君／道德天尊](../02_deities/chinese/taishang-laojun.md)从东汉老子神化、天师道启示者进入后起太清尊神，不把哲学作者、宗教神与文学炼丹师混成一人；
+- [张道陵／祖天师](../04_heroes/chinese/zhang-daoling.md)、[鹤鸣山／鹄鸣山](../07_places/chinese/heming-mountain.md)和[老君授道传统](../08_myths/chinese/celestial-master-covenant.md)并列外部史书、共同体圣史与现代地理争议；
+- [三官大帝](../02_deities/chinese/sanguan-dadi.md)从《典略》三官手书进入，后世赐福、赦罪、解厄与三元节序另列发展层；
+- [《老子想尔注》](../05_relics/chinese/laozi-xianger.md)保存敦煌残卷、早期天师道注释和作者归属争议，不把转录文本当作完整天书；
+- [元始天尊](../02_deities/chinese/yuanshi-tianzun.md)、[灵宝天尊／太上道君](../02_deities/chinese/lingbao-tianzun.md)、[太上老君](../02_deities/chinese/taishang-laojun.md)通过[灵宝经系与三清秩序形成](../08_myths/chinese/lingbao-three-purities.md)进入，不伪造远古三神会议；
+- [《真灵位业图》](../05_relics/chinese/zhenling-weiye-tu.md)和[三清境](../07_places/chinese/sanqing-realms.md)分别展示神谱排序与空间化，提醒每张等级图都有编纂年代；
+- [玉皇大帝](../02_deities/chinese/yuhuang-shangdi.md)通过[宋代玉皇尊号与国家礼制重组](../08_myths/chinese/song-jade-emperor-state-cult.md)进入。宋廷试图把玉皇大天帝与昊天上帝“致一”本身就是历史事件，不证明二者自古同一。
+
+这一层仍未代表全部道教。上清女仙、斗母与星斗、雷部法神、东岳冥司、全真祖师和具体地方道坛将在各自经典、科仪和地域来源建立后再接入。
 
 ### 5. 佛教传播与中国化
 
@@ -142,14 +152,19 @@ setting_status: established
 - [社与稷／社稷](../02_deities/chinese/sheji.md)
 - [河伯](../02_deities/chinese/hebo.md)
 - [太一／东皇太一](../02_deities/chinese/taiyi.md)
+- [太上老君／道德天尊](../02_deities/chinese/taishang-laojun.md)
+- [元始天尊](../02_deities/chinese/yuanshi-tianzun.md)
+- [灵宝天尊／太上道君](../02_deities/chinese/lingbao-tianzun.md)
+- [玉皇大帝／玉皇上帝](../02_deities/chinese/yuhuang-shangdi.md)
+- [三官大帝](../02_deities/chinese/sanguan-dadi.md)
 
 ## 关联馆藏
 
-- 英雄：[大禹](../04_heroes/yu-the-great.md)、[黄帝](../04_heroes/chinese/huangdi.md)、[蚩尤](../04_heroes/chinese/chiyou.md)、[羿](../04_heroes/chinese/yi.md)、[夸父](../04_heroes/chinese/kuafu.md)、[后稷](../04_heroes/chinese/houji.md)
-- 圣物与物质档案：[五色石](../05_relics/five-colored-stones.md)、[不死之药](../05_relics/chinese/elixir-of-immortality.md)、[息壤](../05_relics/chinese/xirang.md)、[商代甲骨卜辞](../05_relics/chinese/oracle-bones.md)、[青铜鼎](../05_relics/chinese/bronze-ding.md)
+- 英雄：[大禹](../04_heroes/yu-the-great.md)、[黄帝](../04_heroes/chinese/huangdi.md)、[蚩尤](../04_heroes/chinese/chiyou.md)、[羿](../04_heroes/chinese/yi.md)、[夸父](../04_heroes/chinese/kuafu.md)、[后稷](../04_heroes/chinese/houji.md)、[张道陵](../04_heroes/chinese/zhang-daoling.md)
+- 圣物与物质档案：[五色石](../05_relics/five-colored-stones.md)、[不死之药](../05_relics/chinese/elixir-of-immortality.md)、[息壤](../05_relics/chinese/xirang.md)、[商代甲骨卜辞](../05_relics/chinese/oracle-bones.md)、[青铜鼎](../05_relics/chinese/bronze-ding.md)、[《老子想尔注》敦煌写本](../05_relics/chinese/laozi-xianger.md)、[《真灵位业图》](../05_relics/chinese/zhenling-weiye-tu.md)
 - 异兽／存在：[黑龙](../06_beasts/black-dragon.md)、[精卫](../06_beasts/chinese/jingwei.md)、[应龙](../06_beasts/chinese/yinglong.md)、[相柳](../06_beasts/chinese/xiangliu.md)、[烛龙](../06_beasts/chinese/zhulong.md)
-- 地点：[昆仑](../07_places/chinese/kunlun.md)、[不周山](../07_places/chinese/buzhou-mountain.md)、[扶桑与汤谷](../07_places/chinese/fusang-tanggu.md)、[蓬莱与海上五山](../07_places/chinese/penglai-five-isles.md)、[幽都之山](../07_places/chinese/youdu.md)、[泰山](../07_places/chinese/mount-tai.md)、[黄河神圣水系](../07_places/chinese/yellow-river-hebo.md)、[社稷坛](../07_places/chinese/sheji-altars.md)
-- 事件：[女娲补天](../08_myths/chinese/nvwa-mends-heaven.md)、[羿射十日](../08_myths/chinese/yi-shoots-the-suns.md)、[姮娥奔月](../08_myths/chinese/change-flies-to-moon.md)、[共工触不周](../08_myths/chinese/gonggong-strikes-buzhou.md)、[黄帝战蚩尤](../08_myths/chinese/huangdi-and-chiyou.md)、[鲧禹治水](../08_myths/chinese/yu-controls-the-flood.md)、[夸父逐日](../08_myths/chinese/kuafu-chases-the-sun.md)、[精卫填海](../08_myths/chinese/jingwei-fills-the-sea.md)、[殷命终止与周受天命](../08_myths/chinese/mandate-transfer-shang-zhou.md)、[后稷出生与肇祀](../08_myths/chinese/houji-birth-and-grain.md)、[汉武帝国家祭祀重组](../08_myths/chinese/han-wudi-state-rites.md)
+- 地点：[昆仑](../07_places/chinese/kunlun.md)、[不周山](../07_places/chinese/buzhou-mountain.md)、[扶桑与汤谷](../07_places/chinese/fusang-tanggu.md)、[蓬莱与海上五山](../07_places/chinese/penglai-five-isles.md)、[幽都之山](../07_places/chinese/youdu.md)、[泰山](../07_places/chinese/mount-tai.md)、[黄河神圣水系](../07_places/chinese/yellow-river-hebo.md)、[社稷坛](../07_places/chinese/sheji-altars.md)、[鹤鸣山](../07_places/chinese/heming-mountain.md)、[三清境](../07_places/chinese/sanqing-realms.md)
+- 事件：[女娲补天](../08_myths/chinese/nvwa-mends-heaven.md)、[羿射十日](../08_myths/chinese/yi-shoots-the-suns.md)、[姮娥奔月](../08_myths/chinese/change-flies-to-moon.md)、[共工触不周](../08_myths/chinese/gonggong-strikes-buzhou.md)、[黄帝战蚩尤](../08_myths/chinese/huangdi-and-chiyou.md)、[鲧禹治水](../08_myths/chinese/yu-controls-the-flood.md)、[夸父逐日](../08_myths/chinese/kuafu-chases-the-sun.md)、[精卫填海](../08_myths/chinese/jingwei-fills-the-sea.md)、[殷命终止与周受天命](../08_myths/chinese/mandate-transfer-shang-zhou.md)、[后稷出生与肇祀](../08_myths/chinese/houji-birth-and-grain.md)、[汉武帝国家祭祀重组](../08_myths/chinese/han-wudi-state-rites.md)、[老君授道与天师盟威](../08_myths/chinese/celestial-master-covenant.md)、[灵宝经系与三清形成](../08_myths/chinese/lingbao-three-purities.md)、[宋代玉皇礼制重组](../08_myths/chinese/song-jade-emperor-state-cult.md)
 - 静默条目：[帝俊](../09_silent-gallery/chinese/dijun.md)，作为重要谱系节点保留，不与帝喾或上帝草率合并
 
 ## 设定层
@@ -171,3 +186,8 @@ setting_status: established
 - [source.shangshu.shaogao-duoshi](../99_sources/bibliography.md#sourceshangshushaogao-duoshi)
 - [source.guoyu-liji.houtu-sheji](../99_sources/bibliography.md#sourceguoyu-lijihoutu-sheji)
 - [source.shiji.fengshan.taiyi-houtu](../99_sources/bibliography.md#sourceshijifengshantaiyi-houtu)
+- [source.bokenkamp.early-daoist-scriptures](../99_sources/bibliography.md#sourcebokenkampearly-daoist-scriptures)
+- [source.kleeman.celestial-masters](../99_sources/bibliography.md#sourcekleemancelestial-masters)
+- [source.schipper-verellen.taoist-canon](../99_sources/bibliography.md#sourceschipper-verellentaoist-canon)
+- [source.sanguozhi.zhang-lu-celestial-masters](../99_sources/bibliography.md#sourcesanguozhizhang-lu-celestial-masters)
+- [source.songshi.li-jade-emperor](../99_sources/bibliography.md#sourcesongshili-jade-emperor)

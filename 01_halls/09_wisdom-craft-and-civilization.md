@@ -52,6 +52,11 @@ domains:
 - [商代甲骨卜辞](../05_relics/chinese/oracle-bones.md)：文字、裂纹、日期和验证记录共同构成占卜技术，不是脱离物质的神谕数据库。
 - [青铜鼎](../05_relics/chinese/bronze-ding.md)：铸造、祭祀饮食、铭文和政治记忆共同塑造礼器；九鼎只是有来源的接收面相。
 - [后稷](../04_heroes/chinese/houji.md)：农业技艺与周人祖先祭祀相连，不以“发明农业”抹去更早和并行传统。
+- [太上老君](../02_deities/chinese/taishang-laojun.md)与[张道陵](../04_heroes/chinese/zhang-daoling.md)：启示、守诫、授箓和共同体传承构成知识权威，不是个人获得万能法术。
+- [《老子想尔注》](../05_relics/chinese/laozi-xianger.md)：残卷显示经典解释如何划定正统修行、祭祀和生命秩序。
+- [元始天尊](../02_deities/chinese/yuanshi-tianzun.md)与[灵宝天尊](../02_deities/chinese/lingbao-tianzun.md)：通过说经、天书、斋醮和传授链行使权柄。
+- [《真灵位业图》](../05_relics/chinese/zhenling-weiye-tu.md)：编目本身成为神学技术，排序也必须公开时代和编者。
+- [灵宝经系与三清秩序形成](../08_myths/chinese/lingbao-three-purities.md)：展示经典分类、神谱和仪式如何共同重构宗教世界。
 
 ## 本殿设定
 

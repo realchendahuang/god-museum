@@ -704,6 +704,110 @@
 - 支持：从考古、甲骨、青铜器铭文和传世文献综合理解商周国家、祖先祭祀、礼制与政治变化。
 - 限制：现代综合史提供结构与争议，不替代具体卜辞、铭文、器物和篇章定位。
 
+### source.bokenkamp.early-daoist-scriptures
+
+- 等级：S1
+- 作者：Stephen R. Bokenkamp，Peter Nickerson 参与
+- 作品：*Early Daoist Scriptures*
+- 出版：University of California Press, 1997
+- 支持：《老子想尔注》、早期天师道、上清与灵宝经典的译注和历史定位；用于区分经典形成、现存写本与后世教派归属。
+- 限制：选译本不能代表《道藏》全部文献；英译术语仍需与中文校本、敦煌写本和其他研究交叉核对。
+- 访问：[University of California Press](https://www.ucpress.edu/books/early-daoist-scriptures/paper)
+
+### source.kleeman.celestial-masters
+
+- 等级：S1
+- 作者：Terry F. Kleeman
+- 作品：*Celestial Masters: History and Ritual in Early Daoist Communities*
+- 出版：Harvard University Asia Center, 2016
+- 支持：东汉末至六朝天师道共同体、张氏谱系、教戒、祭酒、治病、三官、仪式与宗教身份形成；用于分开外部史书、共同体文本和后世圣传。
+- 限制：“天师道”内部长期变化且地域分化，不能把汉中张鲁政权、南北天师道和宋以后正一教当成一个静止组织。
+
+### source.robinet.taoism-growth
+
+- 等级：S1
+- 作者：Isabelle Robinet；Phyllis Brooks 译
+- 作品：*Taoism: Growth of a Religion*
+- 出版：Stanford University Press, 1997
+- 支持：从汉代宗教运动、上清与灵宝启示到道教经典、神谱和仪式的历史形成；用于阻止把后世三清—玉皇体系倒投上古。
+- 限制：综合史提供长时段框架，不替代具体道经版本、地方碑铭和单次国家祭祀记录。
+
+### source.schipper-verellen.taoist-canon
+
+- 等级：S1
+- 编者：Kristofer Schipper、Franciscus Verellen
+- 作品：*The Taoist Canon: A Historical Companion to the Daozang*
+- 出版：University of Chicago Press, 2004，三卷
+- 支持：《道藏》文献分期、经系、仪式与神圣体系的历史伴读；用于定位灵宝、上清、三清、玉皇及相关经典，而不是只按现代神谱解释。
+- 限制：文献史伴读不能单独证明地方庙宇的实际仪式；具体条目仍需回到所据道经与版本。
+- 访问：[DOI / University of Chicago Press](https://doi.org/10.7208/chicago/9780226721064.001.0001)
+
+### source.raz.emergence-daoism
+
+- 等级：S1
+- 作者：Gil Raz
+- 作品：*The Emergence of Daoism: Creation of Tradition*
+- 出版：Routledge, 2012
+- 支持：汉末至六朝“道教”身份、传承谱系、经典、仪式与共同体边界如何被创造和重述；用于理解天师起源圣史与历史材料之间的关系。
+- 限制：“传统的创造”不等于宣布宗教经验虚假；项目仍分别记录信仰内部真理、历史可证程度与后世接收。
+
+### source.sanguozhi.zhang-lu-celestial-masters
+
+- 等级：P2（西晋史书整理更早材料，含敌意外部称谓）
+- 作者：陈寿；裴松之注引《典略》
+- 作品：《三国志·魏书·张鲁传》
+- 定位：张陵“客蜀，学道鹄鸣山中”；张衡、张鲁家族传承；静室思过、祭酒习《老子》、三官手书、义舍等早期共同体记载
+- 支持：张陵与蜀地山岳的最早重要外部记忆，以及张鲁时期组织、请祷、文书和社会实践。
+- 限制：“惑百姓”“米贼”等词反映史家与政治权力的敌意视角；裴注材料主要描述张修、张鲁相关实践，不能把全部制度无条件归为张陵亲创。
+- 访问：[维基文库《三国志》卷八](https://zh.wikisource.org/wiki/%E4%B8%89%E5%9C%8B%E5%BF%97/%E5%8D%B708#%E5%BC%B5%E9%AD%AF)
+
+### source.laozi-xianger
+
+- 等级：P1 / P2（早期注释传统与较晚敦煌抄本层并存）
+- 作品：《老子想尔注》，敦煌写本 S.6825
+- 定位：以道诫、天曹、生命和共同体秩序解释《老子》；“一散形为气，聚形为太上老君”等段落
+- 支持：早期天师道如何宗教化阅读《老子》，以及太上老君、守一、守诫、祭祀批评和修行边界。
+- 限制：现存为残卷，抄写年代晚于注释传统可能形成的时间；张鲁、张陵等作者归属不能视为已定论，在线转录不替代写本照片与校勘本。
+- 访问：[维基文库转录](https://zh.wikisource.org/wiki/%E8%80%81%E5%AD%90%E6%83%B3%E7%88%BE%E6%B3%A8)
+
+### source.daojiao-yishu.yuanshi
+
+- 等级：P2
+- 作者：孟安排
+- 作品：《道教义枢》“道德义”等相关篇章
+- 定位：汇引《灵宝无量度人经》《度人本行经》等，说明元始天尊应气成象、开劫说经与诸天传授
+- 支持：唐初道教义理整理如何解释元始天尊、劫运、天书和度人，以及六朝经典进入系统神学后的面相。
+- 限制：《道教义枢》是后起综合与辩护性文本，所引更早经典必须分别定位；不能用它证明元始天尊在商周或东汉天师道已处于同一位置。
+- 访问：[维基文库《道教义枢》](https://zh.wikisource.org/wiki/%E9%81%93%E6%95%99%E7%BE%A9%E6%A8%9E)
+
+### source.weishu.shilao-kou-qianzhi
+
+- 等级：P2
+- 作者：魏收
+- 作品：《魏书·释老志》寇谦之条
+- 定位：寇谦之自述神瑞二年太上老君降临，授天师位、《云中音诵新科之诫》及多等箓职；北魏建立天师道场
+- 支持：五世纪北方天师道如何以老君神显、授箓和国家支持更新宗教秩序，以及天师权威可被后世重新授予。
+- 限制：北齐史书保存的是北魏国家与寇谦之传统，不能直接证明二世纪张陵授道细节；作者对佛道的政治叙述也需结合时代语境。
+- 访问：[维基文库《魏书》卷一百一十四](https://zh.wikisource.org/wiki/%E9%AD%8F%E6%9B%B8/%E5%8D%B7114)
+
+### source.tao-hongjing.zhenling-weiye-tu
+
+- 等级：P2
+- 作者归属：陶弘景
+- 作品：《真灵位业图》
+- 定位：以多层中位、左位、右位整理元始天尊、太上道君、太上老君、上清真人、古代帝王与大量神灵
+- 支持：南朝道教如何主动编排多来源神圣身份，以及神谱等级本身是一项历史神学工程。
+- 限制：传世版本与具体席位需要校勘；后世三清、四御和民间天庭不能整张倒投为本书原始结构。
+
+### source.songshi.li-jade-emperor
+
+- 等级：P2
+- 作品：《宋史·礼志》吉礼与道教相关条目
+- 定位：真宗大中祥符年间玉皇像、宝册与“太上开天执符御历含真体道玉皇大天帝”圣号；徽宗政和六年上“昊天玉皇上帝”尊号，并说明论者曾析玉皇大天帝、昊天上帝为二
+- 支持：北宋国家通过梦兆、天书、宫观、尊号、册宝和郊祀程序提升并重新认同玉皇的具体历史过程。
+- 限制：《宋史》记录的国家礼制不能代表全部道派和地方信仰；朝廷“致一”是历史行动，不证明玉皇与先秦帝／天自古即为同一神。
+- 访问：[维基文库《宋史》卷一百四](https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7104)
+
 ## 希腊
 
 ### source.hesiod.theogony.139-146

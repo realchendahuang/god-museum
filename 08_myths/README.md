@@ -42,6 +42,9 @@
 | [殷命终止与周受天命](./chinese/mandate-transfer-shang-zhou.md) | 中国 | 王朝征服、皇天上帝、敬德、民与天命可转移的政治神学 |
 | [后稷出生、弃置与肇祀](./chinese/houji-birth-and-grain.md) | 中国 | 姜嫄感生、三次弃置、鸟兽保护、百谷与祖先祭祀起点 |
 | [汉武帝太一、后土与封禅祭祀重组](./chinese/han-wudi-state-rites.md) | 中国 | 方士建议、国家祭坛、牺牲、明堂、泰山与帝国受命工程 |
+| [老君授道与天师盟威传统](./chinese/celestial-master-covenant.md) | 中国 | 张陵历史背景、老君神显、盟约、戒箓与后世天师谱系分层 |
+| [灵宝经系与三清秩序形成](./chinese/lingbao-three-purities.md) | 中国 | 六朝经典启示、神谱编纂、三洞分类和三清空间化 |
+| [宋代玉皇尊号与国家礼制重组](./chinese/song-jade-emperor-state-cult.md) | 中国 | 天书政治、尊号、册宝、玉皇与昊天上帝“致一”争论 |
 | [泰坦战争](./greek/titanomachy.md) | 希腊 | 神代继承、盟友释放、雷霆战争与权能分配 |
 | [雅典娜的诞生](./greek/birth-of-athena.md) | 希腊 | 墨提斯、继承预言、头生与武装神显 |
 | [奥丁悬树得符文](./norse/odin-wins-runes.md) | 北欧 | 身体、九夜、自我献祭与知识代价 |

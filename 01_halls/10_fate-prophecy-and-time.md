@@ -50,6 +50,9 @@ domains:
 - [夸父逐日](../08_myths/chinese/kuafu-chases-the-sun.md)：追赶日影把天体时间转化为身体无法跨越的距离。
 - [帝／上帝](../02_deities/chinese/di-shangdi.md)、[天](../02_deities/chinese/tian-haotian.md)与[殷周天命转移](../08_myths/chinese/mandate-transfer-shang-zhou.md)：王朝未来受德、民与历史先例约束，不是可供统治者读取的固定预言。
 - [商代甲骨卜辞](../05_relics/chinese/oracle-bones.md)：占问只在具体日期、命辞和兆纹中成立，没有一次卜问能够提供全部未来。
+- [三官大帝](../02_deities/chinese/sanguan-dadi.md)：三官手书、功过与三元节序把时间变成可递送文书和举行仪式的节点，不等于掌控全部命运。
+- [元始天尊](../02_deities/chinese/yuanshi-tianzun.md)：灵宝劫运中的反复开教与度人提供周期宇宙时间，但不能覆盖其他文明末日。
+- [三清境](../07_places/chinese/sanqing-realms.md)：诸天位阶与经典权限按历史形成，不是一条可测量的绝对时间轴。
 
 ## 本殿设定
 

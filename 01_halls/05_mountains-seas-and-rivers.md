@@ -44,6 +44,8 @@ domains:
 - [精卫](../06_beasts/chinese/jingwei.md)与[相柳](../06_beasts/chinese/xiangliu.md)：填海的持续行动与死后污染土地展示水土关系的不同危险。
 - [河伯](../02_deities/chinese/hebo.md)与[黄河神圣水系](../07_places/chinese/yellow-river-hebo.md)：九河、水车、龙堂与现实黄河祭祀相连，不统治所有文明河流。
 - [泰山](../07_places/chinese/mount-tai.md)：真实山体因封禅、巡狩、地方庙祀和后世冥界面相获得多重神圣地理。
+- [鹤鸣山／鹄鸣山](../07_places/chinese/heming-mountain.md)：张陵学道的史书地名与老君授道圣地分层，古地理和现代景区认定不自动一致。
+- [三官大帝](../02_deities/chinese/sanguan-dadi.md)：天地水文书通过置山、埋地、沉水运行；官署职能不等于占有全部山川。
 
 ## 本殿设定
 

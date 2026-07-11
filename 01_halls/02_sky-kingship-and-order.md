@@ -46,6 +46,9 @@ domains:
 | [天／昊天](../02_deities/chinese/tian-haotian.md) | 天命、德、民与王朝合法性 | 人格、自然和礼制面相没有单一永恒定义 |
 | [后土](../02_deities/chinese/houtu.md)与[社稷](../02_deities/chinese/sheji.md) | 土地、谷物、祭坛和政治共同体 | 后土早期非固定女神；社稷非单一人格神 |
 | [太一](../02_deities/chinese/taiyi.md) | 汉代“天神贵者太一”国家祭祀 | 《九歌》东皇太一与汉祠只作争议性历史认同 |
+| [玉皇大帝](../02_deities/chinese/yuhuang-shangdi.md) | 宋代国家尊号、道教天界行政与地方天公信仰 | 不与帝、天、昊天上帝或三清无年代合并 |
+| [元始天尊](../02_deities/chinese/yuanshi-tianzun.md)、[灵宝天尊](../02_deities/chinese/lingbao-tianzun.md)与[太上老君](../02_deities/chinese/taishang-laojun.md) | 三清经教高位、授经与诸天秩序 | 经教尊神的“最高”不等于统一行政君主 |
+| [三官大帝](../02_deities/chinese/sanguan-dadi.md) | 天地水官署、文书请祷和后世三元职能 | 不分别吞并天、后土、河伯与全部地水神 |
 | [因陀罗](../02_deities/vedic/indra.md) | 强大神祇、战斗与部分天界秩序 | 吠陀地位不能只用后世“天帝”职位解释 |
 | [荷鲁斯](../02_deities/egyptian/horus.md) | 活王身份、奥西里斯继承与两地王权 | 不同荷鲁斯面相和地方中心必须分层 |
 | [玛阿特](../02_deities/egyptian/maat.md) | 真理、正当秩序、称心与王权合法性 | 不是跨文明统一法律或现代因果报应 |
@@ -53,6 +56,8 @@ domains:
 | [法老（王权角色）](../04_heroes/egyptian/pharaoh.md) | 荷鲁斯身份、拉之子与玛阿特执行者 | 是制度角色和具体历史人物，不是一位抽象神 |
 
 相关事件包括[泰坦战争](../08_myths/greek/titanomachy.md)、[雅典娜的诞生](../08_myths/greek/birth-of-athena.md)和[荷鲁斯与塞特争位](../08_myths/egyptian/contendings-of-horus-and-seth.md)。它们分别展示王权如何通过战争与分配、继承控制，以及血缘—法庭—力量之间的漫长裁决形成。
+
+[宋代玉皇尊号与国家礼制重组](../08_myths/chinese/song-jade-emperor-state-cult.md)进一步证明国家能够通过册宝、宫观和尊号主动制造神圣认同；“玉皇与昊天致一”是一场宋代礼制行动，不是上古既定事实。
 
 ## 本殿设定
 
