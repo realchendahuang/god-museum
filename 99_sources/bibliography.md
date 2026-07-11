@@ -2,6 +2,114 @@
 
 访问日期：2026-07-11。
 
+## 美索不达米亚
+
+### source.oracc.amgg
+
+- 等级：S2（大学研究项目与楔形文字语料导引）
+- 项目：ORACC, *Ancient Mesopotamian Gods and Goddesses*
+- 机构：University of Pennsylvania Museum 与 Open Richly Annotated Cuneiform Corpus
+- 范围：[神祇总表](https://oracc.museum.upenn.edu/amgg/listofdeities/) · [An/Anu](https://oracc.museum.upenn.edu/amgg/listofdeities/an/) · [Enlil/Ellil](https://oracc.museum.upenn.edu/amgg/listofdeities/enlil/) · [Enki/Ea](https://oracc.museum.upenn.edu/amgg/listofdeities/enki/) · [Inana/Ištar](https://oracc.museum.upenn.edu/amgg/listofdeities/inanaitar/) · [Utu/Šamaš](https://oracc.museum.upenn.edu/amgg/listofdeities/utu/) · [Nanna/Suen/Sîn](https://oracc.museum.upenn.edu/amgg/listofdeities/nannasuen/) · [Iškur/Adad](https://oracc.museum.upenn.edu/amgg/listofdeities/ikur/) · [Marduk](https://oracc.museum.upenn.edu/amgg/listofdeities/marduk/) · [Nabû](https://oracc.museum.upenn.edu/amgg/listofdeities/nabu/) · [Nergal](https://oracc.museum.upenn.edu/amgg/listofdeities/nergal/) · [Ereškigal](https://oracc.museum.upenn.edu/amgg/listofdeities/erekigal/) · [Tiamat](https://oracc.museum.upenn.edu/amgg/listofdeities/tiamat/)
+- 支持：神名、地方祭祀中心、主要权柄、家族关系、神庙、象征物及历史变化；尤其支持区分苏美尔神与阿卡德神后来形成的认同，而不是把双名无条件列为普通别名。
+- 限制：AMGG 是研究导引而非原典校勘本；涉及具体叙事、年代和译文时仍须回到泥板、文本版次与专门研究。
+
+### source.oracc.mesopotamian-history
+
+- 等级：S2（大学研究项目）
+- 项目：ORACC, *Mesopotamian history: the basics*
+- 支持：苏美尔、阿卡德、巴比伦与亚述不是同一时代或同一种语言；城市、帝国、书写传统和政治中心的变化持续重组诸神关系。
+- 限制：“美索不达米亚宗教”是现代总称，不能把三千多年材料写成一套同时有效的标准神谱。
+- 访问：[ORACC](https://oracc.museum.upenn.edu/amgg/mesopotamianhistory/)
+
+### source.etcsl.inana-descent
+
+- 等级：P1 / S1（苏美尔语文本、转写与研究型英译）
+- 项目：Electronic Text Corpus of Sumerian Literature, Oxford
+- 作品：*Inana's descent to the nether world*，ETCSL 1.4.1
+- 支持：伊南娜经过七门、卸下权力标志、被处死、由恩基派出的存在救回，以及杜穆济被指定为替代者的苏美尔叙事。
+- 限制：不能用这篇文本覆盖阿卡德语《伊什塔尔下冥界》；两者共享结构，也有关键差别。
+- 访问：[ETCSL 1.4.1](https://etcsl.orinst.ox.ac.uk/section1/tr141.htm)
+
+### source.etcsl.inana-enki-me
+
+- 等级：P1 / S1（苏美尔语文本、转写与研究型英译）
+- 项目：Electronic Text Corpus of Sumerian Literature, Oxford
+- 作品：*Inana and Enki*，ETCSL 1.3.1
+- 支持：伊南娜从埃里都的恩基处取得并运往乌鲁克的 me；me 涵盖王权、祭司职能、技艺、社会制度与正负两面的文明能力。
+- 限制：me 是难以用单个现代词覆盖的神圣权能／制度集合，不应缩写成一块普通“文明泥板”。
+- 访问：[ETCSL 1.3.1](https://etcsl.orinst.ox.ac.uk/section1/tr131.htm)
+
+### source.lambert.babylonian-creation-myths
+
+- 等级：P1 / S1（楔形文字校勘、转写、翻译与研究）
+- 作者：W. G. Lambert
+- 作品：*Babylonian Creation Myths*
+- 出版：Eisenbrauns, 2013
+- 支持：《埃努玛·埃利什》现存泥板、提亚马特与阿普苏、马尔杜克取得王权、创世、命名与巴比伦神学；同时提供其他巴比伦创世材料。
+- 限制：《埃努玛·埃利什》既是创世叙事，也是马尔杜克王权与巴比伦地位的神学工程；不能称为全美索不达米亚唯一创世经。
+
+### source.george.gilgamesh-epic
+
+- 等级：P1 / S1（楔形文字校勘、转写、翻译与研究）
+- 作者：Andrew R. George
+- 作品：*The Babylonian Gilgamesh Epic: Introduction, Critical Edition and Cuneiform Texts*, 2 vols.
+- 出版：Oxford University Press, 2003
+- 支持：标准巴比伦版《吉尔伽美什史诗》及早期巴比伦、苏美尔前身材料；吉尔伽美什、恩奇都、胡姆巴巴、天牛、洪水与不死追寻的版本关系。
+- 限制：现代连续读本常补配残缺泥板；每个场景必须说明属于苏美尔诗篇、古巴比伦版还是标准巴比伦版。
+
+### source.lambert-millard.atrahasis
+
+- 等级：P1 / S1（楔形文字校勘、转写与翻译）
+- 作者：W. G. Lambert、A. R. Millard
+- 作品：*Atra-ḫasīs: The Babylonian Story of the Flood*
+- 出版：Oxford University Press, 1969
+- 支持：下级神劳役、人的创造、人口噪声、瘟疫与饥荒、洪水决定、恩基／埃阿向阿特拉哈西斯泄露计划，以及洪水后的死亡与生育限制。
+- 限制：本作与《埃里都创世记》《吉尔伽美什》XI 的洪水叙事互有关联但不完全相同。
+
+### source.foster.before-the-muses
+
+- 等级：P1 / S1（阿卡德语文学研究型译本）
+- 作者：Benjamin R. Foster
+- 作品：*Before the Muses: An Anthology of Akkadian Literature*, 3rd ed.
+- 出版：CDL Press, 2005
+- 支持：《埃努玛·埃利什》《阿特拉哈西斯》《安祖史诗》《内尔伽勒与埃列什基伽勒》《埃拉史诗》等阿卡德语作品及版本导言。
+- 限制：英文选译不能替代逐块泥板的博物馆编目与最新校勘；不同手稿的缺环须保留。
+
+### source.dalley.myths-from-mesopotamia
+
+- 等级：P1 / S1（研究型译本与文本导言）
+- 作者：Stephanie Dalley
+- 作品：*Myths from Mesopotamia: Creation, the Flood, Gilgamesh, and Others*, revised ed.
+- 出版：Oxford University Press, 2000
+- 支持：阿特拉哈西斯、安祖、伊什塔尔下冥界、内尔伽勒与埃列什基伽勒、《埃拉史诗》及其他主要阿卡德语神话的可比较译本。
+- 限制：合集中每篇作品仍有独立泥板史与版本问题，不能因为收在同一本书里就视为统一正典。
+
+### source.black-green.gods-demons-symbols
+
+- 等级：S1（楔形文字文化与图像学参考书）
+- 作者：Jeremy Black、Anthony Green
+- 作品：*Gods, Demons and Symbols of Ancient Mesopotamia: An Illustrated Dictionary*
+- 出版：British Museum Press, 1992
+- 支持：角冠、神徽、混合生物、mušḫuššu、安祖、拉玛苏、杆与环等名称、图像和材料边界。
+- 限制：图像学识别必须服从器物铭文与出土语境；参考书中的类型归纳不是每件图像身份都已确定。
+
+### source.bm.shamash-tablet
+
+- 等级：P1 / S2（博物馆器物记录与研究）
+- 机构：The British Museum
+- 器物：BM 91000，通常称 *Tablet of Shamash*，出自西帕尔，约公元前九世纪，图像回指更早传统
+- 支持：沙马什在神龛中的图像、太阳圆盘、神庙祭祀人员与“杆和环”符号；泥板同时保存图像与铭文，适合连接神座、器物和神庙制度。
+- 限制：杆与环常被解释为测量、正义或王权标志，但具体意义仍有争论；不能直接写成一件可挥舞的固定神器。
+- 访问：[British Museum collection](https://www.britishmuseum.org/collection/object/W_1881-0428-1)
+
+### source.cdli.archive
+
+- 等级：P1 / S2（楔形文字器物目录、图像与研究基础设施）
+- 项目：Cuneiform Digital Library Initiative
+- 支持：泥板、封泥、碑铭和其他楔形文字器物的博物馆号、时期、出土地、图像、转写与书目链；用于把现代文本标题重新落回具体器物。
+- 限制：目录记录完整度不同；CDLI 编号和图像本身不能替代释读、文本重建和版权边界。
+- 访问：[CDLI](https://cdli.mpiwg-berlin.mpg.de/)
+
 ## 古埃及
 
 ### source.ucl.digital-egypt.deities-framework

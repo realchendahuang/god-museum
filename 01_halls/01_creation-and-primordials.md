@@ -50,3 +50,9 @@ domains:
 
 - [神话剧场](../08_myths/README.md)：保存完整创世叙事及不同版本。
 - [静默长廊](../09_silent-gallery/README.md)：保存只剩名字的原初存在。
+
+## 美索不达米亚馆藏
+
+- [提亚马特](../02_deities/mesopotamian/tiamat.md)与[《埃努玛·埃利什》](../08_myths/mesopotamian/enuma-elish.md)：保存原初水、神代战争、身体创世与马尔杜克王权提升，不把它宣布为两河唯一创世版。
+- [马尔杜克](../02_deities/mesopotamian/marduk.md)：以巴比伦历史形成的神王身份进入，创世权不能倒推为永恒统治。
+- [美索不达米亚传统](../03_civilizations/mesopotamian.md)：并列多语言、多城市的创世材料，不制造“苏美尔—巴比伦圣经”。

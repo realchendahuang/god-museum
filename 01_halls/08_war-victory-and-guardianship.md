@@ -56,3 +56,10 @@ domains:
 - [英雄长廊](../04_heroes/README.md)
 - [圣物宝库](../05_relics/README.md)
 - [神话剧场](../08_myths/README.md)
+
+## 美索不达米亚馆藏
+
+- [伊南娜／伊什塔尔](../02_deities/mesopotamian/inana-ishtar.md)：战争与爱欲不互相取消，城市毁灭和王权合法性按文本分层。
+- [宁乌尔塔](../02_deities/mesopotamian/ninurta.md)：击败安祖、夺回命运泥板，并在其他作品中以战斗恢复土地秩序。
+- [内尔伽勒](../02_deities/mesopotamian/nergal.md)：战争造成的死亡、瘟疫和冥界权力，不等于普通战士守护。
+- [吉尔伽美什与恩奇都](../04_heroes/mesopotamian/gilgamesh.md)：胡姆巴巴与天牛胜利同时制造越界和死亡后果。

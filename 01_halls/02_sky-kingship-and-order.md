@@ -55,3 +55,10 @@ domains:
 
 - [雷霆、风、雨与火之殿](./04_thunder-wind-rain-and-fire.md)
 - [命运、预言与时间之殿](./10_fate-prophecy-and-time.md)
+
+## 美索不达米亚馆藏
+
+- [安／阿努](../02_deities/mesopotamian/an-anu.md)：天空高位、王权确认与神议授权；高远不等于被后起主神废黜。
+- [恩利尔](../02_deities/mesopotamian/enlil.md)：尼普尔 Ekur、命运裁定和王权授予；不能缩成风神。
+- [马尔杜克](../02_deities/mesopotamian/marduk.md)与[纳布](../02_deities/mesopotamian/nabu.md)：展示城市神如何通过神学、节庆和父子关系获得神王与共同统治地位。
+- [命运泥板](../05_relics/mesopotamian/tablet-of-destinies.md)：使命令生效的权力物，其失窃说明秩序也会遭遇执行危机。

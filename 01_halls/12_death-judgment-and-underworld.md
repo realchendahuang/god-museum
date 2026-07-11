@@ -54,3 +54,10 @@ domains:
 
 - [神话剧场](../08_myths/README.md)：保存下降冥界与复生叙事。
 - [静默长廊](../09_silent-gallery/README.md)：遗忘与死亡不是同一状态。
+
+## 美索不达米亚馆藏
+
+- [埃列什基伽勒](../02_deities/mesopotamian/ereshkigal.md)与[内尔伽勒](../02_deities/mesopotamian/nergal.md)：女王先在，共治通过不同版本后起形成。
+- [Irkalla](../07_places/mesopotamian/irkalla.md)：kur、erṣetu 与“无归之地”按语言、文本和死者经验分层。
+- [伊南娜／伊什塔尔下冥界](../08_myths/mesopotamian/descent-to-the-netherworld.md)：神也受七门、裁决、死亡和替代规则约束。
+- [吉尔伽美什与恩奇都](../04_heroes/mesopotamian/gilgamesh.md)：英雄名声、哀悼与不死失败保留人的死亡边界。

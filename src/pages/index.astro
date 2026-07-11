@@ -27,7 +27,11 @@ const featuredDeityIds = [
   'deity.egyptian.ra',
   'deity.egyptian.osiris',
   'deity.egyptian.isis',
-  'deity.egyptian.maat'
+  'deity.egyptian.maat',
+  'deity.mesopotamian.an-anu',
+  'deity.mesopotamian.enki-ea',
+  'deity.mesopotamian.inana-ishtar',
+  'deity.mesopotamian.marduk'
 ]
 const deities = docs
   .filter(entry => entry.data.type === 'deity' && featuredDeityIds.includes(entry.data.id || ''))

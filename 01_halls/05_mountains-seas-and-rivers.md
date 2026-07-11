@@ -47,3 +47,9 @@ domains:
 
 - [文明通道](../03_civilizations/README.md)：河谷、海港和航线也是神系传播道路。
 - [神话剧场](../08_myths/README.md)：保存洪水与治水叙事。
+
+## 美索不达米亚馆藏
+
+- [恩基／埃阿](../02_deities/mesopotamian/enki-ea.md)与[埃里都 E-abzu](../07_places/mesopotamian/eridu-eabzu.md)：地下淡水、神庙、智慧与净化，不等于普通海神王国。
+- [提亚马特](../02_deities/mesopotamian/tiamat.md)：作为原初盐海进入；无独立标准龙形图像。
+- [两河洪水诸版本](../08_myths/mesopotamian/flood-traditions.md)：并列 Ziusudra、阿特拉哈西斯和 Uta-napišti，不与大禹治水合成全球事件。

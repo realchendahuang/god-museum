@@ -40,5 +40,10 @@
 | [奥西里斯之死、寻回与复苏](./egyptian/osiris-death-and-revival.md) | 古埃及 | 跨文本的尸体破坏、哀悼、复苏、继承与死后王权 |
 | [荷鲁斯与塞特争位](./egyptian/contendings-of-horus-and-seth.md) | 古埃及 | 亲子继承、力量、法庭、身体竞争与反复裁决 |
 | [太阳夜航](./egyptian/solar-night-journey.md) | 古埃及 | 太阳穿行杜阿特、结合死亡力量、抵抗阻断并于黎明更新 |
+| [《埃努玛·埃利什》中的创世与马尔杜克升王](./mesopotamian/enuma-elish.md) | 美索不达米亚 | 原初水、神战、创世、五十名号与巴比伦神权重组 |
+| [伊南娜与伊什塔尔下冥界](./mesopotamian/descent-to-the-netherworld.md) | 美索不达米亚 | 两种语言版本的七门、死亡、复生与替代差异 |
+| [两河洪水诸版本](./mesopotamian/flood-traditions.md) | 美索不达米亚 | Ziusudra、阿特拉哈西斯与 Uta-napišti 三套相关而独立的记忆 |
+| [安祖夺取命运泥板](./mesopotamian/anzu-and-tablet.md) | 美索不达米亚 | 宇宙命令权失窃、武器失效与宁乌尔塔夺回 |
+| [内尔伽勒与埃列什基伽勒](./mesopotamian/nergal-and-ereshkigal.md) | 美索不达米亚 | 两个主要版本如何协调冥界女王与新共同统治者 |
 
 这些事件可以被比较，却不会被拼成一条虚构的全球神话年表。神话剧场展示的是每份材料如何组织危机、行动和结果。

@@ -68,3 +68,9 @@ setting_status: established
 - source.rigveda.1.1：阿耆尼作为祭司、奉献者与召请诸神者。
 
 完整书目信息见 [来源目录](../99_sources/bibliography.md)。
+
+## 美索不达米亚馆藏
+
+- [伊什库尔／阿达德](../02_deities/mesopotamian/ishkur-adad.md)：暴雨在南部灌溉平原更显破坏，在北部雨养农业更显丰饶；环境差异进入神职。
+- [恩利尔](../02_deities/mesopotamian/enlil.md)：与风、大气和灾害有关，但主要入口仍是王权与命运。
+- [马尔杜克击败提亚马特](../08_myths/mesopotamian/enuma-elish.md)：使用风作为战术不证明马尔杜克原本是有证据支持的原始风暴神。

@@ -328,11 +328,13 @@ The setting now operates as a real, connected content repository:
 - [Theater of Myths](./08_myths/README.md)
 - [Bibliography and source nodes](./99_sources/bibliography.md)
 
-Eighteen formal Divine Seats now exist. The original Chinese, Greek, Norse, and Vedic group is joined by a full ancient Egyptian cluster: Ra, Osiris, Isis, Horus, Seth, Anubis, Thoth, Hathor, Ma'at, and Amun. Tenem/Tenemet and Khentyamentiu remain fragmentary names in the Silent Gallery rather than being completed through modern invention.
+Thirty-one formal Divine Seats now exist. The Chinese, Greek, Norse, and Vedic group is joined by ten core Egyptian seats and thirteen Mesopotamian seats: An/Anu, Enlil, Enki/Ea, Inana/Ištar, Utu/Šamaš, Nanna/Sîn, Iškur/Adad, Ninurta, Marduk, Nabû, Ereškigal, Nergal, and Tiamat. Four fragmentary names remain in the Silent Gallery rather than being completed through modern invention.
 
-The seats open into a connected collection rather than ending as isolated biographies. Yu the Great, Heracles, and the royal role of pharaoh define different human-divine boundaries. Seven relic records distinguish weapons, repair materials, the restored divine eye, stability, and the written sign of life. Vṛtra, the fragmentary Black Dragon, Apep, and Ammit establish four different limits of the category “monster.” Mythic spaces and historical sites now include Valhalla, Þrúðvangr/Bilskírnir, Duat, Heliopolis, Abydos, and the Pantheon itself. Nine sourced events connect deities, actors, relics, beings, places, and Halls.
+The seats now form a connected collection rather than isolated biographies. Seven heroes or royal actors, ten relics, eight nonhuman beings, twelve mythic or historical places, and fourteen sourced events connect gods, people, artifacts, cities, temples, and Halls into one searchable archive.
 
 The Egyptian collection preserves three structures that cannot be flattened: the continuity and variation among Pyramid Texts, Coffin Texts, the Book of the Dead, and Netherworld Books; the changing religious map of local cities and temples; and the difference between the fission of Horus aspects and historical syncretism such as Amun-Ra. The Hall of Thunder, Wind, Rain, and Fire remains the first cross-cultural hall completed in depth, while the Halls of celestial bodies, love and birth, and death and judgment now hold fully sourced collections rather than placeholders.
+
+The Mesopotamian collection preserves the linguistic and political seams among Sumerian, Akkadian, Babylonian, and Assyrian materials. Bilingual deity names do not turn translation into automatic identity. The Sumerian and Akkadian descent narratives stand side by side; the Ziusudra, Atrahasis, and Uta-napišti flood traditions remain distinct; and no modern dragon image is allowed to masquerade as a securely identified ancient portrait of Tiamat. Nippur, Eridu, Uruk, Babylon, and Borsippa make cities and temples part of the archive's structure.
 
 The archive documents are currently Chinese-first. Stable IDs and links are language-neutral so that translations can be added without changing the canon.
 

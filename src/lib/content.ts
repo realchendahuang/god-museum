@@ -138,7 +138,8 @@ export function traditionLabel(tradition?: string): string {
     'tradition.greek': '希腊',
     'tradition.norse': '北欧',
     'tradition.vedic': '吠陀',
-    'tradition.egyptian': '古埃及'
+    'tradition.egyptian': '古埃及',
+    'tradition.mesopotamian': '美索不达米亚'
   }
   return tradition ? labels[tradition] || tradition.replace('tradition.', '') : ''
 }

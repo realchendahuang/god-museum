@@ -39,6 +39,24 @@
 
 古埃及神座额外执行“裂分与融合”规则：荷鲁斯的不同面相先标记 aspect-of，阿蒙—拉等复合神格标记 syncretism；动物头和混合形态按图像主题、动作和器物语境解释。
 
+### 美索不达米亚传统
+
+- [安／阿努](./mesopotamian/an-anu.md)
+- [恩利尔](./mesopotamian/enlil.md)
+- [恩基／埃阿](./mesopotamian/enki-ea.md)
+- [伊南娜／伊什塔尔](./mesopotamian/inana-ishtar.md)
+- [乌图／沙马什](./mesopotamian/utu-shamash.md)
+- [南纳／苏恩／欣](./mesopotamian/nanna-sin.md)
+- [伊什库尔／阿达德](./mesopotamian/ishkur-adad.md)
+- [宁乌尔塔](./mesopotamian/ninurta.md)
+- [马尔杜克](./mesopotamian/marduk.md)
+- [纳布](./mesopotamian/nabu.md)
+- [埃列什基伽勒](./mesopotamian/ereshkigal.md)
+- [内尔伽勒](./mesopotamian/nergal.md)
+- [提亚马特](./mesopotamian/tiamat.md)
+
+美索不达米亚神座额外执行“双名历史”规则：苏美尔名与阿卡德名必须说明语言对应、历史认同与神格融合，不能把斜杠当作无条件同一。城市、神庙、泥板版本和图像器物共同决定条目边界。
+
 ## 新建档案
 
 请从 GitHub 复制 [_template.md](https://github.com/realchendahuang/god-museum/blob/main/02_deities/_template.md)，确定稳定 ID 后再写正文。

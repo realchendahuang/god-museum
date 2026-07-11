@@ -51,3 +51,10 @@ domains:
 
 - [文明与诸神域](../03_civilizations/README.md)
 - [文明通道](../03_civilizations/corridors.md)
+
+## 美索不达米亚馆藏
+
+- [恩基／埃阿](../02_deities/mesopotamian/enki-ea.md)：对芦苇墙说出警告、创造不受冥界规则注意的微小存在，以间接语言越过禁令。
+- [乌图／沙马什](../02_deities/mesopotamian/utu-shamash.md)：太阳路线、远行者保护与跨山道路。
+- [阿特拉哈西斯](../04_heroes/mesopotamian/atrahasis.md)：听懂不能被直接传达的洪水警告。
+- [博尔西帕至巴比伦](../07_places/mesopotamian/borsippa-ezida.md)：纳布神像行列使道路本身成为城市与父子神关系。

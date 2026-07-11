@@ -49,3 +49,10 @@ domains:
 ## 本殿设定
 
 每套诸神域的时间只在自己的轨道上前进。本殿允许不同末日、循环和王朝预言并排可见，却禁止任何神把自己的终局写成所有文明必须共同抵达的未来。
+
+## 美索不达米亚馆藏
+
+- [恩利尔](../02_deities/mesopotamian/enlil.md)与[安／阿努](../02_deities/mesopotamian/an-anu.md)：命运裁定、神议与不可改变的决定来自权力制度。
+- [南纳／欣](../02_deities/mesopotamian/nanna-sin.md)：月相组织月份、历法、占卜和誓言。
+- [纳布](../02_deities/mesopotamian/nabu.md)：记录神议决定，不自动成为所有命运的唯一作者。
+- [命运泥板](../05_relics/mesopotamian/tablet-of-destinies.md)：使言令获得效力，不是可阅读所有个人未来的书。

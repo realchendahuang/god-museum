@@ -29,5 +29,11 @@
 - [杜阿特](./egyptian/duat.md)：太阳夜航、奥西里斯王国、死者转化与守门者发生作用的多版本神话空间。
 - [赫利奥波利斯](./egyptian/heliopolis.md)：真实城市 Iunu 与拉—阿图姆、第一丘和太阳祭祀记忆重叠的历史地点。
 - [阿拜多斯](./egyptian/abydos.md)：早期王墓、地方死者神、奥西里斯祭祀、朝圣和每日供奉叠合的历史地点。
+- [尼普尔与 Ekur](./mesopotamian/nippur-ekur.md)：不依赖长期帝国首都身份的恩利尔王权中心。
+- [埃里都与 E-abzu](./mesopotamian/eridu-eabzu.md)：早期城市、淡水深渊和恩基智慧的重叠地点。
+- [乌鲁克与 Eanna](./mesopotamian/uruk-eanna.md)：城市化、伊南娜、安与吉尔伽美什记忆交汇之地。
+- [巴比伦与 Esagila](./mesopotamian/babylon-esagila.md)：马尔杜克升王和城市宇宙中心化的历史空间。
+- [博尔西帕与 Ezida](./mesopotamian/borsippa-ezida.md)：纳布书写传统与巴比伦节庆道路的另一端。
+- [Irkalla](./mesopotamian/irkalla.md)：由多种语言和文本组织的两河冥界，不是一张固定地下地图。
 
 地点档案不会把它们强行放进一张总地图。瓦尔哈拉、杜阿特与索尔神域保留各自文本关系；赫利奥波利斯和阿拜多斯则同时显示考古地景与神话定位。众神殿只在文明交汇时提供门，不吞并门后的宇宙。
