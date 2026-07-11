@@ -45,6 +45,14 @@ setting_status: established
 
 甲骨中的帝、先王先妣、日月风雨与山川祭祀，和周代“天”“天命”、社稷与礼制国家构成最早层。它们不是后来天庭官僚体系的简略前身。上帝／帝、天、昊天上帝与玉皇大帝之间必须通过具体年代建立 historical-development 或 reception，而非 same-identity。
 
+当前馆藏已经把这一层拆成可进入的网络：
+
+- [帝／上帝](../02_deities/chinese/di-shangdi.md)：晚商甲骨中的帝与周代皇天上帝并列，不制作无年代最高神传记；
+- [天／昊天](../02_deities/chinese/tian-haotian.md)：人格权威、天命、自然秩序与国家郊祀按文本分层；
+- [殷命终止与周受天命](../08_myths/chinese/mandate-transfer-shang-zhou.md)：把征服、敬德、民、祖先和王朝警告放回《召诰》《多士》《文王》；
+- [后土](../02_deities/chinese/houtu.md)、[社与稷](../02_deities/chinese/sheji.md)、[后稷](../04_heroes/chinese/houji.md)与[社稷坛](../07_places/chinese/sheji-altars.md)：说明土地、谷物、功臣、祖先和政治共同体如何通过祭坛连接；
+- [商代甲骨卜辞](../05_relics/chinese/oracle-bones.md)与[青铜鼎](../05_relics/chinese/bronze-ding.md)：让文字、占卜、宴飨和王权重新落回真实材料。
+
 ### 2. 战国至两汉的神话档案
 
 《楚辞》《山海经》《淮南子》《列子》传世本、《史记》《论衡》等保存大量彼此分散的神话节点。本馆当前重点建立这一层，因为它能把人物、地点和事件精确定位到篇章：
@@ -58,6 +66,8 @@ setting_status: established
 ### 3. 国家礼制与封号
 
 皇帝并不只祭祀一套“民间神”。郊祀、封禅、山川、社稷、先农、孔庙和历代祀典会决定哪些神获得国家名号、祭级、庙额和官方地域。后续条目必须把国家承认与地方灵验区分开。
+
+[太一](../02_deities/chinese/taiyi.md)展示国家礼制如何主动改变神的层级：《九歌》的东皇太一、宇宙论概念和汉武帝“天神贵者太一”的祭坛只建立 disputed historical-identification。[汉武帝太一、后土与封禅祭祀重组](../08_myths/chinese/han-wudi-state-rites.md)则把方士建议、官僚争论、牺牲、明堂、[泰山](../07_places/chinese/mount-tai.md)和帝国巡行作为一场历史宗教工程保存。
 
 ### 4. 道教诸传统
 
@@ -126,14 +136,20 @@ setting_status: established
 - [嫦娥／姮娥](../02_deities/chinese/change.md)
 - [共工](../02_deities/chinese/gonggong.md)
 - [女魃／魃](../02_deities/chinese/nuba.md)
+- [帝／上帝](../02_deities/chinese/di-shangdi.md)
+- [天／昊天](../02_deities/chinese/tian-haotian.md)
+- [后土](../02_deities/chinese/houtu.md)
+- [社与稷／社稷](../02_deities/chinese/sheji.md)
+- [河伯](../02_deities/chinese/hebo.md)
+- [太一／东皇太一](../02_deities/chinese/taiyi.md)
 
 ## 关联馆藏
 
-- 英雄：[大禹](../04_heroes/yu-the-great.md)、[黄帝](../04_heroes/chinese/huangdi.md)、[蚩尤](../04_heroes/chinese/chiyou.md)、[羿](../04_heroes/chinese/yi.md)、[夸父](../04_heroes/chinese/kuafu.md)
-- 圣物：[五色石](../05_relics/five-colored-stones.md)、[不死之药](../05_relics/chinese/elixir-of-immortality.md)、[息壤](../05_relics/chinese/xirang.md)
+- 英雄：[大禹](../04_heroes/yu-the-great.md)、[黄帝](../04_heroes/chinese/huangdi.md)、[蚩尤](../04_heroes/chinese/chiyou.md)、[羿](../04_heroes/chinese/yi.md)、[夸父](../04_heroes/chinese/kuafu.md)、[后稷](../04_heroes/chinese/houji.md)
+- 圣物与物质档案：[五色石](../05_relics/five-colored-stones.md)、[不死之药](../05_relics/chinese/elixir-of-immortality.md)、[息壤](../05_relics/chinese/xirang.md)、[商代甲骨卜辞](../05_relics/chinese/oracle-bones.md)、[青铜鼎](../05_relics/chinese/bronze-ding.md)
 - 异兽／存在：[黑龙](../06_beasts/black-dragon.md)、[精卫](../06_beasts/chinese/jingwei.md)、[应龙](../06_beasts/chinese/yinglong.md)、[相柳](../06_beasts/chinese/xiangliu.md)、[烛龙](../06_beasts/chinese/zhulong.md)
-- 地点：[昆仑](../07_places/chinese/kunlun.md)、[不周山](../07_places/chinese/buzhou-mountain.md)、[扶桑与汤谷](../07_places/chinese/fusang-tanggu.md)、[蓬莱与海上五山](../07_places/chinese/penglai-five-isles.md)、[幽都之山](../07_places/chinese/youdu.md)
-- 事件：[女娲补天](../08_myths/chinese/nvwa-mends-heaven.md)、[羿射十日](../08_myths/chinese/yi-shoots-the-suns.md)、[姮娥奔月](../08_myths/chinese/change-flies-to-moon.md)、[共工触不周](../08_myths/chinese/gonggong-strikes-buzhou.md)、[黄帝战蚩尤](../08_myths/chinese/huangdi-and-chiyou.md)、[鲧禹治水](../08_myths/chinese/yu-controls-the-flood.md)、[夸父逐日](../08_myths/chinese/kuafu-chases-the-sun.md)、[精卫填海](../08_myths/chinese/jingwei-fills-the-sea.md)
+- 地点：[昆仑](../07_places/chinese/kunlun.md)、[不周山](../07_places/chinese/buzhou-mountain.md)、[扶桑与汤谷](../07_places/chinese/fusang-tanggu.md)、[蓬莱与海上五山](../07_places/chinese/penglai-five-isles.md)、[幽都之山](../07_places/chinese/youdu.md)、[泰山](../07_places/chinese/mount-tai.md)、[黄河神圣水系](../07_places/chinese/yellow-river-hebo.md)、[社稷坛](../07_places/chinese/sheji-altars.md)
+- 事件：[女娲补天](../08_myths/chinese/nvwa-mends-heaven.md)、[羿射十日](../08_myths/chinese/yi-shoots-the-suns.md)、[姮娥奔月](../08_myths/chinese/change-flies-to-moon.md)、[共工触不周](../08_myths/chinese/gonggong-strikes-buzhou.md)、[黄帝战蚩尤](../08_myths/chinese/huangdi-and-chiyou.md)、[鲧禹治水](../08_myths/chinese/yu-controls-the-flood.md)、[夸父逐日](../08_myths/chinese/kuafu-chases-the-sun.md)、[精卫填海](../08_myths/chinese/jingwei-fills-the-sea.md)、[殷命终止与周受天命](../08_myths/chinese/mandate-transfer-shang-zhou.md)、[后稷出生与肇祀](../08_myths/chinese/houji-birth-and-grain.md)、[汉武帝国家祭祀重组](../08_myths/chinese/han-wudi-state-rites.md)
 - 静默条目：[帝俊](../09_silent-gallery/chinese/dijun.md)，作为重要谱系节点保留，不与帝喾或上帝草率合并
 
 ## 设定层
@@ -151,3 +167,7 @@ setting_status: established
 - [source.major.huainanzi](../99_sources/bibliography.md#sourcemajorhuainanzi)
 - [source.lewis.flood-myths-early-china](../99_sources/bibliography.md#sourcelewisflood-myths-early-china)
 - [source.cahill.xiwangmu](../99_sources/bibliography.md#sourcecahillxiwangmu)
+- [source.keightley.ancestral-landscape](../99_sources/bibliography.md#sourcekeightleyancestral-landscape)
+- [source.shangshu.shaogao-duoshi](../99_sources/bibliography.md#sourceshangshushaogao-duoshi)
+- [source.guoyu-liji.houtu-sheji](../99_sources/bibliography.md#sourceguoyu-lijihoutu-sheji)
+- [source.shiji.fengshan.taiyi-houtu](../99_sources/bibliography.md#sourceshijifengshantaiyi-houtu)

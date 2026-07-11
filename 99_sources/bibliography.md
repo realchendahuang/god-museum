@@ -588,6 +588,122 @@
 - 支持：西王母从早期西方神灵到汉代、六朝和中世纪道教女仙中心的形象变化、宴会、启示与不死关系。
 - 限制：中世纪材料不能倒填《山海经》；连续神名不等于所有时期神格、造型与职掌完全相同。
 
+### source.keightley.ancestral-landscape
+
+- 等级：P1 / S1（甲骨文材料与专门研究）
+- 作者：David N. Keightley
+- 作品：*The Ancestral Landscape: Time, Space, and Community in Late Shang China, ca. 1200–1045 B.C.*
+- 出版：Institute of East Asian Studies, University of California, Berkeley, 2000
+- 支持：晚商王室卜辞中的祖先、帝、自然力量、日期、空间、战争、天气和祭祀网络；用于阻止把甲骨材料整理成后世天庭的早期简表。
+- 限制：甲骨多为高度格式化的占卜记录，不能独立提供现代意义的神话传记；“帝”与祖先、自然神的准确层级和互动仍有研究争议。
+
+### source.shaughnessy.western-zhou-history
+
+- 等级：P1 / S1（金文与西周史研究）
+- 作者：Edward L. Shaughnessy
+- 作品：*Sources of Western Zhou History: Inscribed Bronze Vessels*
+- 出版：University of California Press, 1991
+- 支持：西周青铜器铭文作为册命、战争、赏赐、祖先祭祀与政治记忆的一手材料，以及铭文年代与传世文献之间的校核方法。
+- 限制：青铜铭文由具体家族和政治事件产生，不等于一部统一周代神学正典。
+
+### source.puett.become-god
+
+- 等级：S1
+- 作者：Michael J. Puett
+- 作品：*To Become a God: Cosmology, Sacrifice, and Self-Divinization in Early China*
+- 出版：Harvard University Asia Center, 2002
+- 支持：战国秦汉宇宙论、祭祀、神圣秩序和帝王如何通过仪式重构人与神关系。
+- 限制：“国家宗教”不是静止制度；思想文本中的宇宙论方案与实际地方祭祀必须分别取证。
+
+### source.poo.personal-welfare
+
+- 等级：S1
+- 作者：Mu-chou Poo
+- 作品：*In Search of Personal Welfare: A View of Ancient Chinese Religion*
+- 出版：State University of New York Press, 1998
+- 支持：战国至汉代铭文、简帛、祷祠和日常宗教材料中的神、人、福祸与个人需求，补足仅从国家经典理解宗教的偏差。
+- 限制：个人祈愿与帝国祀典互有交叉但不能互相代替；地域和社会层级差异必须保留。
+
+### source.shangshu.shaogao-duoshi
+
+- 等级：P1 / P2（早期材料、传世编定与注疏层并存）
+- 作品：《尚书·召诰》《多士》
+- 定位：《召诰》“皇天上帝，改厥元子兹大国殷之命”“惟不敬厥德，乃早坠厥命”；《多士》叙夏、商、周命运转移与“上帝不保”
+- 支持：周初政治话语把殷命的终止、周受命、敬德、民情和皇天上帝联系起来；天命不是无条件永久财产。
+- 限制：篇章形成、传承和具体历史层次需结合金文研究；不能把“天命”翻译成现代选举、普遍人权或自动善恶报应。
+- 访问：[《召诰》](https://ctext.org/shang-shu/announcement-of-the-duke-of-shao/zh#n21355) · [《多士》](https://ctext.org/shang-shu/numerous-officers/zh#n21381)
+
+### source.shijing.wenwang-mandate
+
+- 等级：P1 / P2
+- 作品：《诗经·大雅·文王》
+- 定位：“文王在上，于昭于天”“周虽旧邦，其命维新”“侯服于周，天命靡常”“命之不易”
+- 支持：文王在天／帝左右、周命更新、商人转而服周以及天命无常与不易维持的诗歌政治神学。
+- 限制：颂诗以仪式、祖先赞美和王朝合法性为目的，不是中立编年史；“在帝左右”也不能直接推演出固定天界官职。
+- 访问：[中国哲学书电子化计划](https://ctext.org/book-of-poetry/decade-of-wen-wang/zh#n16210)
+
+### source.shijing.shengmin-houji
+
+- 等级：P1 / P2
+- 作品：《诗经·大雅·生民》
+- 定位：姜嫄履帝迹感生后稷；后稷被弃而获牛羊、鸟翼保护；种植百谷、降嘉种、肇祀
+- 支持：后稷的异常出生、弃置与生存、农业能力、周人祖先身份和祭祀开端。
+- 限制：“履帝武敏歆”的语义和受孕机制存在长期解释；不能用现代生物学或一位已确定人格的“帝”填平诗歌含混。
+- 访问：[中国哲学书电子化计划](https://ctext.org/book-of-poetry/decade-of-sheng-min/zh#n16365)
+
+### source.guoyu-liji.houtu-sheji
+
+- 等级：P2
+- 作品：《国语·鲁语上》《礼记·祭法》
+- 定位：共工氏之子后土能平九土／九州，故祀以为社；烈山氏之子柱／农与周弃先后因殖百谷而祀为稷；王、诸侯及群体分别立社
+- 支持：后土、社、稷、后稷和国家／群体祭坛之间的历史解释，以及功于民者进入祀典的原则。
+- 限制：《国语》《礼记》反映后世对更早祭祀的整理；“社”既可指神、坛与制度，“社稷”也可成为国家代称，不能只按人格神阅读。
+- 访问：[《国语·鲁语上》](https://ctext.org/guo-yu/lu-yu-shang/zh#n24568) · [《礼记·祭法》社坛](https://ctext.org/liji/ji-fa/zh#n11680) · [祀典](https://ctext.org/liji/ji-fa/zh#n11683)
+
+### source.chuci.jiuge.taiyi-hebo
+
+- 等级：P1 / P2（楚辞文本与汉代编定层）
+- 作品：《楚辞·九歌·东皇太一》《河伯》
+- 定位：《东皇太一》吉日良辰、玉饰、芳肴、桂酒、鼓乐与“上皇”；《河伯》九河、水车、双龙、鱼鳞屋与送别场景
+- 支持：东皇太一与河伯在《九歌》中的仪式诗歌、物质供献、音乐、神游和情感关系；神格必须从完整祭歌读取。
+- 限制：《九歌》表演、祭祀对象和各篇关系存在研究争议；不能把诗中第一人称直接当作神明现代自传。
+- 访问：[《东皇太一》](https://ctext.org/chu-ci/dong-huang-tai-yi/zh#n51808) · [《河伯》](https://ctext.org/chu-ci/he-bo/zh#n51822)
+
+### source.shiji.fengshan.taiyi-houtu
+
+- 等级：P2
+- 作者：司马迁
+- 作品：《史记·封禅书》
+- 定位：汉武帝时期立太一祠，称“天神贵者太一，太一佐曰五帝”；汾阴立后土祠；泰山封禅与明堂祭太一、五帝、后土
+- 支持：秦汉国家如何新增、重组和空间化祭祀对象，以及太一、五帝、上帝、后土、泰山、封禅和帝国政治的具体制度关系。
+- 限制：《封禅书》同时记录方士主张、朝廷争论、传闻和司马迁叙述；“古者”主张不能全部当作已证实的上古事实。
+- 访问：[太一祠](https://ctext.org/shiji/feng-chan-shu/zh#n5773) · [后土祠](https://ctext.org/shiji/feng-chan-shu/zh#n5781) · [封禅](https://ctext.org/shiji/feng-chan-shu/zh#n5796) · [明堂](https://ctext.org/shiji/feng-chan-shu/zh#n5807)
+
+### source.met.oracle-bones
+
+- 等级：P1 / S2（博物馆器物节点）
+- 机构：The Metropolitan Museum of Art, Asian Art
+- 器物：[Oracle bone 67.43.14](https://www.metmuseum.org/art/collection/search/42045)，晚商，刻辞骨，长 22.5 cm；[Oracle bone 67.43.15](https://www.metmuseum.org/art/collection/search/60695)，晚商，刻辞骨，长 17.1 cm
+- 支持：甲骨卜辞是刻写在真实动物骨材上的占卜记录；材料、尺寸和保存状态使“神谕文字”重新落回仪式技术与物质对象。
+- 限制：两件无完整条目释文的博物馆器物不能独立证明所有商代神名、占卜主题或王室程序。
+
+### source.met.shang-ding
+
+- 等级：P1 / S2（博物馆器物节点）
+- 机构：The Metropolitan Museum of Art, Asian Art
+- 器物：[Tripod cauldron (Ding), 49.135.5](https://www.metmuseum.org/art/collection/search/60514)，商代公元前十三至十二世纪，青铜，高 20.3 cm
+- 支持：鼎作为真实青铜容器的三足、双耳、尺度与铸造物质性；用于区分考古礼器、铭文政治媒介与后世“九鼎镇国神器”想象。
+- 限制：单件无长铭鼎不能代表所有鼎的祭祀用途，也不能证明它属于禹铸九鼎或具备超自然能力。
+
+### source.li-feng.early-china
+
+- 等级：S1
+- 作者：Li Feng
+- 作品：*Early China: A Social and Cultural History*
+- 出版：Cambridge University Press, 2013
+- 支持：从考古、甲骨、青铜器铭文和传世文献综合理解商周国家、祖先祭祀、礼制与政治变化。
+- 限制：现代综合史提供结构与争议，不替代具体卜辞、铭文、器物和篇章定位。
+
 ## 希腊
 
 ### source.hesiod.theogony.139-146

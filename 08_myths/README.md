@@ -39,6 +39,9 @@
 | [鲧禹治水与九州复定](./chinese/yu-controls-the-flood.md) | 中国 | 息壤、帝命、堵塞、疏导、土地重新分配与圣王伦理 |
 | [夸父逐日](./chinese/kuafu-chases-the-sun.md) | 中国 | 河渭不足、道渴而死、杖化邓林与应龙杀死的版本接缝 |
 | [精卫填海](./chinese/jingwei-fills-the-sea.md) | 中国 | 溺亡、鸟形转化与没有终局保证的持续填海行动 |
+| [殷命终止与周受天命](./chinese/mandate-transfer-shang-zhou.md) | 中国 | 王朝征服、皇天上帝、敬德、民与天命可转移的政治神学 |
+| [后稷出生、弃置与肇祀](./chinese/houji-birth-and-grain.md) | 中国 | 姜嫄感生、三次弃置、鸟兽保护、百谷与祖先祭祀起点 |
+| [汉武帝太一、后土与封禅祭祀重组](./chinese/han-wudi-state-rites.md) | 中国 | 方士建议、国家祭坛、牺牲、明堂、泰山与帝国受命工程 |
 | [泰坦战争](./greek/titanomachy.md) | 希腊 | 神代继承、盟友释放、雷霆战争与权能分配 |
 | [雅典娜的诞生](./greek/birth-of-athena.md) | 希腊 | 墨提斯、继承预言、头生与武装神显 |
 | [奥丁悬树得符文](./norse/odin-wins-runes.md) | 北欧 | 身体、九夜、自我献祭与知识代价 |

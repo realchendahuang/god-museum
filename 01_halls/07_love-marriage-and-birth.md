@@ -50,6 +50,8 @@ domains:
 - [羲和](../02_deities/chinese/xihe.md)与[常羲](../02_deities/chinese/changxi.md)：帝俊之妻、生十日／十二月的平行谱系不能扩写成完整家庭制度。
 - [嫦娥](../02_deities/chinese/change.md)与[羿](../04_heroes/chinese/yi.md)：《淮南子》核心段落只确认取药、窃药和奔月，婚姻动机与爱情悲剧属于后世面相。
 - [帝俊](../09_silent-gallery/chinese/dijun.md)：作为谱系枢纽保留在静默长廊，不凭配偶和子女列表制造完整神王传记。
+- [后稷](../04_heroes/chinese/houji.md)与姜嫄：异常感生、求子仪式和弃置生存保留诗歌含混，不指定一套现代生殖叙事。
+- [河伯](../02_deities/chinese/hebo.md)：《九歌》的同游与送别属于仪式诗歌关系，不能简写为固定神婚。
 
 ## 美索不达米亚馆藏
 

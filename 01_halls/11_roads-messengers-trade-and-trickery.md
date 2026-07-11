@@ -45,6 +45,8 @@ domains:
 - [嫦娥](../02_deities/chinese/change.md)：以窃药和奔月跨越人间—月亮边界；动机必须留给具体后世版本。
 - [女魃](../02_deities/chinese/nuba.md)与[应龙](../06_beasts/chinese/yinglong.md)：从天界下降参战后无法返回，使道路本身成为不可逆代价。
 - [蓬莱五山](../07_places/chinese/penglai-five-isles.md)：海上漂移、巨鳌承山和仙圣迁徙展示仙路也依赖空间基础设施。
+- [河伯](../02_deities/chinese/hebo.md)与[黄河](../07_places/chinese/yellow-river-hebo.md)：水车、九河与河渚把神游、交通和现实水道连接起来。
+- [泰山封禅](../08_myths/chinese/han-wudi-state-rites.md)：皇帝巡行、物资、方士、儒生和地方空间共同建成国家神圣道路。
 
 ## 本殿设定
 

@@ -41,6 +41,9 @@ domains:
 - [西王母](../02_deities/chinese/xiwangmu.md)与[不死之药](../05_relics/chinese/elixir-of-immortality.md)：不死资源在早期西方神灵、两汉文本与中世纪女仙传统之间改变意义。
 - [息壤](../05_relics/chinese/xirang.md)：神土既能参与堵水，也涉及所有权、帝命和土地重新分配。
 - [相柳](../06_beasts/chinese/xiangliu.md)：被杀后的血仍使五谷不能生长，胜利并未自动恢复生命条件。
+- [后土](../02_deities/chinese/houtu.md)：从平九土、祀为社到汉代汾阴地祇祭祀，土地权柄由功绩和制度共同塑造。
+- [社与稷](../02_deities/chinese/sheji.md)、[后稷](../04_heroes/chinese/houji.md)与[社稷坛](../07_places/chinese/sheji-altars.md)：土地、谷物、祖先、祭坛和国家存续不可拆成两位抽象农业神。
+- [后稷出生与肇祀](../08_myths/chinese/houji-birth-and-grain.md)：农业成果只有在播种、收获和奉献的完整周期中成为神圣秩序。
 - [奥西里斯](../02_deities/egyptian/osiris.md)：尸体复苏、死者持续和后续植物／谷物关联必须按文本与仪式分层，不能缩写成“春天复活神”。
 - [伊西斯](../02_deities/egyptian/isis.md)：寻找、哀悼、保护幼子与治疗让生命权柄成为连续行动。
 - [哈索尔](../02_deities/egyptian/hathor.md)：母性、滋养、感官力量和太阳之眼的危险面相共同存在。

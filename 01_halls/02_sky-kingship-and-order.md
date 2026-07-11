@@ -42,6 +42,10 @@ domains:
 | [共工](../02_deities/chinese/gonggong.md) | 帝位竞争、洪水与宇宙倾斜 | 失败者不等于普通水怪；《淮南子》与《山海经》版本分层 |
 | [黄帝](../04_heroes/chinese/huangdi.md) | 《史记》五帝古史中的战争、统一与天子建立 | 后世祖师和民族始祖面相不能倒填西汉编排 |
 | [蚩尤](../04_heroes/chinese/chiyou.md) | 黄帝秩序建立所面对的强敌与失败者记忆 | 作乱者、兵主、地方祖先等身份按来源并存 |
+| [帝／上帝](../02_deities/chinese/di-shangdi.md) | 晚商高位权力与周代皇天上帝政治语言 | 甲骨帝、周代上帝、玉皇和基督宗教译名分层 |
+| [天／昊天](../02_deities/chinese/tian-haotian.md) | 天命、德、民与王朝合法性 | 人格、自然和礼制面相没有单一永恒定义 |
+| [后土](../02_deities/chinese/houtu.md)与[社稷](../02_deities/chinese/sheji.md) | 土地、谷物、祭坛和政治共同体 | 后土早期非固定女神；社稷非单一人格神 |
+| [太一](../02_deities/chinese/taiyi.md) | 汉代“天神贵者太一”国家祭祀 | 《九歌》东皇太一与汉祠只作争议性历史认同 |
 | [因陀罗](../02_deities/vedic/indra.md) | 强大神祇、战斗与部分天界秩序 | 吠陀地位不能只用后世“天帝”职位解释 |
 | [荷鲁斯](../02_deities/egyptian/horus.md) | 活王身份、奥西里斯继承与两地王权 | 不同荷鲁斯面相和地方中心必须分层 |
 | [玛阿特](../02_deities/egyptian/maat.md) | 真理、正当秩序、称心与王权合法性 | 不是跨文明统一法律或现代因果报应 |

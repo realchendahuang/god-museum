@@ -49,6 +49,9 @@ domains:
 - [鲧禹治水](../08_myths/chinese/yu-controls-the-flood.md)：堵塞、疏导、开河和布土让技术选择直接改变政治空间与可居住土地。
 - [息壤](../05_relics/chinese/xirang.md)：神圣材料的能力不能脱离所有权、帝命和使用后果。
 - [帝俊](../09_silent-gallery/chinese/dijun.md)：文化与谱系发明在《山海经》中多次追溯到帝俊后裔，但节点不足以建立单一文明创造者神座。
+- [商代甲骨卜辞](../05_relics/chinese/oracle-bones.md)：文字、裂纹、日期和验证记录共同构成占卜技术，不是脱离物质的神谕数据库。
+- [青铜鼎](../05_relics/chinese/bronze-ding.md)：铸造、祭祀饮食、铭文和政治记忆共同塑造礼器；九鼎只是有来源的接收面相。
+- [后稷](../04_heroes/chinese/houji.md)：农业技艺与周人祖先祭祀相连，不以“发明农业”抹去更早和并行传统。
 
 ## 本殿设定
 

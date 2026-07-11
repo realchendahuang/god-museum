@@ -42,6 +42,8 @@ domains:
 - [鲧禹治水](../08_myths/chinese/yu-controls-the-flood.md)与[息壤](../05_relics/chinese/xirang.md)：把堵塞、疏导、材料权限和九州土地分配同时纳入治水。
 - [昆仑](../07_places/chinese/kunlun.md)、[幽都](../07_places/chinese/youdu.md)、[蓬莱五山](../07_places/chinese/penglai-five-isles.md)：分别保存河源神山、北方黑色地理和漂移仙山系统，不拼成一张世界地图。
 - [精卫](../06_beasts/chinese/jingwei.md)与[相柳](../06_beasts/chinese/xiangliu.md)：填海的持续行动与死后污染土地展示水土关系的不同危险。
+- [河伯](../02_deities/chinese/hebo.md)与[黄河神圣水系](../07_places/chinese/yellow-river-hebo.md)：九河、水车、龙堂与现实黄河祭祀相连，不统治所有文明河流。
+- [泰山](../07_places/chinese/mount-tai.md)：真实山体因封禅、巡狩、地方庙祀和后世冥界面相获得多重神圣地理。
 
 ## 本殿设定
 

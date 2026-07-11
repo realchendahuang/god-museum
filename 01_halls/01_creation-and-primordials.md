@@ -56,6 +56,8 @@ domains:
 - [共工怒触不周山](../08_myths/chinese/gonggong-strikes-buzhou.md)：世界结构因帝位竞争发生倾斜，但倾斜后的星辰与水流仍构成可运行宇宙。
 - [不周山](../07_places/chinese/buzhou-mountain.md)：同时是西北“不合”之山和宇宙支柱断裂节点，不与女娲鳌足修复自动合并。
 - [烛龙](../06_beasts/chinese/zhulong.md)：以开闭目组织明暗的宇宙身体，显示原初秩序未必来自一次创世行为。
+- [太一／东皇太一](../02_deities/chinese/taiyi.md)：从《九歌》祭歌、宇宙论概念到汉代高位天神保持 disputed，不把“一”自动解释为创世人格。
+- [天／昊天](../02_deities/chinese/tian-haotian.md)：只有具体文本明确把天写成有意志行动者时才进入本殿，不将天空、自然与人格神无条件合并。
 
 ## 美索不达米亚馆藏
 
