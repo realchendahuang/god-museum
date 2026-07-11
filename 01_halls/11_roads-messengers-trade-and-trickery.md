@@ -42,6 +42,9 @@ domains:
 - [塞特](../02_deities/egyptian/seth.md)：以越界、变形、欺骗与沙漠边境进入；后期负面化不能抹去早期地方和王权位置。
 - [阿努比斯](../02_deities/egyptian/anubis.md)：守护墓地边界、引导死者与开启转化道路，不等于冥界统治者。
 - [伊西斯](../02_deities/egyptian/isis.md)：《荷鲁斯与塞特之争》中的伪装和语言策略显示诡计也能服务继承合法性。
+- [嫦娥](../02_deities/chinese/change.md)：以窃药和奔月跨越人间—月亮边界；动机必须留给具体后世版本。
+- [女魃](../02_deities/chinese/nuba.md)与[应龙](../06_beasts/chinese/yinglong.md)：从天界下降参战后无法返回，使道路本身成为不可逆代价。
+- [蓬莱五山](../07_places/chinese/penglai-five-isles.md)：海上漂移、巨鳌承山和仙圣迁徙展示仙路也依赖空间基础设施。
 
 ## 本殿设定
 

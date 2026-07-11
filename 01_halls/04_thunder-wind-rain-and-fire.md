@@ -29,12 +29,16 @@ setting_status: established
 | [因陀罗](../02_deities/vedic/indra.md) | 吠陀 | 雷击、战斗、破障与释放水流 | 吠陀形象不能直接等同于后世印度教中的全部形象 |
 | [阿耆尼](../02_deities/vedic/agni.md) | 吠陀 | 祭火、祭祀传递与召请诸神 | 进入本殿的是火权柄，不属于雷霆神之间的类比链 |
 | [塞特](../02_deities/egyptian/seth.md) | 古埃及 | 风暴、沙漠边界与危险强力 | 不是单纯天气神；王位竞争、地方祭祀与后期妖魔化必须同存 |
+| [女魃](../02_deities/chinese/nuba.md) | 中国 | 战争中止雨、战后旱灾 | 帮助黄帝后不得返天，胜利权能转为长期环境代价 |
+| [应龙](../06_beasts/chinese/yinglong.md) | 中国 | 蓄水作战、南方降雨与求雨模仿 | 后世翼龙与治水面相不得倒填《山海经》短段 |
 
 ## 当前关系
 
 雷公、宙斯、索尔与因陀罗之间只建立 domain-analogue：它们共享部分雷霆或风暴权柄，但没有在原典层被宣布为同一存在。阿耆尼因祭火进入本殿，不被加入“雷神”类比链。
 
 雷公与雨师在《楚辞·远游》中并列出现，可建立 co-occurrence 整理关系，不据此建立亲缘或主从。
+
+[黄帝与蚩尤之战](../08_myths/chinese/huangdi-and-chiyou.md)让风伯、雨师、应龙与女魃形成一场气象对抗；它证明天气权柄可以被战争联盟调用，也证明停雨不必然等于永久善果。
 
 宙斯与索尔都使用标志性雷霆武器，但一个连接神王与宇宙秩序，一个连接对巨人的持续防卫。武器相似不是身份相同。
 
@@ -62,6 +66,8 @@ setting_status: established
 
 - source.chuci.yuanyou.leigong：雷公与雨师并列为远游护卫。
 - source.lunheng.leixu.thunder-punishment：记录并反驳汉代社会中“雷罚阴过”的通俗解释；它是观念史材料，不是雷公完整神传。
+- source.shanhaijing.dahuangbei.yinglong-nuba-zhulong：应龙蓄水、风伯雨师发雨、女魃止雨及战后旱灾后果。
+- source.shanhaijing.dahuangdong.yinglong：应龙不得复上与模仿其形求雨的文本节点。
 - source.hesiod.theogony.139-146：独眼巨人给予宙斯雷霆并制造雷电武器。
 - source.snorri.gylfaginning.21：索尔、妙尔尼尔、力量腰带、铁手套与巨人敌对。
 - source.rigveda.1.32：因陀罗持雷击杀弗栗多并释放水流。

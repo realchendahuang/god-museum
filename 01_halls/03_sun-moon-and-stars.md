@@ -43,6 +43,14 @@ domains:
 
 [太阳夜航](../08_myths/egyptian/solar-night-journey.md)是本殿第一份完整天体循环事件。它把日落、杜阿特十二时、奥西里斯、阿佩普与清晨更新连接起来，也证明天体运动在神话中可以同时是时间、死亡和仪式问题。
 
+## 中国馆藏
+
+- [羲和](../02_deities/chinese/xihe.md)、[常羲](../02_deities/chinese/changxi.md)：分别生十日与十二月并浴日／浴月；平行结构不证明同神。
+- [嫦娥／姮娥](../02_deities/chinese/change.md)与[不死之药](../05_relics/chinese/elixir-of-immortality.md)：奔月源于一条极短动作链，月宫元素按后世面相接入。
+- [扶桑与汤谷](../07_places/chinese/fusang-tanggu.md)：九日居下枝、一日居上枝的太阳轮替空间。
+- [羿射十日](../08_myths/chinese/yi-shoots-the-suns.md)与[夸父逐日](../08_myths/chinese/kuafu-chases-the-sun.md)：分别从公共除害和身体极限进入天体事件。
+- [烛龙](../06_beasts/chinese/zhulong.md)：闭目为晦、开目为明，不被改写成太阳神或火龙。
+
 ## 本殿设定
 
 穹顶同时保留不同诸神域的昼夜节律。拉只照亮埃及诸神域的太阳关系，任何太阳都不能照亮全部神系，任何月相也不能规定共殿的统一历法。参观者看见的光取决于自己正在阅读哪一份传统。

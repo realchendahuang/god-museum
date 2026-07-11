@@ -51,6 +51,12 @@ domains:
 - [神话剧场](../08_myths/README.md)：保存完整创世叙事及不同版本。
 - [静默长廊](../09_silent-gallery/README.md)：保存只剩名字的原初存在。
 
+## 中国馆藏
+
+- [共工怒触不周山](../08_myths/chinese/gonggong-strikes-buzhou.md)：世界结构因帝位竞争发生倾斜，但倾斜后的星辰与水流仍构成可运行宇宙。
+- [不周山](../07_places/chinese/buzhou-mountain.md)：同时是西北“不合”之山和宇宙支柱断裂节点，不与女娲鳌足修复自动合并。
+- [烛龙](../06_beasts/chinese/zhulong.md)：以开闭目组织明暗的宇宙身体，显示原初秩序未必来自一次创世行为。
+
 ## 美索不达米亚馆藏
 
 - [提亚马特](../02_deities/mesopotamian/tiamat.md)与[《埃努玛·埃利什》](../08_myths/mesopotamian/enuma-elish.md)：保存原初水、神代战争、身体创世与马尔杜克王权提升，不把它宣布为两河唯一创世版。

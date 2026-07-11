@@ -43,6 +43,13 @@ domains:
 
 [奥丁悬树得符文](../08_myths/norse/odin-wins-runes.md)是本殿当前最完整的求知事件，[雅典娜的诞生](../08_myths/greek/birth-of-athena.md)则把谋略、继承危机和武装神显连接起来。
 
+## 中国馆藏
+
+- [黄帝](../04_heroes/chinese/huangdi.md)：医学、历法、兵法、技术和修道作品大量托名黄帝；本殿记录 attribution 与接收史，不宣称一位历史作者完成全部发明。
+- [鲧禹治水](../08_myths/chinese/yu-controls-the-flood.md)：堵塞、疏导、开河和布土让技术选择直接改变政治空间与可居住土地。
+- [息壤](../05_relics/chinese/xirang.md)：神圣材料的能力不能脱离所有权、帝命和使用后果。
+- [帝俊](../09_silent-gallery/chinese/dijun.md)：文化与谱系发明在《山海经》中多次追溯到帝俊后裔，但节点不足以建立单一文明创造者神座。
+
 ## 本殿设定
 
 本殿没有无限开放的总图书馆。每项知识都保留获取方式、使用者和代价；偷取、传授、发明、启示与献祭所得不会被统一标成“已解锁科技”。

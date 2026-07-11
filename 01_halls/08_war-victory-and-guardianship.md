@@ -44,8 +44,14 @@ domains:
 | [荷鲁斯](../02_deities/egyptian/horus.md) | 王位争斗、身体受损、修复与合法继承共同定义胜利 |
 | [塞特](../02_deities/egyptian/seth.md) | 既是奥西里斯杀害者和争位者，也在特定太阳船文本中承担危险守护力量 |
 | [法老（王权角色）](../04_heroes/egyptian/pharaoh.md) | 王权图像中的击敌与边境保护必须与具体历史战争分开 |
+| [黄帝](../04_heroes/chinese/huangdi.md) | 五帝古史中的统一战争与《山海经》神助版本必须并列 |
+| [蚩尤](../04_heroes/chinese/chiyou.md) | 失败者、兵主与地方祖先身份不被“怪物敌人”概括 |
+| [羿](../04_heroes/chinese/yi.md) | 神射只有与十日灾害、异兽除害和公共秩序相连才成立 |
+| [女魃](../02_deities/chinese/nuba.md)与[应龙](../06_beasts/chinese/yinglong.md) | 战争胜利以不能返天、旱灾和求雨关系为代价 |
 
 [泰坦战争](../08_myths/greek/titanomachy.md)、[妙尔尼尔失窃](../08_myths/norse/the-theft-of-mjolnir.md)、[因陀罗击弗栗多](../08_myths/vedic/indra-and-vritra.md)和[荷鲁斯与塞特争位](../08_myths/egyptian/contendings-of-horus-and-seth.md)分别展示战争如何服务于继承、守护、放水与法庭承认；相似的战斗表面没有产生同一种胜利。
+
+[黄帝与蚩尤之战](../08_myths/chinese/huangdi-and-chiyou.md)进一步证明战争版本可以同时属于史家王权编排和神话气象对抗；本殿不选择其中一份作为唯一战报。
 
 ## 本殿设定
 

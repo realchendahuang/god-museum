@@ -45,6 +45,9 @@ domains:
 - [托特](../02_deities/egyptian/thoth.md)：月相、历法与记录让时间可计算，不意味着预定全部未来。
 - [玛阿特](../02_deities/egyptian/maat.md)：世界持续运行所需的正当关系，不是人格化宿命。
 - [太阳夜航](../08_myths/egyptian/solar-night-journey.md)：每夜重复的十二时把循环时间、死亡与更新连成具体行动。
+- [羲和](../02_deities/chinese/xihe.md)与[常羲](../02_deities/chinese/changxi.md)：十日和十二月通过生育、沐浴与轮替组织天体时间，不是现代历法的直接说明。
+- [西王母](../02_deities/chinese/xiwangmu.md)、[嫦娥](../02_deities/chinese/change.md)与[不死之药](../05_relics/chinese/elixir-of-immortality.md)：不死追求改变个体所在时间，却不提供所有人的普遍永生规则。
+- [夸父逐日](../08_myths/chinese/kuafu-chases-the-sun.md)：追赶日影把天体时间转化为身体无法跨越的距离。
 
 ## 本殿设定
 

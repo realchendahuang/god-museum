@@ -38,6 +38,10 @@ domains:
 - [弗栗多](../06_beasts/vritra.md)与[因陀罗击弗栗多](../08_myths/vedic/indra-and-vritra.md)：让“水权柄”同时包含阻挡、破障与重新流动。
 - [大禹](../04_heroes/yu-the-great.md)：以疏导江淮河汉、驱逐蛇龙和恢复平土进入英雄长廊与本殿交界。
 - [女娲补天](../08_myths/chinese/nvwa-mends-heaven.md)：灾变中的淫水与止水行动属于复序链，而不是独立水神叙事。
+- [共工](../02_deities/chinese/gonggong.md)与[不周山](../07_places/chinese/buzhou-mountain.md)：帝位竞争导致宇宙倾斜和水归东南，不代表所有洪水同源。
+- [鲧禹治水](../08_myths/chinese/yu-controls-the-flood.md)与[息壤](../05_relics/chinese/xirang.md)：把堵塞、疏导、材料权限和九州土地分配同时纳入治水。
+- [昆仑](../07_places/chinese/kunlun.md)、[幽都](../07_places/chinese/youdu.md)、[蓬莱五山](../07_places/chinese/penglai-five-isles.md)：分别保存河源神山、北方黑色地理和漂移仙山系统，不拼成一张世界地图。
+- [精卫](../06_beasts/chinese/jingwei.md)与[相柳](../06_beasts/chinese/xiangliu.md)：填海的持续行动与死后污染土地展示水土关系的不同危险。
 
 ## 本殿设定
 

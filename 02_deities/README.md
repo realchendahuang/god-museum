@@ -8,6 +8,14 @@
 
 - [雷公](./chinese/leigong.md)
 - [女娲](./chinese/nvwa.md)
+- [西王母](./chinese/xiwangmu.md)
+- [羲和](./chinese/xihe.md)
+- [常羲](./chinese/changxi.md)
+- [嫦娥／姮娥](./chinese/change.md)
+- [共工](./chinese/gonggong.md)
+- [女魃／魃](./chinese/nuba.md)
+
+中国神座额外执行“历史面相”规则：同一神名在《山海经》《淮南子》、国家礼制、道教、佛教传播、地方庙祀与小说中出现时，必须标明时代和制度；帝、天、玉皇以及常羲、嫦娥等相近名称不凭现代通行说法直接合并。
 
 ### 希腊传统
 

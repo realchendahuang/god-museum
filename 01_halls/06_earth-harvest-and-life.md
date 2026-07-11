@@ -38,6 +38,9 @@ domains:
 - [女娲](../02_deities/chinese/nvwa.md)：当前以灾后复序为核心，造人与生命权柄仍需更多来源，因此只从次要入口进入本殿。
 - [大禹](../04_heroes/yu-the-great.md)：不是土地神，却通过恢复平土与人群定居让生命条件重新成立。
 - [女娲补天](../08_myths/chinese/nvwa-mends-heaven.md)：天、地、水与猛兽失序如何共同威胁人间生活。
+- [西王母](../02_deities/chinese/xiwangmu.md)与[不死之药](../05_relics/chinese/elixir-of-immortality.md)：不死资源在早期西方神灵、两汉文本与中世纪女仙传统之间改变意义。
+- [息壤](../05_relics/chinese/xirang.md)：神土既能参与堵水，也涉及所有权、帝命和土地重新分配。
+- [相柳](../06_beasts/chinese/xiangliu.md)：被杀后的血仍使五谷不能生长，胜利并未自动恢复生命条件。
 - [奥西里斯](../02_deities/egyptian/osiris.md)：尸体复苏、死者持续和后续植物／谷物关联必须按文本与仪式分层，不能缩写成“春天复活神”。
 - [伊西斯](../02_deities/egyptian/isis.md)：寻找、哀悼、保护幼子与治疗让生命权柄成为连续行动。
 - [哈索尔](../02_deities/egyptian/hathor.md)：母性、滋养、感官力量和太阳之眼的危险面相共同存在。

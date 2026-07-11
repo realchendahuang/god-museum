@@ -45,6 +45,9 @@ domains:
 - [杜阿特](../07_places/egyptian/duat.md)：太阳夜航、奥西里斯王国、门、守卫和死者转化的多版本空间。
 - [阿米特](../06_beasts/egyptian/ammit.md)：只在不利判决后发挥有限吞噬权能，不是可离开法庭的战兽。
 - [太阳夜航](../08_myths/egyptian/solar-night-journey.md)：死亡不是静止终点，也可成为每日更新必须经过的时段。
+- [幽都之山](../07_places/chinese/youdu.md)：《山海经》中的北方黑色地理，不预装佛教地狱、道教冥司或十殿阎罗。
+- [精卫](../06_beasts/chinese/jingwei.md)：溺亡女娃转为持续行动的鸟形存在，死后变形不等于进入统一冥界。
+- [嫦娥](../02_deities/chinese/change.md)：不死药把她送往月亮，却没有在核心段落说明她获得何种不死状态。
 
 ## 本殿设定
 

@@ -425,6 +425,169 @@
 - 限制：该段是战国时期的伦理论述，不应被改写成对治水全过程的现场记录。
 - 访问：[中国哲学书电子化计划](https://ctext.org/mengzi/li-lou-ii/zh)
 
+### source.shanhaijing.xishan.xiwangmu-kunlun
+
+- 等级：P1 / P2（传世古籍及长期编辑层）
+- 作品：《山海经·西山经》
+- 定位：昆仑之丘为“帝之下都”、陆吾所司；玉山为西王母所居，西王母“豹尾虎齿而善啸，蓬发戴胜”并司天之厉及五残
+- 支持：早期昆仑并非单一仙境布景，而是帝之下都、河流源头、神兽与管理神共存的神圣地理；西王母早期形象与灾厉职掌也不能被后世蟠桃宴形象覆盖。
+- 限制：《山海经》各篇形成和编辑年代复杂；“西王母”跨篇形象及后世汉代、道教面相需另建来源，不能假设一部统一神传。
+- 访问：[昆仑之丘](https://ctext.org/shan-hai-jing/xi-shan-jing/zh#n83571) · [西王母](https://ctext.org/shan-hai-jing/xi-shan-jing/zh#n83574)
+
+### source.shanhaijing.dahuang.xihe-changxi
+
+- 等级：P1 / P2
+- 作品：《山海经·大荒南经》《大荒西经》
+- 定位：《大荒南经》羲和浴日于甘渊并“生十日”；《大荒西经》常羲浴月并“生月十有二”
+- 支持：羲和、常羲、帝俊、十日与十二月之间的明确亲属和沐浴关系，以及太阳、月亮并非抽象天体名单而有各自母系与运行场景。
+- 限制：两段没有提供完整神谱、每日运行制度或羿射日结局；羲和作为日御、常羲与后世嫦娥的关系必须另据具体文本处理。
+- 访问：[羲和与十日](https://ctext.org/shan-hai-jing/da-huang-nan-jing/zh#n84210) · [常羲与十二月](https://ctext.org/shan-hai-jing/da-huang-xi-jing/zh#n84244)
+
+### source.shanhaijing.haiwaidong.fusang
+
+- 等级：P1 / P2
+- 作品：《山海经·海外东经》
+- 定位：汤谷上有扶桑，十日所浴；九日居下枝，一日居上枝
+- 支持：扶桑、汤谷、十日轮替与树枝空间的直接文本节点。
+- 限制：文本没有在本段说明羿为何射日，也没有把扶桑等同现实中的某一棵树或现代地理位置。
+- 访问：[中国哲学书电子化计划](https://ctext.org/shan-hai-jing/hai-wai-dong-jing/zh#n84050)
+
+### source.shanhaijing.beishan.jingwei
+
+- 等级：P1 / P2
+- 作品：《山海经·北山经》
+- 定位：发鸠之山段，炎帝少女女娃溺于东海，化为精卫，衔西山木石以堙东海
+- 支持：女娃、溺亡、鸟形、名号、外貌、鸣声与持续填海行动的完整短叙事。
+- 限制：原文未宣称精卫最终填平东海，也没有把她写成一般意义的复仇女神；“坚持不懈”是接收史解释。
+- 访问：[中国哲学书电子化计划](https://ctext.org/shan-hai-jing/bei-shan-jing/zh#n83673)
+
+### source.shanhaijing.haiwaibei.xiangliu-kuafu
+
+- 等级：P1 / P2
+- 作品：《山海经·海外北经》
+- 定位：相柳九首、食于九山并被禹杀；夸父逐日、饮河渭、道渴而死、弃杖化邓林
+- 支持：相柳与共工的臣属关系、九首蛇身、土地污染和禹的处理；夸父逐日的行动、口渴、死亡与杖化树林。
+- 限制：同书《大荒北经》另有应龙杀夸父的版本；两个结局必须并置，不能修剪成单一路线。
+- 访问：[相柳](https://ctext.org/shan-hai-jing/hai-wai-bei-jing/zh#n84022) · [夸父](https://ctext.org/shan-hai-jing/hai-wai-bei-jing/zh#n84026)
+
+### source.shanhaijing.dahuangbei.yinglong-nuba-zhulong
+
+- 等级：P1 / P2
+- 作品：《山海经·大荒北经》
+- 定位：应龙杀蚩尤与夸父后留在南方；黄帝令应龙攻蚩尤、女魃止雨；烛龙开目为明、瞑目为晦
+- 支持：应龙、女魃、风伯、雨师参与蚩尤战争的气象对抗；女魃不能返天与旱灾关系；烛龙以身体动作组织明暗、风雨。
+- 限制：同篇相邻段落也可能保存不同叙事单元；不得据此建立一套无缝战争年表或把所有旱灾归于女魃。
+- 访问：[夸父与应龙](https://ctext.org/shan-hai-jing/da-huang-bei-jing/zh#n84280) · [蚩尤之战与女魃](https://ctext.org/shan-hai-jing/da-huang-bei-jing/zh#n84285) · [烛龙](https://ctext.org/shan-hai-jing/da-huang-bei-jing/zh#n84297)
+
+### source.shanhaijing.dahuangdong.yinglong
+
+- 等级：P1 / P2
+- 作品：《山海经·大荒东经》
+- 定位：应龙处南极，杀蚩尤与夸父后不得复上；旱时作应龙之状乃得大雨
+- 支持：应龙杀敌、失去升天能力、南方降雨与模仿应龙形态求雨之间的关系。
+- 限制：“作应龙之状”的具体仪式形式和历史实践不能只凭这一句话完整复原。
+- 访问：[中国哲学书电子化计划](https://ctext.org/shan-hai-jing/da-huang-dong-jing/zh#n84181)
+
+### source.shanhaijing.hainei.gun-xirang-youdu
+
+- 等级：P1 / P2
+- 作品：《山海经·海内经》
+- 定位：幽都之山与黑水；祝融—共工—后土谱系；鲧盗帝之息壤堵洪水、祝融杀鲧、禹布土定九州
+- 支持：幽都首先是一座北方黑色神话地理；祝融、共工、后土的明确谱系版本；息壤作为未经帝命盗取的治水材料及鲧、禹不同治水阶段。
+- 限制：幽都不能直接等同后世全部阴曹地府；鲧“复生禹”的语义、谱系和身体想象存在解释空间。
+- 访问：[幽都](https://ctext.org/shan-hai-jing/hai-nei-jing/zh#n84326) · [祝融至后土谱系](https://ctext.org/shan-hai-jing/hai-nei-jing/zh#n84336) · [息壤与鲧禹](https://ctext.org/shan-hai-jing/hai-nei-jing/zh#n84337)
+
+### source.huainanzi.tianwen.gonggong
+
+- 等级：P1
+- 作品：《淮南子·天文训》
+- 定位：共工与颛顼争帝，怒触不周山，天柱折、地维绝，天倾西北、地不满东南
+- 支持：共工触山导致宇宙倾斜，并以此解释日月星辰西移、水潦尘埃归东南的宇宙论叙事。
+- 限制：本段没有出现女娲补天；将“共工触山”和《览冥训》女娲复序直接拼成同一连续事件属于后世整合。
+- 访问：[中国哲学书电子化计划](https://ctext.org/huainanzi/tian-wen-xun/zh#n3056)
+
+### source.huainanzi.benjing.yi-ten-suns
+
+- 等级：P1
+- 作品：《淮南子·本经训》
+- 定位：尧时十日并出，羿射十日并诛凿齿、九婴、大风、猰貐、修蛇、封豨
+- 支持：十日灾害、尧命羿、射日与连续除害行动，以及事件与尧王权获得人心的政治关系。
+- 限制：原文写“上射十日”，没有在本段明确说明射落九个、保留一个的现代通行计数；诸异兽需要各自证据才能扩写。
+- 访问：[中国哲学书电子化计划](https://ctext.org/huainanzi/ben-jing-xun/zh#n361775)
+
+### source.huainanzi.lanming.change
+
+- 等级：P1
+- 作品：《淮南子·览冥训》
+- 定位：羿请不死之药于西王母，姮娥窃以奔月
+- 支持：羿、西王母、不死药、姮娥窃药与奔月之间的最短明确关系链。
+- 限制：该句作为哲学论证中的譬喻出现，没有在本段说明药量、月宫生活、玉兔、吴刚或姮娥动机；这些内容必须另建接收史节点。
+- 访问：[中国哲学书电子化计划](https://ctext.org/huainanzi/lan-ming-xun/zh#n3128)
+
+### source.shiji.wudi.huangdi-chiyou
+
+- 等级：P2
+- 作者：司马迁
+- 作品：《史记·五帝本纪》
+- 定位：轩辕修德振兵、阪泉三战；蚩尤作乱，黄帝征诸侯战于涿鹿并禽杀蚩尤
+- 支持：西汉史家编排下的黄帝、炎帝、蚩尤战争序列、政治统一与五帝谱系。
+- 限制：司马迁明确承认黄帝材料古远、百家异说且需择取；《史记》不是战争的同时代记录，也不包含《山海经》的全部神助和气象战版本。
+- 访问：[中国哲学书电子化计划](https://ctext.org/shiji/wu-di-ben-ji/zh#n4477)
+
+### source.liezi.tangwen.penglai
+
+- 等级：P2
+- 作品：《列子·汤问》
+- 定位：归墟与岱舆、员峤、方壶、瀛洲、蓬莱五山；巨鳌负山、龙伯巨人钓鳌后二山漂没
+- 支持：蓬莱不是孤岛名片，而属于五山、归墟、巨鳌和仙圣迁徙构成的完整海上神话地理。
+- 限制：今本《列子》的成书与整理年代复杂；该段可直接证明传世文本中的海上五山叙事，不能自动追溯为上古共同信仰。
+- 访问：[中国哲学书电子化计划](https://ctext.org/liezi/tang-wen/zh#n37469)
+
+### source.birrell.chinese-mythology
+
+- 等级：S1
+- 作者：Anne Birrell
+- 作品：*Chinese Mythology: An Introduction*
+- 出版：Johns Hopkins University Press, 1993
+- 支持：以具体古典文本重建中国神话主题，强调残片、异文和后世重组；用于比较创世、洪水、文化英雄、太阳与月亮神话。
+- 限制：主题式重建是现代学术编排，不代表古代存在一部首尾相接的“中国神话正典”。
+
+### source.strassberg.chinese-bestiary
+
+- 等级：P1 / S1（研究型译注）
+- 作者：Richard E. Strassberg
+- 作品：*A Chinese Bestiary: Strange Creatures from the Guideways Through Mountains and Seas*
+- 出版：University of California Press, 2002
+- 支持：《山海经》地理、异兽、神祇和图像传统的篇章语境、译注与接收史。
+- 限制：译名和现代分类服务于研究阅读；本馆仍以具体篇章与中文原文定位条目。
+
+### source.major.huainanzi
+
+- 等级：P1 / S1（完整研究型英译与注释）
+- 编译：John S. Major、Sarah A. Queen、Andrew Seth Meyer、Harold D. Roth
+- 作品：*The Huainanzi: A Guide to the Theory and Practice of Government in Early Han China*
+- 出版：Columbia University Press, 2010
+- 支持：《天文训》《览冥训》《本经训》等篇的篇章结构、哲学语境、术语和异文；防止把其中的神话例证抽离为现代完整传记。
+- 限制：英译是解释性成果，关键神名与动作仍需保留中文原文和篇章节点。
+
+### source.lewis.flood-myths-early-china
+
+- 等级：S1
+- 作者：Mark Edward Lewis
+- 作品：*The Flood Myths of Early China*
+- 出版：State University of New York Press, 2006
+- 支持：鲧、禹、洪水、土地划分、政治秩序与早期帝国空间想象之间的关系，以及不同洪水叙事的政治用途。
+- 限制：政治与空间解释不能替代每份原典自己的叙事差异；“洪水神话”也不是单一版本名称。
+
+### source.cahill.xiwangmu
+
+- 等级：S1
+- 作者：Suzanne E. Cahill
+- 作品：*Transcendence and Divine Passion: The Queen Mother of the West in Medieval China*
+- 出版：Stanford University Press, 1993
+- 支持：西王母从早期西方神灵到汉代、六朝和中世纪道教女仙中心的形象变化、宴会、启示与不死关系。
+- 限制：中世纪材料不能倒填《山海经》；连续神名不等于所有时期神格、造型与职掌完全相同。
+
 ## 希腊
 
 ### source.hesiod.theogony.139-146

@@ -32,6 +32,13 @@
 | 事件 | 传统 | 事件核心 |
 | --- | --- | --- |
 | [女娲补天](./chinese/nvwa-mends-heaven.md) | 中国 | 世界结构崩坏后的材料修补、立极、止水与复序 |
+| [羿射十日与尧时除害](./chinese/yi-shoots-the-suns.md) | 中国 | 十日并出、异兽为害、英雄除害与尧王权获得人心 |
+| [姮娥窃药奔月](./chinese/change-flies-to-moon.md) | 中国 | 西王母不死药、羿取得、姮娥盗取与月亮迁移 |
+| [共工怒触不周山](./chinese/gonggong-strikes-buzhou.md) | 中国 | 帝位竞争造成天柱地维断裂，并解释星辰与水流方向 |
+| [黄帝与蚩尤之战](./chinese/huangdi-and-chiyou.md) | 中国 | 诸侯古史版本与应龙、女魃、风伯、雨师的气象神战并存 |
+| [鲧禹治水与九州复定](./chinese/yu-controls-the-flood.md) | 中国 | 息壤、帝命、堵塞、疏导、土地重新分配与圣王伦理 |
+| [夸父逐日](./chinese/kuafu-chases-the-sun.md) | 中国 | 河渭不足、道渴而死、杖化邓林与应龙杀死的版本接缝 |
+| [精卫填海](./chinese/jingwei-fills-the-sea.md) | 中国 | 溺亡、鸟形转化与没有终局保证的持续填海行动 |
 | [泰坦战争](./greek/titanomachy.md) | 希腊 | 神代继承、盟友释放、雷霆战争与权能分配 |
 | [雅典娜的诞生](./greek/birth-of-athena.md) | 希腊 | 墨提斯、继承预言、头生与武装神显 |
 | [奥丁悬树得符文](./norse/odin-wins-runes.md) | 北欧 | 身体、九夜、自我献祭与知识代价 |
