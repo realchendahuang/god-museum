@@ -58,3 +58,10 @@ domains:
 - [乌图／沙马什](../02_deities/mesopotamian/utu-shamash.md)：太阳路线、远行者保护与跨山道路。
 - [阿特拉哈西斯](../04_heroes/mesopotamian/atrahasis.md)：听懂不能被直接传达的洪水警告。
 - [博尔西帕至巴比伦](../07_places/mesopotamian/borsippa-ezida.md)：纳布神像行列使道路本身成为城市与父子神关系。
+
+## 乌加里特馆藏
+
+- [沙普舒](../02_deities/ugaritic/shapshu.md)：太阳路线让她穿行神域、死亡边界并传达埃尔判断。
+- [科塔尔—哈西斯](../02_deities/ugaritic/kothar-wa-khasis.md)：Kaptaru、埃及相关地点和乌加里特港口形成技艺道路，地点认同保持谨慎。
+- [雅姆使者](../08_myths/ugaritic/baal-and-yam.md)：即使在神战前，使者身份仍限制巴力暴力。
+- [乌加里特港口城市](../07_places/ugaritic/ugarit-ras-shamra.md)：语言、金属、婚姻神名与外交文本沿真实路线相遇。

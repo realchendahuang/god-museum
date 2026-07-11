@@ -328,13 +328,15 @@ The setting now operates as a real, connected content repository:
 - [Theater of Myths](./08_myths/README.md)
 - [Bibliography and source nodes](./99_sources/bibliography.md)
 
-Thirty-one formal Divine Seats now exist. The Chinese, Greek, Norse, and Vedic group is joined by ten core Egyptian seats and thirteen Mesopotamian seats: An/Anu, Enlil, Enki/Ea, Inana/Ištar, Utu/Šamaš, Nanna/Sîn, Iškur/Adad, Ninurta, Marduk, Nabû, Ereškigal, Nergal, and Tiamat. Four fragmentary names remain in the Silent Gallery rather than being completed through modern invention.
+Forty-one formal Divine Seats now exist. Alongside the Chinese, Greek, Norse, Vedic, Egyptian, and Mesopotamian collections, the Ugaritic collection adds El, Athirat, Baal-Haddu, Anat, Yam, Mot, Shapshu, Kothar-wa-Khasis, Athtart, and Yarikh. Six fragmentary names or groups remain in the Silent Gallery rather than being completed through modern invention.
 
-The seats now form a connected collection rather than isolated biographies. Seven heroes or royal actors, ten relics, eight nonhuman beings, twelve mythic or historical places, and fourteen sourced events connect gods, people, artifacts, cities, temples, and Halls into one searchable archive.
+The seats now form a connected collection rather than isolated biographies. Ten heroes or royal actors, twelve relics, nine nonhuman beings, sixteen mythic or historical places, and twenty sourced events connect gods, people, artifacts, cities, temples, and Halls into one searchable archive.
 
 The Egyptian collection preserves three structures that cannot be flattened: the continuity and variation among Pyramid Texts, Coffin Texts, the Book of the Dead, and Netherworld Books; the changing religious map of local cities and temples; and the difference between the fission of Horus aspects and historical syncretism such as Amun-Ra. The Hall of Thunder, Wind, Rain, and Fire remains the first cross-cultural hall completed in depth, while the Halls of celestial bodies, love and birth, and death and judgment now hold fully sourced collections rather than placeholders.
 
 The Mesopotamian collection preserves the linguistic and political seams among Sumerian, Akkadian, Babylonian, and Assyrian materials. Bilingual deity names do not turn translation into automatic identity. The Sumerian and Akkadian descent narratives stand side by side; the Ziusudra, Atrahasis, and Uta-napišti flood traditions remain distinct; and no modern dragon image is allowed to masquerade as a securely identified ancient portrait of Tiamat. Nippur, Eridu, Uruk, Babylon, and Borsippa make cities and temples part of the archive's structure.
+
+The Ugaritic collection is organized around the archaeological context of Ras Shamra and explicit KTU text numbers rather than an undated, standardized “Canaanite pantheon.” El's council authority coexists with Baal's active kingship. Yam and Mot retain divine identities after defeat. The broken endings of Kirta and Aqhat are not completed by modern invention. Mount Saphon, maritime trade, Hurrian divine names, Egyptian artifacts, and later Phoenician or Hebrew materials form historically labeled corridors rather than automatic identities.
 
 The archive documents are currently Chinese-first. Stable IDs and links are language-neutral so that translations can be added without changing the canon.
 

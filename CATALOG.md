@@ -61,6 +61,16 @@
 - [埃列什基伽勒](./02_deities/mesopotamian/ereshkigal.md)
 - [内尔伽勒](./02_deities/mesopotamian/nergal.md)
 - [提亚马特](./02_deities/mesopotamian/tiamat.md)
+- [埃尔](./02_deities/ugaritic/el.md)
+- [阿舍拉／阿西拉图](./02_deities/ugaritic/athirat.md)
+- [巴力—哈杜](./02_deities/ugaritic/baal-haddu.md)
+- [阿纳特](./02_deities/ugaritic/anat.md)
+- [雅姆](./02_deities/ugaritic/yam.md)
+- [莫特](./02_deities/ugaritic/mot.md)
+- [沙普舒](./02_deities/ugaritic/shapshu.md)
+- [科塔尔—哈西斯](./02_deities/ugaritic/kothar-wa-khasis.md)
+- [阿斯塔特](./02_deities/ugaritic/athtart.md)
+- [雅里赫](./02_deities/ugaritic/yarikh.md)
 
 ## 文明与通道
 
@@ -72,6 +82,7 @@
 - [吠陀传统](./03_civilizations/vedic.md)
 - [古埃及神话与宗教传统](./03_civilizations/egyptian.md)
 - [美索不达米亚神话与宗教传统](./03_civilizations/mesopotamian.md)
+- [乌加里特神话与宗教传统](./03_civilizations/ugaritic.md)
 
 ## 众神殿周围
 
@@ -83,6 +94,9 @@
   - [恩奇都](./04_heroes/mesopotamian/enkidu.md)
   - [阿特拉哈西斯](./04_heroes/mesopotamian/atrahasis.md)
   - [阿达帕](./04_heroes/mesopotamian/adapa.md)
+  - [基尔塔](./04_heroes/ugaritic/kirta.md)
+  - [达尼鲁](./04_heroes/ugaritic/danilu.md)
+  - [阿克哈特](./04_heroes/ugaritic/aqhat.md)
 - [圣物宝库](./05_relics/README.md)
   - [五色石](./05_relics/five-colored-stones.md)
   - [宙斯的雷霆](./05_relics/zeus-thunderbolt.md)
@@ -94,6 +108,8 @@
   - [命运泥板](./05_relics/mesopotamian/tablet-of-destinies.md)
   - [me：神圣权能与文明范畴](./05_relics/mesopotamian/me.md)
   - [沙马什的杆与环](./05_relics/mesopotamian/rod-and-ring.md)
+  - [雅格鲁什与阿亚穆尔](./05_relics/ugaritic/baal-clubs.md)
+  - [阿克哈特之弓](./05_relics/ugaritic/aqhat-bow.md)
 - [异兽庭院](./06_beasts/README.md)
   - [弗栗多](./06_beasts/vritra.md)
   - [黑龙](./06_beasts/black-dragon.md)
@@ -103,6 +119,7 @@
   - [mušḫuššu](./06_beasts/mesopotamian/mushhushu.md)
   - [胡姆巴巴](./06_beasts/mesopotamian/humbaba.md)
   - [天牛](./06_beasts/mesopotamian/bull-of-heaven.md)
+  - [洛坦](./06_beasts/ugaritic/lotan.md)
 - [神域与地点](./07_places/README.md)
   - [瓦尔哈拉](./07_places/valhalla.md)
   - [Þrúðvangr 与 Bilskírnir](./07_places/thrudvangr-bilskirnir.md)
@@ -116,6 +133,10 @@
   - [巴比伦与 Esagila](./07_places/mesopotamian/babylon-esagila.md)
   - [博尔西帕与 Ezida](./07_places/mesopotamian/borsippa-ezida.md)
   - [Irkalla：两河冥界](./07_places/mesopotamian/irkalla.md)
+  - [乌加里特／拉斯沙姆拉](./07_places/ugaritic/ugarit-ras-shamra.md)
+  - [萨庞山](./07_places/ugaritic/mount-saphon.md)
+  - [埃尔的河源与双深水](./07_places/ugaritic/el-source-of-rivers.md)
+  - [莫特之域](./07_places/ugaritic/mot-underworld.md)
 - [神话剧场](./08_myths/README.md)
   - [女娲补天](./08_myths/chinese/nvwa-mends-heaven.md)
   - [泰坦战争](./08_myths/greek/titanomachy.md)
@@ -131,11 +152,19 @@
   - [两河洪水诸版本](./08_myths/mesopotamian/flood-traditions.md)
   - [安祖夺取命运泥板](./08_myths/mesopotamian/anzu-and-tablet.md)
   - [内尔伽勒与埃列什基伽勒](./08_myths/mesopotamian/nergal-and-ereshkigal.md)
+  - [巴力与雅姆争王](./08_myths/ugaritic/baal-and-yam.md)
+  - [巴力建宫](./08_myths/ugaritic/baal-palace.md)
+  - [巴力与莫特](./08_myths/ugaritic/baal-and-mot.md)
+  - [基尔塔的婚姻愿誓与王室危机](./08_myths/ugaritic/kirta-epic.md)
+  - [阿克哈特与神弓](./08_myths/ugaritic/aqhat-epic.md)
+  - [雅里赫与尼卡勒婚礼](./08_myths/ugaritic/yarikh-and-nikkal.md)
 - [静默长廊](./09_silent-gallery/README.md)
   - [特内姆与特内梅特](./09_silent-gallery/egyptian/tenem-and-tenemet.md)
   - [肯提阿门提乌](./09_silent-gallery/egyptian/khentyamentiu.md)
   - [阿萨鲁希](./09_silent-gallery/mesopotamian/asalluhi.md)
   - [尼达巴／尼萨巴](./09_silent-gallery/mesopotamian/nidaba.md)
+  - [达甘（乌加里特档案）](./09_silent-gallery/ugaritic/dagan.md)
+  - [沙哈尔与沙利姆](./09_silent-gallery/ugaritic/shahar-shalim.md)
 
 ## 来源
 

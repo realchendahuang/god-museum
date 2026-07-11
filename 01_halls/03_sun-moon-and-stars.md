@@ -53,3 +53,9 @@ domains:
 - [南纳／苏恩／欣](../02_deities/mesopotamian/nanna-sin.md)：月相、月份、誓言和乌尔／哈兰祭祀的时间层次。
 - [伊南娜／伊什塔尔](../02_deities/mesopotamian/inana-ishtar.md)：以金星晨星／昏星面相进入，不让天体关系删除爱欲与战争神职。
 - [沙马什泥板的杆与环](../05_relics/mesopotamian/rod-and-ring.md)：把太阳神图像重新落回 BM 91000 器物与有争议的释义。
+
+## 乌加里特馆藏
+
+- [沙普舒](../02_deities/ugaritic/shapshu.md)：女性太阳神，以穿行、传讯、死亡边界和调停而非司法为核心。
+- [雅里赫](../02_deities/ugaritic/yarikh.md)：月亮、月份、聘礼与尼卡勒婚姻连接天体和社会联盟。
+- [沙哈尔与沙利姆](../09_silent-gallery/ugaritic/shahar-shalim.md)：黎明—黄昏双神保持 fragmentary，不强制解释为晨星／昏星标准体系。

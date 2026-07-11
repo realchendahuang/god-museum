@@ -52,3 +52,9 @@ domains:
 - [宁乌尔塔](../02_deities/mesopotamian/ninurta.md)：战争胜利之后安排石、山地与灌溉，连接农耕秩序。
 - [恩奇都](../04_heroes/mesopotamian/enkidu.md)：荒野、人化和食物进入英雄身体，而非自然神格。
 - [阿特拉哈西斯](../04_heroes/mesopotamian/atrahasis.md)：人类创造、瘟疫、饥荒、洪水与灾后生育限制构成生命治理长链。
+
+## 乌加里特馆藏
+
+- [巴力—哈杜](../02_deities/ugaritic/baal-haddu.md)：雨水与土地生产是王权的物质基础，但死亡—归返不能简写成农业日历。
+- [莫特](../02_deities/ugaritic/mot.md)：干旱、吞噬和谷物式肢解让死亡与生命条件直接冲突。
+- [基尔塔史诗](../08_myths/ugaritic/kirta-epic.md)：王的疾病使土地与社会秩序失能，治疗并不自动解决继承。

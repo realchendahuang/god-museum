@@ -57,6 +57,21 @@
 
 美索不达米亚神座额外执行“双名历史”规则：苏美尔名与阿卡德名必须说明语言对应、历史认同与神格融合，不能把斜杠当作无条件同一。城市、神庙、泥板版本和图像器物共同决定条目边界。
 
+### 乌加里特传统
+
+- [埃尔](./ugaritic/el.md)
+- [阿舍拉／阿西拉图](./ugaritic/athirat.md)
+- [巴力—哈杜](./ugaritic/baal-haddu.md)
+- [阿纳特](./ugaritic/anat.md)
+- [雅姆](./ugaritic/yam.md)
+- [莫特](./ugaritic/mot.md)
+- [沙普舒](./ugaritic/shapshu.md)
+- [科塔尔—哈西斯](./ugaritic/kothar-wa-khasis.md)
+- [阿斯塔特](./ugaritic/athtart.md)
+- [雅里赫](./ugaritic/yarikh.md)
+
+乌加里特神座额外执行“KTU 定位”规则：神职和剧情尽量落到具体泥板编号；乌加里特名、后续腓尼基形式、希伯来文本与跨地中海认同分期记录，不让“迦南神话”成为无年代总标签。
+
 ## 新建档案
 
 请从 GitHub 复制 [_template.md](https://github.com/realchendahuang/god-museum/blob/main/02_deities/_template.md)，确定稳定 ID 后再写正文。

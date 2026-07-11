@@ -53,3 +53,9 @@ domains:
 - [纳布](../02_deities/mesopotamian/nabu.md)：书写楔、泥板、学术与命运记录；神职崛起不抹去更早尼萨巴。
 - [me](../05_relics/mesopotamian/me.md)：包含技艺、制度、角色以及社会负面能力的神圣文明范畴。
 - [阿达帕](../04_heroes/mesopotamian/adapa.md)：智慧与不死分离，服从可靠老师也可能导致错失。
+
+## 乌加里特馆藏
+
+- [科塔尔—哈西斯](../02_deities/ugaritic/kothar-wa-khasis.md)：命名武器、建造宫殿、设计窗户和制作神弓，使技术直接改变神权与悲剧。
+- [乌加里特／拉斯沙姆拉](../07_places/ugaritic/ugarit-ras-shamra.md)：楔形字母、多语言档案和港口贸易让知识拥有具体城市基础。
+- [阿克哈特之弓](../05_relics/ugaritic/aqhat-bow.md)：制造者意图、家庭赠礼与后续失控用途分层记录。

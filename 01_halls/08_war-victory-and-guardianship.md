@@ -63,3 +63,10 @@ domains:
 - [宁乌尔塔](../02_deities/mesopotamian/ninurta.md)：击败安祖、夺回命运泥板，并在其他作品中以战斗恢复土地秩序。
 - [内尔伽勒](../02_deities/mesopotamian/nergal.md)：战争造成的死亡、瘟疫和冥界权力，不等于普通战士守护。
 - [吉尔伽美什与恩奇都](../04_heroes/mesopotamian/gilgamesh.md)：胡姆巴巴与天牛胜利同时制造越界和死亡后果。
+
+## 乌加里特馆藏
+
+- [巴力—哈杜](../02_deities/ugaritic/baal-haddu.md)与[雅姆](../02_deities/ugaritic/yam.md)：战斗决定王权竞争，却还需建宫完成制度承认。
+- [阿纳特](../02_deities/ugaritic/anat.md)：战斗、威胁、亲族守护与哀悼共同存在，暴力不被抽象勇武净化。
+- [阿斯塔特](../02_deities/ugaritic/athtart.md)：制止巴力攻击使者、宣告海败北并尝试空缺王位。
+- [科塔尔双棒](../05_relics/ugaritic/baal-clubs.md)：神匠、命名、攻击顺序和失败首击共同定义胜利。

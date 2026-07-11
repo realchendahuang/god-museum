@@ -56,3 +56,9 @@ domains:
 - [南纳／欣](../02_deities/mesopotamian/nanna-sin.md)：月相组织月份、历法、占卜和誓言。
 - [纳布](../02_deities/mesopotamian/nabu.md)：记录神议决定，不自动成为所有命运的唯一作者。
 - [命运泥板](../05_relics/mesopotamian/tablet-of-destinies.md)：使言令获得效力，不是可阅读所有个人未来的书。
+
+## 乌加里特馆藏
+
+- [雅里赫](../02_deities/ugaritic/yarikh.md)：月亮与月份相连，婚礼诗不足以单独还原完整历法。
+- [埃尔](../02_deities/ugaritic/el.md)：通过梦示、祝福和判断改变王室未来，但基尔塔仍需履行愿誓。
+- [阿克哈特](../04_heroes/ugaritic/aqhat.md)：拒绝不死承诺后走向残缺结局，众神殿不替泥板决定其复活。

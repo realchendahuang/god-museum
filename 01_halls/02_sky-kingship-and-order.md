@@ -62,3 +62,10 @@ domains:
 - [恩利尔](../02_deities/mesopotamian/enlil.md)：尼普尔 Ekur、命运裁定和王权授予；不能缩成风神。
 - [马尔杜克](../02_deities/mesopotamian/marduk.md)与[纳布](../02_deities/mesopotamian/nabu.md)：展示城市神如何通过神学、节庆和父子关系获得神王与共同统治地位。
 - [命运泥板](../05_relics/mesopotamian/tablet-of-destinies.md)：使命令生效的权力物，其失窃说明秩序也会遭遇执行危机。
+
+## 乌加里特馆藏
+
+- [埃尔](../02_deities/ugaritic/el.md)：神议父权、王权认可和梦示高位，不因巴力行动王权而退位。
+- [巴力—哈杜](../02_deities/ugaritic/baal-haddu.md)：击败海后仍需埃尔批准、阿舍拉斡旋和宫殿空间才能完成统治。
+- [雅姆](../02_deities/ugaritic/yam.md)：拥有埃尔初始支持、使者和王位主张，失败不把神格降成怪物。
+- [阿舍拉](../02_deities/ugaritic/athirat.md)：以神群母性、礼物与议庭斡旋进入，不只是神王配偶。

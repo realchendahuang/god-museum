@@ -74,3 +74,9 @@ setting_status: established
 - [伊什库尔／阿达德](../02_deities/mesopotamian/ishkur-adad.md)：暴雨在南部灌溉平原更显破坏，在北部雨养农业更显丰饶；环境差异进入神职。
 - [恩利尔](../02_deities/mesopotamian/enlil.md)：与风、大气和灾害有关，但主要入口仍是王权与命运。
 - [马尔杜克击败提亚马特](../08_myths/mesopotamian/enuma-elish.md)：使用风作为战术不证明马尔杜克原本是有证据支持的原始风暴神。
+
+## 乌加里特馆藏
+
+- [巴力—哈杜](../02_deities/ugaritic/baal-haddu.md)：骑云、雷声、闪电与雨养农业共同形成风暴王权。
+- [巴力建宫](../08_myths/ugaritic/baal-palace.md)：宫殿开窗后雷雨才从被承认的统治空间向世界发出。
+- [AO 15775 与巴力双棒](../05_relics/ugaritic/baal-clubs.md)：图像雷电和文本命名武器并列，不互相冒充直接说明书。

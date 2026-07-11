@@ -2,6 +2,123 @@
 
 访问日期：2026-07-11。
 
+## 乌加里特与西北闪米特传统
+
+### source.ktu3
+
+- 等级：P1 / S1（乌加里特楔形字母文本标准编号、转写与校勘）
+- 编者：Manfried Dietrich、Oswald Loretz、Joaquín Sanmartín
+- 作品：*The Cuneiform Alphabetic Texts from Ugarit, Ras Ibn Hani and Other Places*, 3rd enlarged ed.（KTU³）
+- 出版：Ugarit-Verlag, 2013
+- 支持：KTU 编号、文本边界、转写和泥板组关系；本馆用 KTU 1.1–1.6、1.14–1.24 等编号区分巴力循环、基尔塔、阿克哈特、亡灵宴饮和月神婚礼。
+- 限制：KTU 是现代语料编号与校勘体系，不是古代书架目录；破损、补读和重新拼合会随研究更新。
+
+### source.smith.baal-cycle
+
+- 等级：P1 / S1（原文校勘、翻译与逐行研究）
+- 作者：Mark S. Smith；第二卷与 Wayne T. Pitard 合著
+- 作品：*The Ugaritic Baal Cycle*, vols. I–II
+- 出版：Brill, 1994、2009
+- 支持：KTU 1.1–1.6 的文本重建、埃尔神议、巴力与雅姆、建宫、巴力与莫特，以及神名、称号、诗歌平行句和版本问题。
+- 限制：“巴力循环”是现代学术组合名称；六块主要泥板有残损，场景先后与缺环不能被现代流畅译文隐藏。
+
+### source.parker.ugaritic-narrative-poetry
+
+- 等级：P1 / S1（研究型译本与多作者导言）
+- 主编：Simon B. Parker
+- 作品：*Ugaritic Narrative Poetry*
+- 出版：Society of Biblical Literature, Writings from the Ancient World 9, 1997
+- 支持：巴力循环、基尔塔、阿克哈特、沙哈尔与沙利姆、月神雅里赫与尼卡勒婚礼等主要叙事的译本与文本导言。
+- 限制：英文译名和补读会因校勘者不同而变化；正式条目仍以 KTU 号定位原始泥板。
+
+### source.wyatt.religious-texts-ugarit
+
+- 等级：P1 / S1（乌加里特宗教文本研究型译本）
+- 作者：Nicolas Wyatt
+- 作品：*Religious Texts from Ugarit*, 2nd ed.
+- 出版：Sheffield Academic Press, 2002
+- 支持：神话、祭仪、祷告和神名表的跨文类阅读，以及乌加里特语术语的不同译法。
+- 限制：作者的比较宗教学解释不等于所有研究者共识；本馆将文本支持与解释假说分开。
+
+### source.pardee.ritual-cult-ugarit
+
+- 等级：P1 / S1（祭祀文本、历法与神庙制度研究）
+- 作者：Dennis Pardee
+- 作品：*Ritual and Cult at Ugarit*
+- 出版：Society of Biblical Literature, Writings from the Ancient World 10, 2002
+- 支持：祭品表、月份、神名、王室仪式和神庙实践；用于阻止仅凭叙事诗推断“全体乌加里特人都相信同一神话剧情”。
+- 限制：祭祀文本常为高度压缩的行政／仪式记录，缺少现代读者期待的神学解释。
+
+### source.yon.city-of-ugarit
+
+- 等级：S1（遗址、城市史与考古综合研究）
+- 作者：Marguerite Yon
+- 作品：*The City of Ugarit at Tell Ras Shamra*
+- 出版：Eisenbrauns, 2006
+- 支持：拉斯沙姆拉遗址、王宫、巴力与达甘神庙、住宅档案、港口 Minet el-Beida、城市毁灭及公元前十三世纪末历史边界。
+- 限制：考古建筑与神话地点有关但不等同；不能把出土房间直接命名为神话中的宫殿场景。
+
+### source.mission-ras-shamra-ugarit
+
+- 等级：S2（叙法联合考古任务官方项目与出版目录）
+- 机构：Mission archéologique syro-française de Ras Shamra–Ougarit
+- 支持：1929 年以来拉斯沙姆拉—乌加里特发掘史、遗址研究、Ras Shamra–Ougarit 等出版系列，以及遗址与馆藏重新归属工作。
+- 限制：项目网站是研究与出版入口，不替代每件器物和每块泥板的正式出版。
+- 访问：[Mission Ras Shamra–Ougarit](https://www.mission-ougarit.fr/)
+
+### source.louvre.baal-stele
+
+- 等级：P1 / S2（博物馆器物与图像学节点）
+- 机构：Musée du Louvre, Département des Antiquités orientales
+- 器物：AO 15775，通常称“持雷电的巴力石碑／Baal au foudre”，出自拉斯沙姆拉
+- 支持：持棍棒、长矛／植物化雷电、角盔和迈步姿态的风暴神图像；为巴力—哈杜的王权、风暴与武装形象提供具体器物节点。
+- 限制：器物没有把全部《巴力循环》剧情画在一件石碑上；长矛末端的植物／雷电解释和年代应跟随博物馆目录与专门研究。
+
+### source.ugaritic.baal-cycle
+
+- 等级：P1 / S1
+- 作品：乌加里特语《巴力循环》，KTU 1.1–1.6
+- 主要版本：Smith 1994、Smith & Pitard 2009；另参 Parker 1997、Wyatt 2002
+- 支持：雅姆争王、科塔尔制造武器、巴力胜海、建宫、巴力进入莫特领域、死亡与归返、阿纳特与沙普舒的行动。
+- 限制：泥板破损且没有古代总标题；“季节循环”“王权仪式剧”等解释不能替代逐段文本。
+
+### source.ugaritic.kirta
+
+- 等级：P1 / S1
+- 作品：《基尔塔史诗》，KTU 1.14–1.16
+- 主要版本：Parker 1997；Wyatt 2002；KTU³
+- 支持：失去家室的王、埃尔梦示、出征与婚姻、向阿舍拉许愿、疾病、继承危机及女儿 Thitmanit 的哀悼。
+- 限制：结尾残缺；不能凭现代补叙确定基尔塔是否彻底康复、王位如何最终传承。
+
+### source.ugaritic.aqhat
+
+- 等级：P1 / S1
+- 作品：《阿克哈特史诗》，KTU 1.17–1.19
+- 主要版本：Parker 1997；Wyatt 2002；KTU³
+- 支持：达尼鲁求子、科塔尔赠弓、阿纳特索弓、阿克哈特被杀、旱灾、Pughat 的哀悼与复仇准备。
+- 限制：泥板残缺，谋杀的具体执行、尸体处理与结局无法全部恢复；“复活阿克哈特”不是现存文本已确认结尾。
+
+### source.ugaritic.shahar-shalim
+
+- 等级：P1 / S1
+- 作品：KTU 1.23，常称《沙哈尔与沙利姆的诞生》
+- 支持：埃尔、两位女性、黎明与黄昏双神出生，以及双神巨大食欲与荒野养育场景。
+- 限制：文本体裁与仪式语境存在争论；不能直接称为乌加里特“创世神话”。
+
+### source.ugaritic.yarikh-nikkal
+
+- 等级：P1 / S1
+- 作品：KTU 1.24，雅里赫与尼卡勒婚礼诗
+- 支持：月神求婚、聘礼、Ḫiriḫibi 调解、尼卡勒婚姻，以及胡里安女神名 Nikkal-wa-Ib 与西北闪米特月神的文化连接。
+- 限制：婚礼诗不等于普通人的标准婚姻合同，也不能独立还原全部月神祭祀。
+
+### source.ugaritic.rephaim
+
+- 等级：P1 / S1
+- 作品：KTU 1.20–1.22，Rephaim／rpum 文本组
+- 支持：被召集到宴饮中的古代王者／亡灵群体、达尼鲁及巴力的关联，以及王室祖先、亡灵与仪式宴饮之间的复杂关系。
+- 限制：rpum 的准确身份、文本顺序与仪式用途长期有争议；不能直接等同后世所有“利乏音”材料。
+
 ## 美索不达米亚
 
 ### source.oracc.amgg

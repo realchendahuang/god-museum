@@ -53,3 +53,9 @@ domains:
 - [恩基／埃阿](../02_deities/mesopotamian/enki-ea.md)与[埃里都 E-abzu](../07_places/mesopotamian/eridu-eabzu.md)：地下淡水、神庙、智慧与净化，不等于普通海神王国。
 - [提亚马特](../02_deities/mesopotamian/tiamat.md)：作为原初盐海进入；无独立标准龙形图像。
 - [两河洪水诸版本](../08_myths/mesopotamian/flood-traditions.md)：并列 Ziusudra、阿特拉哈西斯和 Uta-napišti，不与大禹治水合成全球事件。
+
+## 乌加里特馆藏
+
+- [雅姆](../02_deities/ugaritic/yam.md)：海与河流判官的神格和王权主张，不是普通水怪。
+- [萨庞山](../07_places/ugaritic/mount-saphon.md)：真实 Jebel al-Aqra 风暴地景与神话宫殿保持连接而不等同。
+- [洛坦](../06_beasts/ugaritic/lotan.md)：七首蛇敌与海敌传统相关，不能无条件并入雅姆或后世 Leviathan。

@@ -139,7 +139,8 @@ export function traditionLabel(tradition?: string): string {
     'tradition.norse': '北欧',
     'tradition.vedic': '吠陀',
     'tradition.egyptian': '古埃及',
-    'tradition.mesopotamian': '美索不达米亚'
+    'tradition.mesopotamian': '美索不达米亚',
+    'tradition.ugaritic': '乌加里特'
   }
   return tradition ? labels[tradition] || tradition.replace('tradition.', '') : ''
 }
@@ -147,10 +148,15 @@ export function traditionLabel(tradition?: string): string {
 export function plainSearchText(entry: DocEntry): string {
   return [
     entryTitle(entry),
+    entry.data.id,
+    entry.data.type,
     entry.data.name_native,
     ...(entry.data.aliases || []),
     traditionLabel(entry.data.tradition),
+    ...(entry.data.periods || []),
     ...(entry.data.domains || []),
+    ...(entry.data.primary_halls || []),
+    ...(entry.data.secondary_halls || []),
     entry.body
   ].filter(Boolean).join(' ').toLocaleLowerCase('zh-CN')
 }

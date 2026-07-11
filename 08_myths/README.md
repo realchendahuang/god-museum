@@ -45,5 +45,11 @@
 | [两河洪水诸版本](./mesopotamian/flood-traditions.md) | 美索不达米亚 | Ziusudra、阿特拉哈西斯与 Uta-napišti 三套相关而独立的记忆 |
 | [安祖夺取命运泥板](./mesopotamian/anzu-and-tablet.md) | 美索不达米亚 | 宇宙命令权失窃、武器失效与宁乌尔塔夺回 |
 | [内尔伽勒与埃列什基伽勒](./mesopotamian/nergal-and-ereshkigal.md) | 美索不达米亚 | 两个主要版本如何协调冥界女王与新共同统治者 |
+| [巴力与雅姆争王](./ugaritic/baal-and-yam.md) | 乌加里特 | 神议、使者豁免、神匠双棒与海的王权失败 |
+| [巴力建宫](./ugaritic/baal-palace.md) | 乌加里特 | 阿纳特威慑、阿舍拉斡旋、埃尔批准与宫殿开窗 |
+| [巴力与莫特](./ugaritic/baal-and-mot.md) | 乌加里特 | 死亡、哀悼、谷物式肢解、归返及死亡不可永久取消 |
+| [基尔塔的婚姻愿誓与王室危机](./ugaritic/kirta-epic.md) | 乌加里特 | 神梦、战争婚姻、违誓、疾病、治疗与残缺继承结局 |
+| [阿克哈特与神弓](./ugaritic/aqhat-epic.md) | 乌加里特 | 求子、赠弓、女神索取、谋杀、旱灾与未完成复仇 |
+| [雅里赫与尼卡勒婚礼](./ugaritic/yarikh-and-nikkal.md) | 乌加里特 | 月神聘礼、婚姻协商与胡里安—苏美尔神名传播 |
 
 这些事件可以被比较，却不会被拼成一条虚构的全球神话年表。神话剧场展示的是每份材料如何组织危机、行动和结果。

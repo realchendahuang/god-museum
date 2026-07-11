@@ -50,3 +50,10 @@ domains:
 - [伊南娜／伊什塔尔](../02_deities/mesopotamian/inana-ishtar.md)：爱欲、性别边界、战争与政治合法性共同存在；神圣婚姻的实际仪式形式保留研究争议。
 - [下冥界](../08_myths/mesopotamian/descent-to-the-netherworld.md)：女神受困使地上繁衍停滞，但苏美尔与阿卡德版本的替代和结局不同。
 - [内尔伽勒与埃列什基伽勒](../08_myths/mesopotamian/nergal-and-ereshkigal.md)：婚姻既可表达依恋，也可协调不同冥界权力并保留暴力文本。
+
+## 乌加里特馆藏
+
+- [阿舍拉／阿西拉图](../02_deities/ugaritic/athirat.md)：神群母性与议庭权力相连，不缩成理想妻母。
+- [雅里赫与尼卡勒婚礼](../08_myths/ugaritic/yarikh-and-nikkal.md)：聘礼、选择和胡里安—苏美尔神名传播共同进入婚姻诗。
+- [基尔塔](../04_heroes/ugaritic/kirta.md)：战争取得婚姻、向阿舍拉许愿与违誓后果不能浪漫化。
+- [阿纳特](../02_deities/ugaritic/anat.md)：btlt 称号与性别问题保留语文学边界，不强编为爱神或生育神。

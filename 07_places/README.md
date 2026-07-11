@@ -35,5 +35,9 @@
 - [巴比伦与 Esagila](./mesopotamian/babylon-esagila.md)：马尔杜克升王和城市宇宙中心化的历史空间。
 - [博尔西帕与 Ezida](./mesopotamian/borsippa-ezida.md)：纳布书写传统与巴比伦节庆道路的另一端。
 - [Irkalla](./mesopotamian/irkalla.md)：由多种语言和文本组织的两河冥界，不是一张固定地下地图。
+- [乌加里特／拉斯沙姆拉](./ugaritic/ugarit-ras-shamra.md)：王宫、神庙、住宅档案和港口共同构成的真实青铜时代城市。
+- [萨庞山](./ugaritic/mount-saphon.md)：巴力宫殿、风暴地景与 Jebel al-Aqra 之间的神话—地理关系。
+- [埃尔的河源与双深水](./ugaritic/el-source-of-rivers.md)：神议高位的诗歌居所，不是已确认考古王宫。
+- [莫特之域](./ugaritic/mot-underworld.md)：死亡神的吞噬空间，不吞并全部乌加里特亡灵传统。
 
 地点档案不会把它们强行放进一张总地图。瓦尔哈拉、杜阿特与索尔神域保留各自文本关系；赫利奥波利斯和阿拜多斯则同时显示考古地景与神话定位。众神殿只在文明交汇时提供门，不吞并门后的宇宙。

@@ -61,3 +61,10 @@ domains:
 - [Irkalla](../07_places/mesopotamian/irkalla.md)：kur、erṣetu 与“无归之地”按语言、文本和死者经验分层。
 - [伊南娜／伊什塔尔下冥界](../08_myths/mesopotamian/descent-to-the-netherworld.md)：神也受七门、裁决、死亡和替代规则约束。
 - [吉尔伽美什与恩奇都](../04_heroes/mesopotamian/gilgamesh.md)：英雄名声、哀悼与不死失败保留人的死亡边界。
+
+## 乌加里特馆藏
+
+- [莫特](../02_deities/ugaritic/mot.md)：死亡本身、吞噬与干旱，不是道德审判型冥王。
+- [沙普舒](../02_deities/ugaritic/shapshu.md)：跨越死亡边界、帮助寻找巴力并调停最终冲突。
+- [莫特之域](../07_places/ugaritic/mot-underworld.md)：巴力事件中的死亡空间，不吞并全部亡灵与祖先祭祀。
+- [达尼鲁与 Rephaim](../04_heroes/ugaritic/danilu.md)：王者、祖先亡灵和宴饮文本存在关联，身份与文本顺序保留争议。
