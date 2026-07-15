@@ -29,7 +29,7 @@ setting_status: established
 | 项目 | 内容 |
 | --- | --- |
 | 类型 | 北欧诸神域中的神话地点 |
-| 关联神座 | [奥丁](../02_deities/norse/odin.md) |
+| 关联神座 | [奥丁](../../02_deities/norse/odin.md) |
 | 主要居民 | 与战死和选择机制相关的阵亡者，具体条件待扩充 |
 | 不是 | 所有死者的统一来世；众神殿里的跨文明英雄宿舍 |
 
@@ -43,4 +43,4 @@ setting_status: established
 
 ## 来源
 
-- [source.snorri.gylfaginning.20](../99_sources/bibliography.md#sourcesnorrigylfaginning20)：奥丁、阵亡者关系与斯诺里神谱中的地位。
+- [source.snorri.gylfaginning.20](../../99_sources/bibliography.md#sourcesnorrigylfaginning20)：奥丁、阵亡者关系与斯诺里神谱中的地位。

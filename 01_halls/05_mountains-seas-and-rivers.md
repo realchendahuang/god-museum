@@ -35,7 +35,7 @@ domains:
 ## 已连接馆藏
 
 - [因陀罗](../02_deities/vedic/indra.md)：不是河神，却因击破封闭并释放水流进入本殿。
-- [弗栗多](../06_beasts/vritra.md)与[因陀罗击弗栗多](../08_myths/vedic/indra-and-vritra.md)：让“水权柄”同时包含阻挡、破障与重新流动。
+- [弗栗多](../06_beasts/vedic/vritra.md)与[因陀罗击弗栗多](../08_myths/vedic/indra-and-vritra.md)：让“水权柄”同时包含阻挡、破障与重新流动。
 - [大禹](../04_heroes/yu-the-great.md)：以疏导江淮河汉、驱逐蛇龙和恢复平土进入英雄长廊与本殿交界。
 - [女娲补天](../08_myths/chinese/nvwa-mends-heaven.md)：灾变中的淫水与止水行动属于复序链，而不是独立水神叙事。
 - [共工](../02_deities/chinese/gonggong.md)与[不周山](../07_places/chinese/buzhou-mountain.md)：帝位竞争导致宇宙倾斜和水归东南，不代表所有洪水同源。

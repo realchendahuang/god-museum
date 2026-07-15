@@ -15,6 +15,7 @@ const SECTION_ROUTES: Record<string, string> = {
   '07_places': 'places',
   '08_myths': 'myths',
   '09_silent-gallery': 'silent-gallery',
+  '10_chronicles': 'chronicles',
   '99_sources': 'sources'
 }
 
@@ -29,7 +30,8 @@ const TYPE_LABELS: Record<string, string> = {
   relic: '圣物',
   being: '异兽',
   place: '地点',
-  myth: '神话事件'
+  myth: '神话事件',
+  chronicle: '原创编年史'
 }
 
 const SECTION_LABELS: Record<string, string> = {
@@ -43,6 +45,7 @@ const SECTION_LABELS: Record<string, string> = {
   '07_places': '神域与地点',
   '08_myths': '神话剧场',
   '09_silent-gallery': '静默长廊',
+  '10_chronicles': '众神编年史',
   '99_sources': '来源目录'
 }
 
@@ -117,6 +120,24 @@ export function entrySummary(entry: DocEntry): string {
 
 export function entrySection(entry: DocEntry): string {
   return cleanEntryId(entry.id).split('/')[0]
+}
+
+export function isCollectionEntry(entry: DocEntry): boolean {
+  return Boolean(entry.data.id)
+}
+
+export function isSectionIndex(entry: DocEntry): boolean {
+  return cleanEntryId(entry.id).split('/').at(-1)?.toLowerCase() === 'readme'
+}
+
+export function hasSectionHeading(entry: DocEntry, heading: string): boolean {
+  const escaped = heading.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+  return new RegExp(`^##\\s+${escaped}\\s*$`, 'm').test(entry.body || '')
+}
+
+export function sourceReferenceCount(entry: DocEntry): number {
+  const sourceSection = (entry.body || '').split(/^##\s+来源\s*$/m)[1]?.split(/^##\s+/m)[0] || ''
+  return sourceSection.match(/^\s*-\s+\[[^\]]+\]\([^)]+\)/gm)?.length || 0
 }
 
 export function entryTypeLabel(entry: DocEntry): string {

@@ -96,10 +96,10 @@ setting_status: established
 
 ### 馆藏网络
 
-- [金刚杵](../../05_relics/vajra.md)：雷击、战斗与破障的核心圣物。
-- [弗栗多](../../06_beasts/vritra.md)：以阻挡和封闭水流构成敌对关系的存在。
+- [金刚杵](../../05_relics/vedic/vajra.md)：雷击、战斗与破障的核心圣物。
+- [弗栗多](../../06_beasts/vedic/vritra.md)：以阻挡和封闭水流构成敌对关系的存在。
 - [因陀罗击弗栗多](../../08_myths/vedic/indra-and-vritra.md)：把雷击、敌对、破障和水流结果重新组合成完整事件。
-- [索尔](../norse/thor.md)与[妙尔尼尔](../../05_relics/mjolnir.md)：共享雷霆武器与巨大敌对者母题，但守护和放水的事件结果不同。
+- [索尔](../norse/thor.md)与[妙尔尼尔](../../05_relics/norse/mjolnir.md)：共享雷霆武器与巨大敌对者母题，但守护和放水的事件结果不同。
 
 ### 不可省略的差异
 

@@ -891,6 +891,90 @@
 - 版本提示：不同校本对相关诗行的插入性质存在讨论；条目应保留这一文本问题，不把它当作毫无争议的单一结论。
 - 访问：[Perseus Digital Library，原文定位至 11.601](https://www.perseus.tufts.edu/hopper/text?doc=Hom.%20Od.%2011.601&lang=original)
 
+### source.hesiod.theogony.270-286
+
+- 等级：P1
+- 作者：赫西俄德
+- 作品：《神谱》
+- 定位：270–286 行
+- 支持：福耳库斯与刻托之女、三位戈耳工、美杜莎的死亡性，以及珀尔修斯斩首后克律萨俄耳与珀伽索斯出现。
+- 访问：[Harvard Center for Hellenic Studies](https://chs.harvard.edu/primary-source/hesiod-theogony-sb/)
+
+### source.hesiod.theogony.921-923
+
+- 等级：P1
+- 作者：赫西俄德
+- 作品：《神谱》
+- 定位：921–923 行
+- 支持：赫拉作为宙斯最后婚配对象，以及赫柏、阿瑞斯与厄勒梯亚的亲缘位置。
+- 限制：短段落不能代替赫拉在《伊利亚特》、地方祭祀和城邦传统中的多重角色。
+- 访问：[Harvard Center for Hellenic Studies](https://chs.harvard.edu/primary-source/hesiod-theogony-sb/)
+
+### source.homeric-hymn.12.hera
+
+- 等级：P1
+- 作品：《荷马体赞歌》第十二首《致赫拉》
+- 支持：赫拉作为克洛诺斯之女、诸神之后及宙斯配偶的赞歌身份。
+- 访问：[Theoi Classical Texts Library](https://www.theoi.com/Text/HomericHymns2.html#12)
+
+### source.homeric-hymn.22.poseidon
+
+- 等级：P1
+- 作品：《荷马体赞歌》第二十二首《致波塞冬》
+- 支持：波塞冬与海、地震、驯马，以及作为船舶救助者的双重职能。
+- 访问：[Theoi Classical Texts Library](https://www.theoi.com/Text/HomericHymns3.html#22)
+
+### source.homeric-hymn.2.demeter
+
+- 等级：P1
+- 作品：《荷马体赞歌》第二首《致得墨忒耳》
+- 定位：全诗 1–495 行；条目分别标注 1–89、90–211、212–304、305–489 行
+- 支持：珀耳塞福涅被带走、得墨忒耳寻女与停育、厄琉息斯王室事件、神庙与仪式、母女重逢及季节性往返。
+- 限制：赞歌解释厄琉息斯崇拜的神话基础，却没有公开秘仪全部内容。
+- 访问：[Harvard Center for Hellenic Studies](https://chs.harvard.edu/primary-source/homeric-hymn-to-demeter-sb/)
+
+### source.homeric-hymn.3.apollo
+
+- 等级：P1
+- 作品：《荷马体赞歌》第三首《致阿波罗》
+- 定位：德洛斯部分与皮托部分；重点 1–178、179–546 行
+- 支持：阿波罗的德洛斯诞生、寻找神谕地点、击杀雌蛇、建立皮托圣所及引导克里特水手成为祭司。
+- 限制：现代研究常把全诗的德洛斯与皮托部分作为形成问题讨论，条目不把接缝藏成单一无争议首演。
+- 访问：[Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0138:hymn=3)
+
+### source.homer.iliad.5.733-742
+
+- 等级：P1
+- 作品：《伊利亚特》
+- 定位：第 5 卷 733–742 行
+- 支持：雅典娜披上带有恐惧、争斗、力量与戈耳工首级的埃癸斯，为其武装和圣物构成提供史诗锚点。
+- 访问：[Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Hom.%20Il.%205.733&lang=original)
+
+### source.homer.odyssey.9-12
+
+- 等级：P1
+- 作品：《奥德赛》
+- 定位：第 9–12 卷
+- 支持：奥德修斯自述的独眼巨人、埃俄洛斯、莱斯特律戈涅斯、喀耳刻、冥界、塞壬、斯库拉与卡律布狄斯等返乡经历。
+- 限制：奥德修斯是叙事者，机智、隐瞒和自我塑造属于阅读的一部分。
+- 访问：[Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0136:book=9)
+
+### source.burkert.greek-religion
+
+- 等级：P3
+- 作者：Walter Burkert
+- 作品：*Greek Religion: Archaic and Classical*，John Raffan 英译，Blackwell，1985
+- 支持：古风与古典希腊祭祀、神庙、诸神职能、城邦差异及仪式语境的综合研究。
+- 限制：二手综合不能替代具体诗行、铭文和考古器物。
+
+### source.parker.on-greek-religion
+
+- 等级：P3
+- 作者：Robert Parker
+- 作品：*On Greek Religion*，Cornell University Press，2011
+- 支持：希腊宗教的地方性、祭祀实践、神名与现代分类问题。
+- 限制：用于整理层和文明总览，不单独证明具体神话事件。
+
 ## 北欧
 
 ### source.snorri.gylfaginning.20
@@ -937,6 +1021,106 @@
 - 支持：中世纪外部作者把 Thor 与空气、雷电、风雨和收成联系起来的记载。
 - 限制：属于外部基督教作者的描述，应与埃达材料分开使用。
 
+### source.poetic-edda.voluspa.19-66
+
+- 等级：P1 / P2
+- 作品：《诗体埃达·女巫的预言》
+- 定位：19–66 节
+- 支持：世界树意象、巴德尔死亡的预兆与复仇、芬里尔和世界蛇在末日中的行动、世界毁灭与更新。
+- 版本提示：诗节次序和个别段落在主要手稿间存在差异；中文转述需对照校本。
+- 访问：[Völuspá.org](https://www.voluspa.org/voluspa.htm)
+
+### source.poetic-edda.lokasenna
+
+- 等级：P1 / P2
+- 作品：《诗体埃达·洛基的争辩》
+- 支持：洛基在宴会中逐一攻击诸神、暴露亲缘与道德裂缝，以及结尾与其受缚传统的连接。
+- 限制：争辩诗中的指控属于角色话语，不能全部直接当作客观神谱事实。
+- 访问：[Völuspá.org](https://www.voluspa.org/lokasenna.htm)
+
+### source.poetic-edda.grimnismal.14
+
+- 等级：P1 / P2
+- 作品：《诗体埃达·格里姆尼尔之歌》
+- 定位：第 14 节
+- 支持：芙蕾雅在 Fólkvangr 选择一半阵亡者、另一半归奥丁的诗歌陈述。
+- 访问：[Völuspá.org](https://www.voluspa.org/grimnismal11-15.htm)
+
+### source.poetic-edda.skirnismal
+
+- 等级：P1 / P2
+- 作品：《诗体埃达·斯基尔尼尔之歌》
+- 支持：弗雷看见盖尔德、交出宝剑并让斯基尔尼尔代为求婚，以及礼物、威胁和婚约的复杂过程。
+- 限制：不能把文本简化成纯浪漫爱情故事；强迫与交换必须进入整理层。
+- 访问：[Völuspá.org](https://www.voluspa.org/skirnismal.htm)
+
+### source.poetic-edda.baldrs-draumar
+
+- 等级：P1 / P2
+- 作品：《诗体埃达·巴德尔之梦》
+- 支持：奥丁前往冥界询问巴德尔噩梦、死亡宴席与复仇者出生的预言。
+- 访问：[Völuspá.org](https://www.voluspa.org/baldrsdraumar.htm)
+
+### source.poetic-edda.hymiskvida
+
+- 等级：P1 / P2
+- 作品：《诗体埃达·许密尔之歌》
+- 支持：索尔以牛头为饵钓起世界蛇、许密尔恐惧并切断钓线的诗歌版本。
+- 访问：[Völuspá.org](https://www.voluspa.org/hymiskvida.htm)
+
+### source.poetic-edda.sigurd-cycle
+
+- 等级：P1 / P2
+- 作品：《诗体埃达》的《雷金之歌》《法夫尼尔之歌》《西格德里法之歌》
+- 支持：西格鲁德受雷金引导、杀死法夫尼尔、理解鸟语并与西格德里法相遇的英雄叙事链。
+- 限制：《沃尔松格萨迦》的顺畅叙事是后起散文整合，不能替诗歌缺口直接发言。
+- 访问：[Völuspá.org：Fáfnismál](https://www.voluspa.org/fafnismal.htm)
+
+### source.snorri.gylfaginning.23-24
+
+- 等级：P2
+- 作者：斯诺里·斯图鲁松
+- 作品：《散文埃达·欺骗古鲁菲》
+- 定位：第 23–24 章
+- 支持：弗雷和芙蕾雅的亲缘、领域、圣物和斯诺里体系中的神格位置。
+- 限制：十三世纪系统整理应与诗歌和物质材料分层。
+- 访问：[Völuspá.org](https://www.voluspa.org/gylfaginning21-30.htm)
+
+### source.snorri.gylfaginning.33-35
+
+- 等级：P2
+- 作者：斯诺里·斯图鲁松
+- 作品：《散文埃达·欺骗古鲁菲》
+- 定位：第 33–35 章
+- 支持：洛基的身份及其子女、赫尔的领域、芬里尔受缚与格莱普尼尔。
+- 限制：斯诺里把分散材料组织成强叙事链，不能假定每一环都来自同一更早正典。
+- 访问：[Völuspá.org](https://www.voluspa.org/gylfaginning31-40.htm)
+
+### source.snorri.gylfaginning.49-53
+
+- 等级：P2
+- 作者：斯诺里·斯图鲁松
+- 作品：《散文埃达·欺骗古鲁菲》
+- 定位：第 49–53 章
+- 支持：巴德尔死亡、洛基受罚、诸神黄昏、芬里尔与世界蛇的末日行动，以及世界更新。
+- 限制：应与《女巫的预言》《瓦夫苏鲁特尼尔之歌》等诗歌分别标注。
+- 访问：[Völuspá.org](https://www.voluspa.org/gylfaginning41-50.htm)
+
+### source.lindow.norse-mythology
+
+- 等级：P3
+- 作者：John Lindow
+- 作品：*Norse Mythology: A Guide to Gods, Heroes, Rituals, and Beliefs*，Oxford University Press，2001
+- 支持：神名、诗歌与散文来源、仪式及现代研究问题的条目式综合。
+
+### source.simek.dictionary-northern-mythology
+
+- 等级：P3
+- 作者：Rudolf Simek
+- 作品：*Dictionary of Northern Mythology*，Angela Hall 英译，D. S. Brewer，1993
+- 支持：北欧及更广日耳曼材料的名称、语源、文本见证和研究史。
+- 限制：词典综合必须回到具体文本验证叙事陈述。
+
 ## 吠陀
 
 ### source.rigveda.1.1
@@ -975,3 +1159,109 @@
 - 作品：《梨俱吠陀》1.80
 - 支持：因陀罗与弗栗多战斗及金刚杵权柄的相关赞歌。
 - 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv01080.htm)
+
+### source.rigveda.9.soma
+
+- 等级：P1
+- 作品：《梨俱吠陀》第 9 卷
+- 支持：Pavamāna Soma 在压榨、过滤、流动、饮用与神圣力量之间的赞歌网络。
+- 限制：第 9 卷中的苏摩是神、汁液和仪式过程的交叠，不能只译为酒或植物。
+- 访问：[Internet Sacred Text Archive，第 9 卷目录](https://sacred-texts.com/hin/rigveda/index.htm)
+
+### source.rigveda.8.48
+
+- 等级：P1
+- 作品：《梨俱吠陀》8.48
+- 支持：饮用苏摩、进入不死、光明与敌意无能为害的著名赞歌表达。
+- 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv08048.htm)
+
+### source.rigveda.1.24
+
+- 等级：P1
+- 作品：《梨俱吠陀》1.24
+- 支持：伐楼拿的统摄、绳索、罪责意识和请求释放。
+- 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv01024.htm)
+
+### source.rigveda.7.86
+
+- 等级：P1
+- 作品：《梨俱吠陀》7.86
+- 支持：诗人与伐楼拿之间关于过犯、祖先之罪、宽恕和恢复关系的对话性祈求。
+- 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv07086.htm)
+
+### source.rigveda.1.48-92
+
+- 等级：P1
+- 作品：《梨俱吠陀》1.48 与 1.92
+- 支持：乌莎斯作为晨曦到来、唤醒生命、显露道路，同时每天到来又消耗人的寿命。
+- 访问：[1.48](https://sacred-texts.com/hin/rigveda/rv01048.htm) · [1.92](https://sacred-texts.com/hin/rigveda/rv01092.htm)
+
+### source.rigveda.10.10
+
+- 等级：P1
+- 作品：《梨俱吠陀》10.10
+- 支持：阎弥请求阎摩结合、阎摩以亲缘和秩序理由拒绝的对话赞歌。
+- 限制：角色话语和诗歌辩论不能压成后世固定伦理法典。
+- 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv10010.htm)
+
+### source.rigveda.10.14
+
+- 等级：P1
+- 作品：《梨俱吠陀》10.14
+- 支持：阎摩作为先行者、祖先聚会之处、两只四眼犬与送亡者上路的葬仪语言。
+- 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv10014.htm)
+
+### source.rigveda.6.61
+
+- 等级：P1
+- 作品：《梨俱吠陀》6.61
+- 支持：萨拉斯瓦蒂作为强大河流、给予者与受到赞颂的神圣力量。
+- 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv06061.htm)
+
+### source.rigveda.7.95-96
+
+- 等级：P1
+- 作品：《梨俱吠陀》7.95–96
+- 支持：萨拉斯瓦蒂的河流路径、丰饶、保护与神格化赞颂。
+- 限制：诗歌地理不能单独裁定现代地质与河道辨识争论。
+- 访问：[7.95](https://sacred-texts.com/hin/rigveda/rv07095.htm) · [7.96](https://sacred-texts.com/hin/rigveda/rv07096.htm)
+
+### source.rigveda.10.90
+
+- 等级：P1
+- 作品：《梨俱吠陀》10.90《原人歌》
+- 支持：原人祭献、宇宙各部分形成、神圣言语和社会类别的诗歌表达。
+- 限制：该赞歌位于第 10 卷，其年代、文本层和社会解释必须进入争议层。
+- 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv10090.htm)
+
+### source.rigveda.10.108
+
+- 等级：P1
+- 作品：《梨俱吠陀》10.108
+- 支持：萨拉玛跨越道路找到帕尼所藏牛群，并在对话中拒绝其拉拢。
+- 限制：萨拉玛的形态与后世“神犬”谱系不能全部由本赞歌直接推出。
+- 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv10108.htm)
+
+### source.rigveda.10.129
+
+- 等级：P1
+- 作品：《梨俱吠陀》10.129《无有歌》
+- 支持：存在／不存在、黑暗、水、欲望和宇宙起源知识边界的开放追问。
+- 限制：结尾保留最高观察者是否知道的疑问，不能改写成确定创世教义。
+- 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv10129.htm)
+
+### source.shatapatha.1.8.1
+
+- 等级：P1 / P2
+- 作品：《百道梵书》1.8.1
+- 支持：鱼警告摩奴洪水、造船、获救、祭献及伊荼出现的吠陀散文叙事。
+- 限制：属于梵书层，不得倒写成《梨俱吠陀》赞歌已经保存的同一版本。
+- 访问：[Internet Sacred Text Archive，Julius Eggeling 英译](https://sacred-texts.com/hin/sbr/sbe12/sbe1234.htm)
+
+### source.jamison-brereton.rigveda
+
+- 等级：P3
+- 作者：Stephanie W. Jamison、Joel P. Brereton
+- 作品：*The Rigveda: The Earliest Religious Poetry of India*，Oxford University Press，2014
+- 支持：《梨俱吠陀》全译、梵文语义、诗歌结构和仪式语境的研究型译本。
+- 限制：条目仍需标出具体卷、赞歌和诗节，不以译本总名代替原典定位。

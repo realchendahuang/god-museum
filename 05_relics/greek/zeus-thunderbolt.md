@@ -34,11 +34,11 @@ setting_status: established
 
 | 关系对象 | 类型 | 说明 |
 | --- | --- | --- |
-| [宙斯](../02_deities/greek/zeus.md) | bearer-of | 接受并使用雷霆武器 |
+| [宙斯](../../02_deities/greek/zeus.md) | bearer-of | 接受并使用雷霆武器 |
 | 独眼巨人 | maker / giver | 《神谱》中的制造与给予者 |
-| [泰坦战争](../08_myths/greek/titanomachy.md) | event-instrument | 参与神代战争与秩序更替 |
-| [妙尔尼尔](./mjolnir.md) | motif-analogue | 都与雷霆神座和强敌战斗相连，但来源结构不同 |
-| [金刚杵](./vajra.md) | motif-analogue | 都承担雷击与战斗作用，不主张同一武器 |
+| [泰坦战争](../../08_myths/greek/titanomachy.md) | event-instrument | 参与神代战争与秩序更替 |
+| [妙尔尼尔](../norse/mjolnir.md) | motif-analogue | 都与雷霆神座和强敌战斗相连，但来源结构不同 |
+| [金刚杵](../vedic/vajra.md) | motif-analogue | 都承担雷击与战斗作用，不主张同一武器 |
 
 ## 设定层
 
@@ -48,5 +48,5 @@ setting_status: established
 
 ## 来源
 
-- [source.hesiod.theogony.139-146](../99_sources/bibliography.md#sourcehesiodtheogony139-146)：独眼巨人、雷与雷霆武器的给予。
-- [source.hesiod.theogony.617-735](../99_sources/bibliography.md#sourcehesiodtheogony617-735)：泰坦战争中的雷霆。
+- [source.hesiod.theogony.139-146](../../99_sources/bibliography.md#sourcehesiodtheogony139-146)：独眼巨人、雷与雷霆武器的给予。
+- [source.hesiod.theogony.617-735](../../99_sources/bibliography.md#sourcehesiodtheogony617-735)：泰坦战争中的雷霆。

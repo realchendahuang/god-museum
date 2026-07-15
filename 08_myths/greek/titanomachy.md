@@ -23,7 +23,7 @@ setting_status: established
 | --- | --- |
 | 核心文本 | 赫西俄德《神谱》617–735 行及前后继承叙事 |
 | 主要行动者 | [宙斯](../../02_deities/greek/zeus.md)、奥林匹斯诸神、泰坦、百臂巨人、独眼巨人 |
-| 核心圣物 | [宙斯的雷霆](../../05_relics/zeus-thunderbolt.md) |
+| 核心圣物 | [宙斯的雷霆](../../05_relics/greek/zeus-thunderbolt.md) |
 | 前置事件 | 克洛诺斯吞子、宙斯出生与兄弟姐妹返回 |
 | 后续秩序 | 众神推举宙斯统治并由其分配权能 |
 

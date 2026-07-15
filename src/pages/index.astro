@@ -16,37 +16,16 @@ const halls = docs
   .filter(entry => entry.data.type === 'hall')
   .sort((a, b) => a.id.localeCompare(b.id))
 const featuredDeityIds = [
-  'deity.chinese.leigong',
   'deity.chinese.nvwa',
-  'deity.chinese.xiwangmu',
-  'deity.chinese.xihe',
-  'deity.chinese.change',
-  'deity.chinese.gonggong',
-  'deity.chinese.di-shangdi',
-  'deity.chinese.houtu',
-  'deity.chinese.taiyi',
-  'deity.chinese.taishang-laojun',
-  'deity.chinese.yuanshi-tianzun',
   'deity.chinese.yuhuang-shangdi',
   'deity.greek.zeus',
-  'deity.greek.athena',
-  'deity.norse.thor',
   'deity.norse.odin',
   'deity.vedic.indra',
-  'deity.vedic.agni',
   'deity.egyptian.ra',
-  'deity.egyptian.osiris',
-  'deity.egyptian.isis',
-  'deity.egyptian.maat',
-  'deity.mesopotamian.an-anu',
-  'deity.mesopotamian.enki-ea',
   'deity.mesopotamian.inana-ishtar',
-  'deity.mesopotamian.marduk',
-  'deity.ugaritic.el',
-  'deity.ugaritic.baal-haddu',
-  'deity.ugaritic.anat',
-  'deity.ugaritic.shapshu'
+  'deity.ugaritic.baal-haddu'
 ]
+const deityCount = docs.filter(entry => entry.data.type === 'deity').length
 const deities = docs
   .filter(entry => entry.data.type === 'deity' && featuredDeityIds.includes(entry.data.id || ''))
   .sort((a, b) => featuredDeityIds.indexOf(a.data.id || '') - featuredDeityIds.indexOf(b.data.id || ''))
@@ -73,8 +52,8 @@ function hallDomains(entry: (typeof halls)[number]) {
 ---
 
 <BaseLayout>
-  <div class="shell hero">
-    <div class="hero-copy">
+  <div class="shell hero" data-motion="hero">
+    <div class="hero-copy" data-motion-part="copy">
       <h1>God-Museum<span>众神殿</span></h1>
       <p class="hero-statement">一界，多天，万神，共殿。</p>
       <p class="hero-note">世界只有一个人间，却有许多套天空。</p>
@@ -89,13 +68,42 @@ function hallDomains(entry: (typeof halls)[number]) {
         </a>
       </div>
     </div>
-    <div class="hero-visual">
+    <div class="hero-visual" data-motion-part="visual">
       <PantheonOrbit />
     </div>
-    <a class="next-section-mark" href="#halls">十二座权柄大殿</a>
+    <a class="next-section-mark" href="#visit-routes">选择参观路径</a>
   </div>
 
-  <section class="shell museum-section section-rule" id="halls">
+  <section class="shell museum-section visit-section section-rule" id="visit-routes" data-motion="reveal">
+    <div class="section-heading compact-heading">
+      <h2>从哪里进入众神殿？</h2>
+      <p>这不是一份必须从头读到尾的百科。选择一条路径，让档案之间开始发生关系。</p>
+    </div>
+    <div class="visit-route-list">
+      <a href={withBase('foundation')}>
+        <span class="entry-number">01</span>
+        <strong>初次来访</strong>
+        <em>从宪章、三层正典与编目原则开始</em>
+      </a>
+      <a href={withBase('halls')}>
+        <span class="entry-number">02</span>
+        <strong>按权柄游览</strong>
+        <em>在同一座殿中看见不同文明的神</em>
+      </a>
+      <a href={withBase('civilizations')}>
+        <span class="entry-number">03</span>
+        <strong>按文明游览</strong>
+        <em>保留神谱、历史、祭祀与文本内部的语境</em>
+      </a>
+      <a href={withBase('civilizations/corridors')}>
+        <span class="entry-number">04</span>
+        <strong>按相遇游览</strong>
+        <em>沿传播、翻译、帝国与记忆进入文明通道</em>
+      </a>
+    </div>
+  </section>
+
+  <section class="shell museum-section section-rule" id="halls" data-motion="reveal">
     <div class="section-heading">
       <h2>十二座权柄大殿</h2>
       <p>按权柄看见诸神，按原典保留差异。大殿是入口，不是新的神系，也不是力量排行榜。</p>
@@ -114,10 +122,10 @@ function hallDomains(entry: (typeof halls)[number]) {
     </div>
   </section>
 
-  <section class="shell museum-section section-rule" id="deities">
+  <section class="shell museum-section section-rule" id="deities" data-motion="reveal">
     <div class="section-heading">
-      <h2>已登记神座</h2>
-      <p>相似的权柄只让他们进入同一座殿，不会把他们改写成同一个神。</p>
+      <h2>神座选录</h2>
+      <p>从 {deityCount} 位已登记神座中选出八个入口。相似的权柄只让他们进入同一座殿，不会把他们改写成同一个神。</p>
     </div>
     <div class="deity-axis">
       {deities.map((deity, index) => (
@@ -131,9 +139,15 @@ function hallDomains(entry: (typeof halls)[number]) {
         </a>
       ))}
     </div>
+    <div class="section-tail-link">
+      <a class="secondary-link" href={withBase('deities')}>
+        查看全部 {deityCount} 位神座
+        <span class="link-arrow" aria-hidden="true"></span>
+      </a>
+    </div>
   </section>
 
-  <section class="shell museum-section section-rule" id="canon">
+  <section class="shell museum-section section-rule" id="canon" data-motion="reveal">
     <div class="section-heading">
       <h2>所有叙述，都要说明自己站在哪一层。</h2>
       <p>God-Museum 允许大胆创作，但不允许把来源、整理和原创混写成一件事。</p>
@@ -157,7 +171,7 @@ function hallDomains(entry: (typeof halls)[number]) {
     </div>
   </section>
 
-  <section class="shell museum-section section-rule">
+  <section class="shell museum-section section-rule" data-motion="reveal">
     <p class="corridor-quote">神不是因为权柄相似才相遇，<span>而是因为记住他们的人相遇。</span></p>
     <div class="corridor-links">
       <a class="primary-link" href={withBase('civilizations/corridors')}>

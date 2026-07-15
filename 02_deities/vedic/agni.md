@@ -93,7 +93,7 @@ setting_status: established
 - [雷霆、风、雨与火之殿](../../01_halls/04_thunder-wind-rain-and-fire.md)：阿耆尼证明火权柄不必服从雷神比较链。
 - [众神殿](../../07_places/pantheon.md)：文明通道和共殿邀请规则为阿耆尼的使者权柄设定跨神系边界。
 - [因陀罗](./indra.md)：同属吠陀赞歌传统，却分别以祭祀通道与战斗破障进入雷火殿。
-- [金刚杵](../../05_relics/vajra.md)与[弗栗多之战](../../08_myths/vedic/indra-and-vritra.md)：属于因陀罗的馆藏网络，不能因共同传统转移给阿耆尼。
+- [金刚杵](../../05_relics/vedic/vajra.md)与[弗栗多之战](../../08_myths/vedic/indra-and-vritra.md)：属于因陀罗的馆藏网络，不能因共同传统转移给阿耆尼。
 
 ### 不可省略的差异
 

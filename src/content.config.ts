@@ -4,7 +4,7 @@ import { z } from 'astro/zod'
 
 const docs = defineCollection({
   loader: glob({
-    pattern: '{00_foundation,01_halls,02_deities,03_civilizations,04_heroes,05_relics,06_beasts,07_places,08_myths,09_silent-gallery,99_sources}/**/[^_]*.md',
+    pattern: '{00_foundation,01_halls,02_deities,03_civilizations,04_heroes,05_relics,06_beasts,07_places,08_myths,09_silent-gallery,10_chronicles,99_sources}/**/[^_]*.md',
     base: '.'
   }),
   schema: z.object({

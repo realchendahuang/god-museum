@@ -61,11 +61,11 @@ God-Museum 不替这一矛盾选定唯一答案。它把双重状态本身视为
 
 | 对象 | 类型 | 依据 | 状态 |
 | --- | --- | --- | --- |
-| [宙斯](../02_deities/greek/zeus.md) | kinship | 《神谱》950–955 | 确认 |
+| [宙斯](../../02_deities/greek/zeus.md) | kinship | 《神谱》950–955 | 确认 |
 | 阿尔克墨涅 | kinship | 同上 | 确认 |
 | 赫柏 | marriage / deification-context | 同上 | 确认 |
 | 冥界影像 | aspect-of / textual-double | 《奥德赛》11.601–604 附近 | 有文本问题 |
-| [大禹](./yu-the-great.md) | motif-analogue | 都以功业重新建立人间秩序 | 只允许比较 |
+| [大禹](../yu-the-great.md) | motif-analogue | 都以功业重新建立人间秩序 | 只允许比较 |
 
 ### 不可省略的差异
 
@@ -85,5 +85,5 @@ God-Museum 不替这一矛盾选定唯一答案。它把双重状态本身视为
 
 ## 来源
 
-- [source.hesiod.theogony.950-955](../99_sources/bibliography.md#sourcehesiodtheogony950-955)：父母、功业后的神化位置与赫柏婚姻。
-- [source.homer.odyssey.11.601-604](../99_sources/bibliography.md#sourcehomerodyssey11601-604)：冥界影像与不死者身份并置。
+- [source.hesiod.theogony.950-955](../../99_sources/bibliography.md#sourcehesiodtheogony950-955)：父母、功业后的神化位置与赫柏婚姻。
+- [source.homer.odyssey.11.601-604](../../99_sources/bibliography.md#sourcehomerodyssey11601-604)：冥界影像与不死者身份并置。

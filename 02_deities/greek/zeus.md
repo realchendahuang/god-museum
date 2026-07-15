@@ -96,10 +96,10 @@ setting_status: established
 
 ### 馆藏网络
 
-- [宙斯的雷霆](../../05_relics/zeus-thunderbolt.md)：独眼巨人给予、在神代战争中使用的圣物关系。
+- [宙斯的雷霆](../../05_relics/greek/zeus-thunderbolt.md)：独眼巨人给予、在神代战争中使用的圣物关系。
 - [泰坦战争](../../08_myths/greek/titanomachy.md)：从继承危机到战争，再到权能分配的完整王权路径。
 - [雅典娜的诞生](../../08_myths/greek/birth-of-athena.md)：墨提斯、继承预言与武装女神如何进入新秩序。
-- [雅典娜](./athena.md)与[赫拉克勒斯](../../04_heroes/heracles.md)：分别展示宙斯亲缘关系中的王权控制与英雄神化。
+- [雅典娜](./athena.md)与[赫拉克勒斯](../../04_heroes/greek/heracles.md)：分别展示宙斯亲缘关系中的王权控制与英雄神化。
 
 ### 不可省略的差异
 

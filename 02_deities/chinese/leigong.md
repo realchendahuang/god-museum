@@ -91,7 +91,7 @@ setting_status: established
 ### 馆藏网络
 
 - [雷霆、风、雨与火之殿](../../01_halls/04_thunder-wind-rain-and-fire.md)：比较不同文明如何理解雷，而不合并神座。
-- [宙斯的雷霆](../../05_relics/zeus-thunderbolt.md)、[妙尔尼尔](../../05_relics/mjolnir.md)与[金刚杵](../../05_relics/vajra.md)：三件有明确持有关系的圣物反过来凸显当前雷公档案尚不能确定标准武器。
+- [宙斯的雷霆](../../05_relics/greek/zeus-thunderbolt.md)、[妙尔尼尔](../../05_relics/norse/mjolnir.md)与[金刚杵](../../05_relics/vedic/vajra.md)：三件有明确持有关系的圣物反过来凸显当前雷公档案尚不能确定标准武器。
 - [众神殿](../../07_places/pantheon.md)：雷公只能以已建面相进入共殿，不以一张后世造型覆盖全部历史。
 
 ### 不可省略的差异

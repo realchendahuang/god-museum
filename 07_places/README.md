@@ -23,8 +23,8 @@
 
 ## 已开放地点
 
-- [瓦尔哈拉](./valhalla.md)：与奥丁和阵亡者相关的北欧神话地点，不是所有死者的统一天堂。
-- [Þrúðvangr 与 Bilskírnir](./thrudvangr-bilskirnir.md)：索尔的领域与大厅，让守护者拥有可返回的秩序。
+- [瓦尔哈拉](./norse/valhalla.md)：与奥丁和阵亡者相关的北欧神话地点，不是所有死者的统一天堂。
+- [Þrúðvangr 与 Bilskírnir](./norse/thrudvangr-bilskirnir.md)：索尔的领域与大厅，让守护者拥有可返回的秩序。
 - [众神殿](./pantheon.md)：项目自身的设定空间，说明共殿如何出现、运作、变化并限制权力。
 - [昆仑／昆仑之丘](./chinese/kunlun.md)：帝之下都、河源、西王母周边与后世仙境重叠但不完全同图的多版本神山。
 - [不周山](./chinese/buzhou-mountain.md)：西北“不合”之山与共工撞断天柱的宇宙结构节点。

@@ -94,9 +94,9 @@ setting_status: established
 ### 馆藏网络
 
 - [奥丁悬树得符文](../../08_myths/norse/odin-wins-runes.md)：知识代价、自我献祭与符文取得的完整事件。
-- [瓦尔哈拉](../../07_places/valhalla.md)：与奥丁和阵亡者相连、但不是所有死者统一归宿的地点。
+- [瓦尔哈拉](../../07_places/norse/valhalla.md)：与奥丁和阵亡者相连、但不是所有死者统一归宿的地点。
 - [索尔](./thor.md)：同属北欧诸神域，却分别以求知、统治与持续守护形成不同权威。
-- [赫拉克勒斯](../../04_heroes/heracles.md)：死亡影像与不死身份的并置，可与奥丁的死亡边界经验建立 motif-analogue。
+- [赫拉克勒斯](../../04_heroes/greek/heracles.md)：死亡影像与不死身份的并置，可与奥丁的死亡边界经验建立 motif-analogue。
 
 ### 不可省略的差异
 

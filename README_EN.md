@@ -326,11 +326,14 @@ The setting now operates as a real, connected content repository:
 - [Court of Beings](./06_beasts/README.md)
 - [Mythic Realms and Places](./07_places/README.md)
 - [Theater of Myths](./08_myths/README.md)
+- [Chronicles of the Pantheon](./10_chronicles/README.md)
 - [Bibliography and source nodes](./99_sources/bibliography.md)
 
 Fifty-eight formal Divine Seats now exist. Beyond Di/Shangdi, Tian/Haotian, Houtu, Sheji, Hebo, and Taiyi, the Chinese collection now establishes historically situated records for Taishang Laojun, Yuanshi Tianzun, Lingbao Tianzun, the Jade Emperor, and the Three Officials while keeping Di Jun as an important but fragmentary genealogical node. The Ugaritic collection continues to connect El, Athirat, Baal-Haddu, Anat, Yam, Mot, Shapshu, Kothar-wa-Khasis, Athtart, and Yarikh through a Bronze Age Northwest Semitic archive. Seven fragmentary names or groups remain in the Silent Gallery rather than being completed through modern invention.
 
-The seats now form a connected collection rather than isolated biographies. Sixteen heroes or royal actors, eighteen relics and textual artifacts, thirteen nonhuman beings, twenty-six mythic or historical places, and thirty-three sourced mythic or religious events connect gods, people, artifacts, cities, temples, and Halls into one searchable archive.
+The archive now contains seventy-three formal Divine Seats, with seven fragmentary names or groups preserved in the Silent Gallery. Greek, Norse, and Vedic collections have each grown into seven-seat networks organized around succession and local cult, knowledge and the approaching end, and hymn, sacrifice, cosmic order, and the roads of the dead.
+
+The seats now form a connected collection rather than isolated biographies. Nineteen heroes or royal actors, twenty relics and textual artifacts, seventeen nonhuman beings, thirty-three mythic or historical places, forty-one sourced mythic or religious events, and three explicitly original Chronicles connect gods, people, artifacts, cities, temples, corridors, and Halls into one searchable archive.
 
 The Chinese collection is organized through historically situated aspects rather than an undated celestial bureaucracy. Its early textual layers remain separate, while the new Daoist layer proceeds from the *Sanguozhi* accounts of Huming Mountain, the Three Officials' petitions, and the Zhang lineage into the *Xiang'er* commentary, Six Dynasties Lingbao scriptures, the *Zhenling Weiye Tu*, the formation of the Three Pure Ones, and the Song state's elevation of the Jade Emperor. Celestial Masters, the Three Pure Ones, and the Jade Emperor enter through different scriptures, rituals, and institutions rather than overwrite Di, Tian, Taiyi, or other earlier sacred orders.
 

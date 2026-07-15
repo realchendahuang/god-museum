@@ -31,12 +31,12 @@ setting_status: established
 
 | 关系对象 | 类型 | 说明 |
 | --- | --- | --- |
-| [索尔](../02_deities/norse/thor.md) | bearer-of | 主要持有者和使用者 |
+| [索尔](../../02_deities/norse/thor.md) | bearer-of | 主要持有者和使用者 |
 | 索列姆 | theft / enmity | 《索列姆之歌》中的窃取者 |
-| [妙尔尼尔失窃](../08_myths/norse/the-theft-of-mjolnir.md) | event-center | 整场事件围绕失去与取回展开 |
+| [妙尔尼尔失窃](../../08_myths/norse/the-theft-of-mjolnir.md) | event-center | 整场事件围绕失去与取回展开 |
 | 巨人诸敌 | enmity | 武器承担神界防卫作用 |
-| [宙斯的雷霆](./zeus-thunderbolt.md) | motif-analogue | 雷霆武器，但不是王权继承的同一结构 |
-| [金刚杵](./vajra.md) | motif-analogue | 都击向巨大敌对者，但事件意义不同 |
+| [宙斯的雷霆](../greek/zeus-thunderbolt.md) | motif-analogue | 雷霆武器，但不是王权继承的同一结构 |
+| [金刚杵](../vedic/vajra.md) | motif-analogue | 都击向巨大敌对者，但事件意义不同 |
 
 ## 设定层
 
@@ -46,5 +46,5 @@ setting_status: established
 
 ## 来源
 
-- [source.snorri.gylfaginning.21](../99_sources/bibliography.md#sourcesnorrigylfaginning21)：妙尔尼尔、铁手套、力量腰带及对巨人职能。
-- [source.poetic-edda.thrymskvida](../99_sources/bibliography.md#sourcepoetic-eddathrymskvida)：被盗、乔装与取回。
+- [source.snorri.gylfaginning.21](../../99_sources/bibliography.md#sourcesnorrigylfaginning21)：妙尔尼尔、铁手套、力量腰带及对巨人职能。
+- [source.poetic-edda.thrymskvida](../../99_sources/bibliography.md#sourcepoetic-eddathrymskvida)：被盗、乔装与取回。

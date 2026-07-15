@@ -29,8 +29,8 @@ setting_status: established
 | 项目 | 内容 |
 | --- | --- |
 | 类型 | 北欧诸神域中的领域与神圣大厅 |
-| 关联神座 | [索尔](../02_deities/norse/thor.md) |
-| 关联圣物 | [妙尔尼尔](../05_relics/mjolnir.md)、力量腰带、铁手套 |
+| 关联神座 | [索尔](../../02_deities/norse/thor.md) |
+| 关联圣物 | [妙尔尼尔](../../05_relics/norse/mjolnir.md)、力量腰带、铁手套 |
 | 关联行动 | 出发对抗巨人、返回神界秩序 |
 
 这一地点让索尔的档案不只由战场组成。神话中的守护意味着存在某个可返回的秩序，战斗也因此有方向，而不是无限寻找敌人。
@@ -43,4 +43,4 @@ setting_status: established
 
 ## 来源
 
-- [source.snorri.gylfaginning.21](../99_sources/bibliography.md#sourcesnorrigylfaginning21)：索尔的领域、大厅、山羊车与圣物。
+- [source.snorri.gylfaginning.21](../../99_sources/bibliography.md#sourcesnorrigylfaginning21)：索尔的领域、大厅、山羊车与圣物。

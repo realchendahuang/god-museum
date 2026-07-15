@@ -23,8 +23,8 @@ setting_status: established
 | 项目 | 内容 |
 | --- | --- |
 | 核心文本 | 《梨俱吠陀》1.32、1.80 |
-| 主要行动者 | [因陀罗](../../02_deities/vedic/indra.md)、[弗栗多](../../06_beasts/vritra.md) |
-| 核心圣物 | [金刚杵](../../05_relics/vajra.md) |
+| 主要行动者 | [因陀罗](../../02_deities/vedic/indra.md)、[弗栗多](../../06_beasts/vedic/vritra.md) |
+| 核心圣物 | [金刚杵](../../05_relics/vedic/vajra.md) |
 | 核心冲突 | 阻挡与释放、封闭与流动 |
 | 事件结果 | 弗栗多被击败，山或封闭被打开，水流奔出 |
 

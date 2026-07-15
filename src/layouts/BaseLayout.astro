@@ -45,5 +45,41 @@ const canonical = new URL(`/god-museum${canonicalPath === '/' ? '/' : canonicalP
     </main>
     <SiteFooter />
     <SearchDialog />
+    <script>
+      const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)')
+      const motionTargets = [...document.querySelectorAll<HTMLElement>('[data-motion]')]
+
+      function revealImmediately() {
+        document.documentElement.dataset.motion = 'reduced'
+        motionTargets.forEach(target => target.dataset.motionState = 'visible')
+      }
+
+      if (reducedMotion.matches || !('IntersectionObserver' in window)) {
+        revealImmediately()
+      } else {
+        document.documentElement.dataset.motion = 'ready'
+        motionTargets.forEach(target => {
+          if (target.dataset.motion === 'hero') {
+            target.dataset.motionState = 'visible'
+          }
+        })
+
+        const observer = new IntersectionObserver(entries => {
+          entries.forEach(entry => {
+            if (!entry.isIntersecting || !(entry.target instanceof HTMLElement)) return
+            entry.target.dataset.motionState = 'visible'
+            observer.unobserve(entry.target)
+          })
+        }, { rootMargin: '0px 0px -8% 0px', threshold: 0.12 })
+
+        motionTargets.forEach(target => {
+          if (target.dataset.motion === 'reveal') observer.observe(target)
+        })
+
+        reducedMotion.addEventListener('change', event => {
+          if (event.matches) revealImmediately()
+        })
+      }
+    </script>
   </body>
 </html>

@@ -36,8 +36,8 @@ domains:
 
 ## 已连接馆藏
 
-- [奥丁](../02_deities/norse/odin.md)与[瓦尔哈拉](../07_places/valhalla.md)：阵亡者、选择与未来准备相连，不代表所有死者去向。
-- [赫拉克勒斯](../04_heroes/heracles.md)：《奥德赛》中冥界影像与不死身份并置，迫使档案同时保存死亡和神化。
+- [奥丁](../02_deities/norse/odin.md)与[瓦尔哈拉](../07_places/norse/valhalla.md)：阵亡者、选择与未来准备相连，不代表所有死者去向。
+- [赫拉克勒斯](../04_heroes/greek/heracles.md)：《奥德赛》中冥界影像与不死身份并置，迫使档案同时保存死亡和神化。
 - [奥丁悬树得符文](../08_myths/norse/odin-wins-runes.md)：在死亡边界上求知，但不是普通亡者的来世路线。
 - [奥西里斯](../02_deities/egyptian/osiris.md)：被杀与复苏后的死者王权、审判和死亡王—在位王继承结构。
 - [阿努比斯](../02_deities/egyptian/anubis.md)：防腐、尸体保护、引导与称心天平职司；不是冥界最高统治者。

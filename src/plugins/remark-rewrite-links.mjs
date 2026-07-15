@@ -21,6 +21,7 @@ function routeForSource(relativePath) {
     '07_places': 'places',
     '08_myths': 'myths',
     '09_silent-gallery': 'silent-gallery',
+    '10_chronicles': 'chronicles',
     '99_sources': 'sources'
   }
 

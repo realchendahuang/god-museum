@@ -49,10 +49,10 @@ setting_status: established
 
 | 对象 | 类型 | 依据 | 状态 |
 | --- | --- | --- | --- |
-| [因陀罗](../02_deities/vedic/indra.md) | enmity | 《梨俱吠陀》1.32、1.80 | 确认 |
-| [金刚杵](../05_relics/vajra.md) | struck-by | 同上 | 确认 |
+| [因陀罗](../../02_deities/vedic/indra.md) | enmity | 《梨俱吠陀》1.32、1.80 | 确认 |
+| [金刚杵](../../05_relics/vedic/vajra.md) | struck-by | 同上 | 确认 |
 | 被阻挡的水 | containment | 《梨俱吠陀》1.32 | 确认 |
-| [因陀罗击弗栗多](../08_myths/vedic/indra-and-vritra.md) | event-participant | 同上 | 确认 |
+| [因陀罗击弗栗多](../../08_myths/vedic/indra-and-vritra.md) | event-participant | 同上 | 确认 |
 | 其他蛇龙敌对者 | motif-analogue | 局部叙事结构相似 | 只允许比较 |
 
 ## 设定层
@@ -63,5 +63,5 @@ setting_status: established
 
 ## 来源
 
-- [source.rigveda.1.32](../99_sources/bibliography.md#sourcerigveda132)：弗栗多、雷击、破障与释放水流。
-- [source.rigveda.1.80](../99_sources/bibliography.md#sourcerigveda180)：弗栗多战斗与金刚杵。
+- [source.rigveda.1.32](../../99_sources/bibliography.md#sourcerigveda132)：弗栗多、雷击、破障与释放水流。
+- [source.rigveda.1.80](../../99_sources/bibliography.md#sourcerigveda180)：弗栗多战斗与金刚杵。

@@ -6,6 +6,7 @@ import {
   entrySection,
   entryTitle,
   entryTypeLabel,
+  isCollectionEntry,
   plainSearchText,
   routeForEntry,
   sectionLabel
@@ -14,33 +15,80 @@ import {
 const docs: DocEntry[] = await getCollection('docs')
 const sectionOrder = [
   '00_foundation', '01_halls', '02_deities', '03_civilizations', '04_heroes',
-  '05_relics', '06_beasts', '07_places', '08_myths', '09_silent-gallery', '99_sources'
+  '05_relics', '06_beasts', '07_places', '08_myths', '09_silent-gallery',
+  '10_chronicles', '99_sources'
 ]
-const groups = sectionOrder.map(section => ({
-  section,
-  label: sectionLabel(docs.find(entry => entrySection(entry) === section)!),
-  entries: docs
+const entries = docs.filter(isCollectionEntry)
+const guides = docs.filter(entry => !isCollectionEntry(entry))
+const groups = sectionOrder.flatMap(section => {
+  const sectionEntries = entries
     .filter(entry => entrySection(entry) === section)
     .sort((a, b) => a.id.localeCompare(b.id))
-})).filter(group => group.entries.length)
+  return sectionEntries.length
+    ? [{ section, label: sectionLabel(sectionEntries[0]), entries: sectionEntries }]
+    : []
+})
+
+const typeFilters = [
+  ['all', '全部'], ['deity', '神座'], ['myth', '神话'], ['chronicle', '编年史'],
+  ['hero', '英雄'], ['royal_actor', '王权行动者'], ['place', '地点'], ['relic', '圣物'],
+  ['being', '异兽'], ['hall', '大殿'], ['tradition', '文明']
+]
+const traditionFilters = [
+  ['all', '全部'], ['tradition.chinese', '中国'], ['tradition.greek', '希腊'],
+  ['tradition.norse', '北欧'], ['tradition.vedic', '吠陀'], ['tradition.egyptian', '古埃及'],
+  ['tradition.mesopotamian', '美索不达米亚'], ['tradition.ugaritic', '乌加里特']
+]
+const sourceFilters = [
+  ['all', '全部'], ['sourced', '已建立'], ['partial', '扩充中'], ['disputed', '有争议'],
+  ['fragmentary', '仅存残片'], ['unsourced', '待建立']
+]
 ---
 
 <BaseLayout title="完整目录" description="God-Museum 众神殿的完整可检索馆藏目录。" canonicalPath="/catalog/">
-  <header class="shell catalog-hero">
+  <header class="shell catalog-hero" data-motion="hero">
     <p class="doc-type">The complete collection</p>
     <h1>完整目录</h1>
-    <p>同一批 Markdown，同时构成 GitHub 仓库与这座数字众神殿。你可以按神名、文明、权柄或正文关键词检索。</p>
+    <p>正式馆藏拥有稳定 ID；导览、规范与书目单独陈列。可按名称、类型、文明和来源状态组合检索。</p>
   </header>
 
-  <div class="shell catalog-tools">
+  <div class="shell catalog-tools" data-motion="reveal">
     <label class="catalog-search">
       <span>检索</span>
       <input type="search" placeholder="输入神名、文明、权柄或原典…" data-catalog-search />
     </label>
-    <span class="catalog-count" data-catalog-count>{docs.length} 项馆藏</span>
+    <span class="catalog-count" data-catalog-count aria-live="polite">{entries.length} 项馆藏 · {guides.length} 篇导览</span>
   </div>
 
-  <div class="shell catalog-groups">
+  <div class="shell catalog-filters" aria-label="目录筛选" data-motion="reveal">
+    <div class="catalog-filter-row" data-filter-group="type">
+      <span>类型</span>
+      <div>
+        {typeFilters.map(([value, label], index) => (
+          <button type="button" data-filter-value={value} aria-pressed={index === 0 ? 'true' : 'false'}>{label}</button>
+        ))}
+      </div>
+    </div>
+    <div class="catalog-filter-row" data-filter-group="tradition">
+      <span>文明</span>
+      <div>
+        {traditionFilters.map(([value, label], index) => (
+          <button type="button" data-filter-value={value} aria-pressed={index === 0 ? 'true' : 'false'}>{label}</button>
+        ))}
+      </div>
+    </div>
+    <div class="catalog-filter-row" data-filter-group="source">
+      <span>来源</span>
+      <div>
+        {sourceFilters.map(([value, label], index) => (
+          <button type="button" data-filter-value={value} aria-pressed={index === 0 ? 'true' : 'false'}>{label}</button>
+        ))}
+      </div>
+    </div>
+    <button class="catalog-reset" type="button" data-catalog-reset hidden>清除筛选</button>
+  </div>
+
+  <div class="shell catalog-groups" data-motion="reveal">
     {groups.map(group => (
       <section class="catalog-group" data-catalog-group>
         <h2>{group.label}</h2>
@@ -50,6 +98,10 @@ const groups = sectionOrder.map(section => ({
               class="catalog-item"
               href={routeForEntry(entry)}
               data-catalog-item
+              data-kind="collection"
+              data-type={entry.data.type || ''}
+              data-tradition={entry.data.tradition || ''}
+              data-source={entry.data.source_status || ''}
               data-search={plainSearchText(entry)}
             >
               <span class="entry-number">{String(index + 1).padStart(2, '0')}</span>
@@ -60,25 +112,63 @@ const groups = sectionOrder.map(section => ({
         </div>
       </section>
     ))}
+
+    {guides.length > 0 && (
+      <section class="catalog-group catalog-guide-group" data-catalog-group>
+        <div>
+          <h2>导览与规范</h2>
+          <p>它们解释如何阅读和使用馆藏，不计入正式馆藏数。</p>
+        </div>
+        <div class="catalog-items">
+          {guides.sort((a, b) => a.id.localeCompare(b.id)).map((entry, index) => (
+            <a
+              class="catalog-item"
+              href={routeForEntry(entry)}
+              data-catalog-item
+              data-kind="guide"
+              data-type="guide"
+              data-tradition=""
+              data-source=""
+              data-search={plainSearchText(entry)}
+            >
+              <span class="entry-number">{String(index + 1).padStart(2, '0')}</span>
+              <strong>{entryTitle(entry)}</strong>
+              <small>{sectionLabel(entry)}</small>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <p class="catalog-empty" data-catalog-empty hidden>没有符合当前条件的内容。试试放宽文明、类型或来源状态。</p>
   </div>
 
   <script>
     const input = document.querySelector('[data-catalog-search]')
     const count = document.querySelector('[data-catalog-count]')
+    const reset = document.querySelector('[data-catalog-reset]')
+    const empty = document.querySelector('[data-catalog-empty]')
     const items = [...document.querySelectorAll('[data-catalog-item]')]
     const groups = [...document.querySelectorAll('[data-catalog-group]')]
+    const state = { type: 'all', tradition: 'all', source: 'all' }
 
-    input?.addEventListener('input', event => {
-      const query = event.target instanceof HTMLInputElement
-        ? event.target.value.trim().toLocaleLowerCase('zh-CN')
+    function applyFilters() {
+      const query = input instanceof HTMLInputElement
+        ? input.value.trim().toLocaleLowerCase('zh-CN')
         : ''
-      let visible = 0
+      let collectionCount = 0
+      let guideCount = 0
 
       items.forEach(item => {
         if (!(item instanceof HTMLElement)) return
-        const matches = !query || (item.dataset.search || '').includes(query)
+        const matchesQuery = !query || (item.dataset.search || '').includes(query)
+        const matchesType = state.type === 'all' || item.dataset.type === state.type
+        const matchesTradition = state.tradition === 'all' || item.dataset.tradition === state.tradition
+        const matchesSource = state.source === 'all' || item.dataset.source === state.source
+        const matches = matchesQuery && matchesType && matchesTradition && matchesSource
         item.hidden = !matches
-        if (matches) visible += 1
+        if (matches && item.dataset.kind === 'guide') guideCount += 1
+        if (matches && item.dataset.kind === 'collection') collectionCount += 1
       })
 
       groups.forEach(group => {
@@ -86,7 +176,42 @@ const groups = sectionOrder.map(section => ({
         group.hidden = !group.querySelector('[data-catalog-item]:not([hidden])')
       })
 
-      if (count) count.textContent = `${visible} 项馆藏`
+      if (count) count.textContent = `${collectionCount} 项馆藏 · ${guideCount} 篇导览`
+      if (empty instanceof HTMLElement) empty.hidden = collectionCount + guideCount > 0
+      if (reset instanceof HTMLButtonElement) {
+        reset.hidden = !query && Object.values(state).every(value => value === 'all')
+      }
+    }
+
+    document.querySelectorAll('[data-filter-group]').forEach(group => {
+      group.querySelectorAll('[data-filter-value]').forEach(button => {
+        button.addEventListener('click', () => {
+          if (!(button instanceof HTMLButtonElement) || !(group instanceof HTMLElement)) return
+          const key = group.dataset.filterGroup
+          if (key !== 'type' && key !== 'tradition' && key !== 'source') return
+          state[key] = button.dataset.filterValue || 'all'
+          group.querySelectorAll('[data-filter-value]').forEach(candidate => {
+            candidate.setAttribute('aria-pressed', String(candidate === button))
+          })
+          applyFilters()
+        })
+      })
+    })
+
+    input?.addEventListener('input', applyFilters)
+    reset?.addEventListener('click', () => {
+      if (input instanceof HTMLInputElement) input.value = ''
+      state.type = 'all'
+      state.tradition = 'all'
+      state.source = 'all'
+      document.querySelectorAll('[data-filter-group]').forEach(group => {
+        group.querySelectorAll('[data-filter-value]').forEach(button => {
+          if (button instanceof HTMLButtonElement) {
+            button.setAttribute('aria-pressed', String(button.dataset.filterValue === 'all'))
+          }
+        })
+      })
+      applyFilters()
     })
   </script>
 </BaseLayout>

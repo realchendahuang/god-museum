@@ -34,11 +34,11 @@ setting_status: established
 
 | 关系对象 | 类型 | 说明 |
 | --- | --- | --- |
-| [因陀罗](../02_deities/vedic/indra.md) | bearer-of | 吠陀赞歌中的持有与使用者 |
-| [弗栗多](../06_beasts/vritra.md) | enmity / target | 金刚杵所击中的阻挡者 |
-| [因陀罗击弗栗多](../08_myths/vedic/indra-and-vritra.md) | event-instrument | 雷击、破障与放水的核心圣物 |
-| [妙尔尼尔](./mjolnir.md) | motif-analogue | 雷霆武器与巨型敌对者母题相交 |
-| [宙斯的雷霆](./zeus-thunderbolt.md) | motif-analogue | 雷击权柄相交，王权和事件结构不同 |
+| [因陀罗](../../02_deities/vedic/indra.md) | bearer-of | 吠陀赞歌中的持有与使用者 |
+| [弗栗多](../../06_beasts/vedic/vritra.md) | enmity / target | 金刚杵所击中的阻挡者 |
+| [因陀罗击弗栗多](../../08_myths/vedic/indra-and-vritra.md) | event-instrument | 雷击、破障与放水的核心圣物 |
+| [妙尔尼尔](../norse/mjolnir.md) | motif-analogue | 雷霆武器与巨型敌对者母题相交 |
+| [宙斯的雷霆](../greek/zeus-thunderbolt.md) | motif-analogue | 雷击权柄相交，王权和事件结构不同 |
 
 ## 设定层
 
@@ -48,5 +48,5 @@ setting_status: established
 
 ## 来源
 
-- [source.rigveda.1.32](../99_sources/bibliography.md#sourcerigveda132)：金刚杵、弗栗多、破障与水流释放。
-- [source.rigveda.1.80](../99_sources/bibliography.md#sourcerigveda180)：弗栗多战斗与雷击武器。
+- [source.rigveda.1.32](../../99_sources/bibliography.md#sourcerigveda132)：金刚杵、弗栗多、破障与水流释放。
+- [source.rigveda.1.80](../../99_sources/bibliography.md#sourcerigveda180)：弗栗多战斗与雷击武器。

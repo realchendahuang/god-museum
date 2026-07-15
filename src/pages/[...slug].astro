@@ -8,9 +8,13 @@ import {
   entryTitle,
   entryTypeLabel,
   githubUrlForEntry,
+  hasSectionHeading,
+  isCollectionEntry,
+  isSectionIndex as entryIsSectionIndex,
   routeForEntry,
   routeSegmentsForEntry,
   sectionLabel,
+  sourceReferenceCount,
   traditionLabel,
   withBase
 } from '../lib/content'
@@ -31,12 +35,19 @@ const docHeadings = headings as { depth: number; slug: string; text: string }[]
 const title = entryTitle(entry)
 const summary = entrySummary(entry)
 const canonicalPath = `/${routeSegmentsForEntry(entry).join('/')}/`
-const sectionIndex = docs.find(candidate => (
+const isSectionIndex = entryIsSectionIndex(entry)
+const sectionIndex = !isSectionIndex ? docs.find(candidate => (
   entrySection(candidate) === entrySection(entry)
   && candidate.id.toLowerCase().endsWith('/readme')
-))
+)) : undefined
+const sectionEntryCount = isSectionIndex
+  ? docs.filter(candidate => entrySection(candidate) === entrySection(entry) && isCollectionEntry(candidate)).length
+  : 0
 const isDeity = entry.data.type === 'deity'
 const isHall = entry.data.type === 'hall'
+const sourceCount = sourceReferenceCount(entry)
+const hasSources = sourceCount > 0 && hasSectionHeading(entry, '来源')
+const hasSetting = hasSectionHeading(entry, '设定层')
 const relatedHalls = isDeity
   ? docs.filter(candidate => candidate.data.type === 'hall' && [
       ...(entry.data.primary_halls || []),
@@ -66,17 +77,23 @@ const settingLabels: Record<string, string> = {
 ---
 
 <BaseLayout title={title} description={summary} canonicalPath={canonicalPath}>
-  <header class="shell doc-hero">
+  <header class="shell doc-hero" data-motion="hero">
     <nav class="breadcrumbs" aria-label="面包屑">
       <a href={withBase()}>众神殿</a>
       <span aria-hidden="true">/</span>
-      {sectionIndex ? <a href={routeForEntry(sectionIndex)}>{sectionLabel(entry)}</a> : <span>{sectionLabel(entry)}</span>}
-      <span aria-hidden="true">/</span>
-      <span>{title}</span>
+      {isSectionIndex ? (
+        <span>{title}</span>
+      ) : (
+        <>
+          {sectionIndex ? <a href={routeForEntry(sectionIndex)}>{sectionLabel(entry)}</a> : <span>{sectionLabel(entry)}</span>}
+          <span aria-hidden="true">/</span>
+          <span>{title}</span>
+        </>
+      )}
     </nav>
     <div class="doc-hero-grid">
       <div>
-        <p class="doc-type">{entryTypeLabel(entry)}</p>
+        <p class="doc-type">{isSectionIndex ? '馆藏分区' : entryTypeLabel(entry)}</p>
         <h1>{title}</h1>
         {entry.data.name_native && entry.data.name_native !== title && <p class="doc-native">{entry.data.name_native}</p>}
         {summary && <p class="doc-intro">{summary}</p>}
@@ -86,18 +103,30 @@ const settingLabels: Record<string, string> = {
         {entry.data.periods?.length && <div><dt>时代层次</dt><dd>{entry.data.periods.join(' / ')}</dd></div>}
         {entry.data.source_status && <div><dt>来源状态</dt><dd>{sourceLabels[entry.data.source_status] || entry.data.source_status}</dd></div>}
         {entry.data.setting_status && <div><dt>设定状态</dt><dd>{settingLabels[entry.data.setting_status] || entry.data.setting_status}</dd></div>}
+        {sourceCount > 0 && <div><dt>引用节点</dt><dd><a href="#来源">{sourceCount} 项</a></dd></div>}
         {isHall && <div><dt>已登记神座</dt><dd>{seatedDeities.length} 位</dd></div>}
+        {isSectionIndex && <div><dt>正式馆藏</dt><dd>{sectionEntryCount} 项</dd></div>}
       </dl>
     </div>
   </header>
 
-  <div class="shell doc-layout">
+  <div class="shell doc-layout" data-motion="reveal">
+    {docHeadings.filter(heading => heading.depth === 2).length > 0 && (
+      <details class="mobile-doc-toc">
+        <summary>本页目录</summary>
+        <nav aria-label="本页目录">
+          {docHeadings.filter(heading => heading.depth === 2).map(heading => (
+            <a href={`#${heading.slug}`}>{heading.text}</a>
+          ))}
+        </nav>
+      </details>
+    )}
     <article class="prose">
       <Content />
     </article>
     <aside class="doc-rail" aria-label="条目辅助导航">
       {docHeadings.filter(heading => heading.depth === 2).length > 0 && (
-        <div class="rail-block">
+        <div class="rail-block desktop-doc-toc">
           <p>本页目录</p>
           <nav>
             {docHeadings.filter(heading => heading.depth === 2).map(heading => (
@@ -126,9 +155,14 @@ const settingLabels: Record<string, string> = {
       )}
 
       <div class="rail-block">
-        <p>文本边界</p>
-        <p class="rail-note">网页与 GitHub 读取同一份 Markdown；修改原文即可更新展厅。</p>
+        <p>阅读边界</p>
+        <dl class="rail-status">
+          {entry.data.source_status && <div><dt>来源</dt><dd>{sourceLabels[entry.data.source_status] || entry.data.source_status}</dd></div>}
+          {entry.data.setting_status && <div><dt>设定</dt><dd>{settingLabels[entry.data.setting_status] || entry.data.setting_status}</dd></div>}
+        </dl>
         <div class="rail-links">
+          {hasSources && <a href="#来源">查看 {sourceCount} 项引用节点</a>}
+          {hasSetting && <a href="#设定层">进入原创设定层</a>}
           <a href={githubUrlForEntry(entry)} target="_blank" rel="noreferrer">在 GitHub 查看原文 ↗</a>
           <a href={withBase('foundation/canon')}>阅读三层正典</a>
           <a href={withBase('catalog')}>返回完整目录</a>

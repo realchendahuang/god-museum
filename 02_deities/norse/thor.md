@@ -99,9 +99,9 @@ setting_status: established
 
 ### 馆藏网络
 
-- [妙尔尼尔](../../05_relics/mjolnir.md)：武器、铁手套、力量腰带与巨人防卫的圣物网络。
+- [妙尔尼尔](../../05_relics/norse/mjolnir.md)：武器、铁手套、力量腰带与巨人防卫的圣物网络。
 - [妙尔尼尔失窃](../../08_myths/norse/the-theft-of-mjolnir.md)：失去能力条件、乔装和仪式性取回的完整事件。
-- [Þrúðvangr 与 Bilskírnir](../../07_places/thrudvangr-bilskirnir.md)：索尔的领域与大厅。
+- [Þrúðvangr 与 Bilskírnir](../../07_places/norse/thrudvangr-bilskirnir.md)：索尔的领域与大厅。
 - [因陀罗击弗栗多](../../08_myths/vedic/indra-and-vritra.md)：都出现雷击武器和巨大敌对者，但一方突出神界防卫，另一方以释放水流完成胜利。
 
 ### 不可省略的差异
