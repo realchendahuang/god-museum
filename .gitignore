@@ -2,6 +2,7 @@ node_modules/
 dist/
 .astro/
 .wrangler/
+.opencode/
 .DS_Store
 tmp/
 output/
