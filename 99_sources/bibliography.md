@@ -319,6 +319,14 @@
 - 限制：“赫尔莫波利斯神学”“赫利奥波利斯神学”是现代研究标签，不能假定它们在古代始终是互斥的固定体系。
 - 访问：[UCL Digital Egypt](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html)
 
+### source.shabaka-stone
+
+- 等级：P2（整理层）
+- 作品：Shabaka Stone（BM EA 498，孟菲斯神学文本）
+- 支持：孟菲斯神学以普塔（Ptah）为中心的心—舌创世：以心构思、以言语命令，诸神与万物由普塔的心与舌而生；把“神圣话语”置于造物之首，与赫利奥波利斯的太阳创世形成对照。
+- 限制：文本据称刻于第 25 王朝沙巴卡王时期，但学界多认为其内容可追溯至中王国或更早；孟菲斯神学是城市祭司的神学主张，不代表整个埃及创世传统的统一版本。
+- 访问：[British Museum 藏品页](https://www.britishmuseum.org/collection/object/Y_EA498)
+
 ### source.ucl.digital-egypt.ra-atum-amun
 
 - 等级：S2（大学博物馆与教学项目）
@@ -1496,6 +1504,22 @@
 - 支持：致苏利耶的太阳赞歌：他升起驱散黑暗与疾病，被称为“众神之眼”；“鹰”与“天眼”意象连接光、健康与洞察。
 - 限制：苏利耶的“天之眼”是吠陀层表述，不应与密特拉、希腊赫利俄斯或后世太阳神直接合并。
 - 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv01050.htm)
+
+### source.rigveda.5.84
+
+- 等级：P1
+- 作品：《梨俱吠陀》5.84
+- 支持：致普利提维（Prithvi）的大地赞歌：她承载万物、孕育草木，作为众生之母与不可动摇的根基被呼唤；与天的配对构成天地二分。
+- 限制：普利提维在《梨俱吠陀》中的形象以承载与孕育为主，后世与宗教地理、民族身份绑定属于接收层。
+- 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv05084.htm)
+
+### source.rigveda.10.168
+
+- 等级：P1
+- 作品：《梨俱吠陀》10.168
+- 支持：致伐由（Vayu）的风赞歌：他横贯天地、无法被触及却可以被感受，作为呼吸与速度的力量；常与因陀罗并列（马车同乘）。
+- 限制：伐由以可感的运动为主，不等于后世“风神”职位的全部设定；与希腊波瑞阿斯等只作 domain-analogue。
+- 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv10168.htm)
 
 ### source.shatapatha.1.8.1
 

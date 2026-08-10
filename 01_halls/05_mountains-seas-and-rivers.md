@@ -47,6 +47,8 @@ domains:
 - [鹤鸣山／鹄鸣山](../07_places/chinese/heming-mountain.md)：张陵学道的史书地名与老君授道圣地分层，古地理和现代景区认定不自动一致。
 - [三官大帝](../02_deities/chinese/sanguan-dadi.md)：天地水文书通过置山、埋地、沉水运行；官署职能不等于占有全部山川。
 - [尼约尔德](../02_deities/norse/njordr.md)：以海边船场、风与航行的财富进入；海域是神格的一部分，但不是风暴主宰。
+- [斯卡蒂](../02_deities/norse/skadi.md)：以雪鞋、狩猎和山居进入；环境定义身份，山与海的婚姻失败不是温柔恋曲。
+- [伐由](../02_deities/vedic/vayu.md)：风横贯山与海之间，是空间本身的运动。
 
 ## 当前关系
 

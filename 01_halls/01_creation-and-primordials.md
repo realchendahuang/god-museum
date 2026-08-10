@@ -39,6 +39,9 @@ domains:
 - [拉](../02_deities/egyptian/ra.md)与[阿蒙](../02_deities/egyptian/amun.md)：分别从太阳创造力、未分整体与“隐藏”的普遍神力进入；拉—阿图姆、阿蒙—拉按融合关系记录。
 - [古埃及神话与宗教传统](../03_civilizations/egyptian.md)：保存八位原初力量、第一丘、太阳显现等多套创世隐喻，不制造一份标准版。
 - [特内姆与特内梅特](../09_silent-gallery/egyptian/tenem-and-tenemet.md)：《棺材文》76 中与无方向相关、后来常被替换的原初一对。
+- [普塔](../02_deities/egyptian/ptah.md)：孟菲斯神学以心构思、以舌宣说创世；与拉—阿图姆太阳显现并行，不合并。
+- [努特](../02_deities/egyptian/nut.md)：天空身体覆盖大地，舒举开她与盖布完成天地二分。
+- [普利提维](../02_deities/vedic/prithvi.md)：大地本身的身体，承载万物；与苍穹分开后成为可依靠的地基。
 
 ## 当前关系
 

@@ -49,6 +49,7 @@ domains:
 - [河伯](../02_deities/chinese/hebo.md)与[黄河](../07_places/chinese/yellow-river-hebo.md)：水车、九河与河渚把神游、交通和现实水道连接起来。
 - [泰山封禅](../08_myths/chinese/han-wudi-state-rites.md)：皇帝巡行、物资、方士、儒生和地方空间共同建成国家神圣道路。
 - [赫尔墨斯](../02_deities/greek/hermes.md)：以神使、道路、边界、贸易与引魂职能进入；诡计促成通行而非破坏秩序。
+- [伐由](../02_deities/vedic/vayu.md)：以风与呼吸传播言语和消息；是通道本身而非决定者。
 
 ## 当前关系
 

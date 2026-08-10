@@ -51,6 +51,8 @@ domains:
 - [盖什提南娜](../02_deities/mesopotamian/geshtinanna.md)：葡萄之母与姊妹替身；半年轮换把丰饶与死亡绑成制度。
 - [狄俄尼索斯](../02_deities/greek/dionysus.md)：葡萄、酒与种植周期的转化；迷狂非尸体复苏。
 - [伊杜恩](../02_deities/norse/idunn.md)：青春苹果维系诸神不老；权柄系于苹果与持有者绑定。
+- [普利提维](../02_deities/vedic/prithvi.md)：大地承载万物、山为骨、如母牛孕育；存在方式是“被依靠”而非“被崇拜”。
+- [塞赫麦特](../02_deities/egyptian/sekhmet.md)：瘟疫与治疗同一权柄；毁灭只能被哄睡，不能被击败。
 
 ## 当前关系
 

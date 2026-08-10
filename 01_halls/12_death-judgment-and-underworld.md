@@ -57,6 +57,9 @@ domains:
 - [哈得斯](../02_deities/greek/hades.md)：三分世界冥王与冥界之名本身；故事由闯入者驱动，不是地狱惩罚神。
 - [狄俄尼索斯](../02_deities/greek/dionysus.md)：撕碎—重生与秘仪面向把死亡和更新连成可进入的经验。
 - [灵宝天尊](../02_deities/chinese/lingbao-tianzun.md)与[灵宝经系](../08_myths/chinese/lingbao-three-purities.md)：斋醮、普度和度亡通道以具体经典和仪式成立，不吞并佛教地狱或地方亡灵传统。
+- [努特](../02_deities/egyptian/nut.md)：以死者之母的棺材内壁承接亡者，把死亡放入天空身体的循环。
+- [维达尔](../02_deities/norse/vidarr.md)：末日杀死芬里尔后幸存，死亡之后仍有归返者。
+- [塞赫麦特](../02_deities/egyptian/sekhmet.md)：瘟疫之神同时是治疗之神；祭司以仪式在两端之间移动。
 
 ## 当前关系
 
