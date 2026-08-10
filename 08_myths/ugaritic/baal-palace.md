@@ -29,6 +29,15 @@ setting_status: established
 
 宫殿位于神话[萨庞山](../../07_places/ugaritic/mount-saphon.md)，与拉斯沙姆拉巴力神庙、王宫和真实 Jebel al-Aqra 可以建立地景关系。考古神庙不是 KTU 1.4 宫殿的直接建筑图纸。
 
+## 馆藏网络
+
+- [巴力](../../02_deities/ugaritic/baal-haddu.md)（宫殿主人）
+- [阿纳特](../../02_deities/ugaritic/anat.md)（施压者）
+- [阿舍拉](../../02_deities/ugaritic/athirat.md)（斡旋者）
+- [科塔尔—哈西斯](../../02_deities/ugaritic/kothar-wa-khasis.md)（建造者与开窗主张者）
+- [萨庞山](../../07_places/ugaritic/mount-saphon.md)（宫殿所在）
+- [巴力与雅姆](./baal-and-yam.md)（胜利前置事件）
+
 ## 设定层
 
 剧场让观众先经历说服、礼物和批准，再看见建筑。窗户只有在巴力改变决定时才出现，表明统治空间也由风险判断塑造。

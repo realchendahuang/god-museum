@@ -31,6 +31,13 @@ KTU 1.5 I 等段落回顾神圣战斗，提到 ltn bṯn brḥ“洛坦／利坦
 
 七首意象可与美索不达米亚、安纳托利亚及地中海屠蛇传统比较，传播需要独立证据。
 
+## 馆藏网络
+
+- [巴力](../../02_deities/ugaritic/baal-haddu.md)（击败者之一）
+- [阿纳特](../../02_deities/ugaritic/anat.md)（相关战斗叙事）
+- [雅姆](../../02_deities/ugaritic/yam.md)（associated-sea-enemy / uncertain）
+- [巴力与雅姆](../../08_myths/ugaritic/baal-and-yam.md)（海敌战斗主事件）
+
 ## 设定层
 
 异兽庭院只让洛坦显出文本确认的蛇形与七首称号，不替残缺诗行设计完整物种。雅姆的潮水可以靠近，它们的神座不会自动重合。

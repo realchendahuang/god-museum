@@ -29,6 +29,13 @@ setting_status: established
 
 [后土](../../02_deities/chinese/houtu.md)因平九土被解释为祀为社，[后稷](../../04_heroes/chinese/houji.md)等农业功臣进入稷祭解释。[社与稷](../../02_deities/chinese/sheji.md)的神格必须通过坛、祭品、政治层级和地域显现。
 
+## 地点网络
+
+- [社与稷](../../02_deities/chinese/sheji.md)：此坛对应的神格。
+- [后土](../../02_deities/chinese/houtu.md)：社祭神格的历史解释来源。
+- [后稷](../../04_heroes/chinese/houji.md)：稷祭的农业英雄解释。
+- [后稷生而五谷丰登](../../08_myths/chinese/houji-birth-and-grain.md)：农事叙事的补充。
+
 ## 设定层
 
 众神殿没有唯一社稷总坛。每个文明共同体只能建立属于自己的土与谷物祭坛；若坛被迁移或毁坏，必须记录谁失去土地代表权和祭祀资格。

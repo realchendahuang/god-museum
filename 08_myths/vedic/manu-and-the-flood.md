@@ -32,6 +32,14 @@ setting_status: established
 
 当前版本没有直接把鱼称作毗湿奴化身（那是《摩诃婆罗多》层的展开）。与其他洪水传统（Ziusudra、Atrahasis、Uta-napišti）可做 motif-analogue，但不得据相似性主张传播或同源已经被证明——动机差异明显：印度版是小鱼报恩，两河版是神之任意或人类烦扰诸神。
 
+## 馆藏网络
+
+- [摩奴](../../04_heroes/vedic/manu.md)（幸存者与始祖）
+- [阎摩](../../02_deities/vedic/yama.md)（同为 Vivasvat 之子，死亡道路）
+- [两河洪水诸版本](../mesopotamian/flood-traditions.md)（motif-analogue，动机不同）
+- [大禹治水](../chinese/yu-controls-the-flood.md)（东亚洪水治理的独立传统）
+- [洪水与水源之殿](../../01_halls/05_mountains-seas-and-rivers.md)（大殿参照）
+
 ## 设定层
 
 摩奴保存的不是全世界所有生命清单，而是保护弱小、听取警告和在灾后重新建立关系的方法。他与阎摩同为 Vivasvat 之子：一个重建生者秩序，一个收容死亡道路。

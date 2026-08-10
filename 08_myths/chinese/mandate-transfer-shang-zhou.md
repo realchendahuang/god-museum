@@ -34,6 +34,13 @@ setting_status: established
 - “德”不是抽象个人善良，而与祭祀、治理、战争和共同体存续相连；
 - 周人的解释是胜利王朝的政治神学，必须与金文、考古和殷遗民处境互证。
 
+## 馆藏网络
+
+- [天／昊天](../../02_deities/chinese/tian-haotian.md)（受命对象）
+- [帝／上帝](../../02_deities/chinese/di-shangdi.md)（殷商至上神，殷周交替核心）
+- [太一](../../02_deities/chinese/taiyi.md)（汉代另一套国家祭祀中心，对照）
+- [汉武帝太一后土封禅](./han-wudi-state-rites.md)（王朝主动重排神圣秩序的另一例）
+
 ## 设定层
 
 本事件没有一卷可以永久持有的天命证书。每个王朝进入众神殿时都会同时看见夏、商失命的先例；[天](../../02_deities/chinese/tian-haotian.md)与[帝](../../02_deities/chinese/di-shangdi.md)不会替任何征服自动背书。

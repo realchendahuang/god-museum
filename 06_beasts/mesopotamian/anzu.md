@@ -33,6 +33,20 @@ setting_status: established
 | [命运泥板](../../05_relics/mesopotamian/tablet-of-destinies.md) | theft / bearer | 暂时持有并使命令生效 |
 | 狮首鹰图像 | iconographic-type | 不能保证每件器物都表现同一叙事时刻 |
 
+## 版本与层次
+
+- **早王朝图像层**：苏美尔 Imdugud 狮首鹰图像为风暴与神庙保护符号，早于文学叛乱叙事。
+- **苏美尔文本层**：部分苏美尔材料中安祖与宁乌尔塔的关系已有雏形，细节与标准巴比伦版不同。
+- **标准巴比伦史诗层**：《安祖史诗》完整叙述夺板与夺回，是文学叛徒形象的定型文本。
+- **接收层**：现代奇幻将安祖简单化为“巨鹰怪物”，须与图像保护者传统分层。
+
+## 馆藏网络
+
+- [安祖与命运泥板](../../08_myths/mesopotamian/anzu-and-tablet.md)（核心事件）
+- [宁乌尔塔](../../02_deities/mesopotamian/ninurta.md)（击败者）
+- [命运泥板](../../05_relics/mesopotamian/tablet-of-destinies.md)（被夺之物）
+- [恩利尔](../../02_deities/mesopotamian/enlil.md)（原持有者）
+
 ## 设定层
 
 异兽庭院保存两道安祖影子：一只护住神庙门，一只衔着被盗泥板飞向山地。只有具体文本和器物能决定访客看见哪一道。

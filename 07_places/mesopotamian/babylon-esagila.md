@@ -28,6 +28,13 @@ setting_status: established
 
 [《埃努玛·埃利什》](../../08_myths/mesopotamian/enuma-elish.md)让诸神为马尔杜克建立巴比伦，将城市中心地位写入创世结局。Akītu 节中的神像行列连接 Esagila、城外节庆建筑、国王与[纳布](../../02_deities/mesopotamian/nabu.md)的博尔西帕道路。
 
+## 地点网络
+
+- [马尔杜克](../../02_deities/mesopotamian/marduk.md)：Esagila 的主人，创世王权的持有者。
+- [博尔西帕与 Ezida](./borsippa-ezida.md)：纳布神庙，Akītu 神像之旅的起点。
+- [纳布](../../02_deities/mesopotamian/nabu.md)：书写与智慧之神，马尔杜克之子。
+- [尼普尔与 Ekur](./nippur-ekur.md)：恩利尔的神学中心，与巴比伦构成两套王权神圣化对照。
+
 ## 设定层
 
 Esagila 在众神殿内仍是巴比伦的宇宙中心，却不会成为其他诸神域的地理中心。门楣写着“中心是关系，不是经纬度”。

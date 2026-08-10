@@ -26,6 +26,14 @@ setting_status: established
 
 地点布局主要来自斯诺里，不能扩成跨时代统一地图。**"Hel=Niflheim"仅见于散文埃达**，诗歌埃达从不把 Hel 等同 Niflheim。"九界"也只在 Völuspá 2、Vafþrúðnismál 43 以"九"之数字出现，无现存名单——这是 Snorri 体系的产物。
 
+## 馆藏网络
+
+- [赫尔](../../02_deities/norse/hel.md)（统治者女神）
+- [巴德尔之死](../../08_myths/norse/death-of-baldr.md)（被留下的巴德尔所在）
+- [瓦尔哈拉](./valhalla.md)（另一条死者去向，对照）
+- [耶梦加得与芬里尔](../../06_beasts/norse/fenrir.md)（洛基三子同属末日谱系）
+- [世界树](./yggdrasil.md)（树下一根）
+
 ## 设定层
 
 此处按死亡道路而非道德分数接纳来者：病亡与老死者、以及被赫尔条件留下的巴德尔都在这里。它与瓦尔哈拉并列为不同去向，不是天堂／地狱二元对照。

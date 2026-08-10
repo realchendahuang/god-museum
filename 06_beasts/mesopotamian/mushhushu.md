@@ -33,6 +33,13 @@ setting_status: established
 - 复合形态不是古人见过恐龙的证据；
 - “坐骑”可描述部分神像关系，但“神徽兽／伴随兽”通常更稳妥。
 
+## 馆藏网络
+
+- [马尔杜克](../../02_deities/mesopotamian/marduk.md)：新巴比伦时期的神徽主人。
+- [纳布](../../02_deities/mesopotamian/nabu.md)：与马尔杜克共享神徽传统的书写之神。
+- [提亚马特](../../02_deities/mesopotamian/tiamat.md)：被误认的对照对象——mušḫuššu 不是提亚马特的固定外貌。
+- [巴比伦与 Esagila](../../07_places/mesopotamian/babylon-esagila.md)及[博尔西帕与 Ezida](../../07_places/mesopotamian/borsippa-ezida.md)：神徽出现的城市语境。
+
 ## 设定层
 
 异兽庭院里的 mušḫuššu 由不同城市的神徽层叠而成。每当有人只说“马尔杜克的龙”，更早的神名就会在鳞片下亮起。

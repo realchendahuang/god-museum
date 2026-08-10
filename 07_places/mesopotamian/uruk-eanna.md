@@ -30,6 +30,14 @@ Eanna 名称常译“天之屋”，与[伊南娜／伊什塔尔](../../02_deiti
 
 文学城墙和考古城防可相互参照，不直接证明史诗英雄亲自完成全部工程。
 
+## 地点网络
+
+- [伊南娜／伊什塔尔](../../02_deities/mesopotamian/inana-ishtar.md)：Eanna 的主要神明。
+- [安／阿努](../../02_deities/mesopotamian/an-anu.md)：Anu 区的天之神。
+- [吉尔伽美什](../../04_heroes/mesopotamian/gilgamesh.md)：以城墙开始并回环史诗的英雄王。
+- [me（文明权能）](../../05_relics/mesopotamian/me.md)：自埃里都抵达乌鲁克的文明力量。
+- [埃里都与 E-abzu](./eridu-eabzu.md)：me 转移叙事的起点。
+
 ## 设定层
 
 乌鲁克通向众神殿的门由城墙、神庙和泥板库三层组成。伊南娜、安与吉尔伽美什都能使用，却没有任何一位独占整座城市。

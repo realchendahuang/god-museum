@@ -33,6 +33,13 @@ setting_status: established
 
 女神安排 Yatpan 化为猛禽／攻击者夺弓，阿克哈特却被杀。弓是否在冲击中破坏、坠海或遗失存在译法问题。重要的是：没有现存结局允许宝库把它写成后来由 Pughat 继承。
 
+## 馆藏网络
+
+- [阿克哈特](../../04_heroes/ugaritic/aqhat.md)（持弓者）
+- [阿纳特](../../02_deities/ugaritic/anat.md)（索求者）
+- [科塔尔—哈西斯](../../02_deities/ugaritic/kothar-wa-khasis.md)（制造者）
+- [阿克哈特史诗](../../08_myths/ugaritic/aqhat-epic.md)（核心事件）
+
 ## 设定层
 
 弓在宝库中只呈现到失落那一刻。复制品可以用于解释工艺，原物不被设定层擅自寻回。
