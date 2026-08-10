@@ -39,6 +39,8 @@ domains:
 ## 已连接馆藏
 
 - [奥丁](../02_deities/norse/odin.md)：求知与预言不意味着能够读取共殿的统一结局。
+- [海姆达尔](../02_deities/norse/heimdallr.md)：号角只在末日预定的时刻吹响，预警不赋予他改写终局的能力。
+- [诺恩](../02_deities/norse/norns.md)：在世界树旁立法、择命、宣判，却不解释裁定的依据。
 - [宙斯](../02_deities/greek/zeus.md)：继承预言推动吞下墨提斯，证明统治者也会被未来威胁塑造。
 - [雅典娜的诞生](../08_myths/greek/birth-of-athena.md)：预言、控制与新神诞生之间的具体事件。
 - [奥丁悬树得符文](../08_myths/norse/odin-wins-runes.md)：知识代价与时间持续性，但不把符文等同于全知预言。
@@ -53,6 +55,12 @@ domains:
 - [三官大帝](../02_deities/chinese/sanguan-dadi.md)：三官手书、功过与三元节序把时间变成可递送文书和举行仪式的节点，不等于掌控全部命运。
 - [元始天尊](../02_deities/chinese/yuanshi-tianzun.md)：灵宝劫运中的反复开教与度人提供周期宇宙时间，但不能覆盖其他文明末日。
 - [三清境](../07_places/chinese/sanqing-realms.md)：诸天位阶与经典权限按历史形成，不是一条可测量的绝对时间轴。
+
+## 当前关系
+
+命运在本殿区分记录者、执行者、解释者与化身：托特以月相、历法与记录让时间可计算但不定未来，恩利尔与安／阿努以神议与裁定执行不可改变的决定，纳布记录神议决定而非所有命运的唯一作者，命运泥板使言令获得效力而非可阅读所有个人未来的书，玛阿特是世界持续运行的正当关系而非人格化宿命。
+
+预言与约束同样分层：奥丁求知与预言不代表读取共殿统一结局，宙斯的继承预言塑造统治者本身，殷周天命转移受德、民与历史先例约束而非固定预言，甲骨卜辞只在具体日期、命辞和兆纹中成立。
 
 ## 本殿设定
 
@@ -70,3 +78,16 @@ domains:
 - [雅里赫](../02_deities/ugaritic/yarikh.md)：月亮与月份相连，婚礼诗不足以单独还原完整历法。
 - [埃尔](../02_deities/ugaritic/el.md)：通过梦示、祝福和判断改变王室未来，但基尔塔仍需履行愿誓。
 - [阿克哈特](../04_heroes/ugaritic/aqhat.md)：拒绝不死承诺后走向残缺结局，众神殿不替泥板决定其复活。
+
+## 原典节点
+
+- source.poetic-edda.voluspa.19-66：女先知关于诸神黄昏与新生世界的预言。
+- source.poetic-edda.baldrs-draumar：奥丁下 Niflhel 问卜，预言巴德尔之死与 Váli 复仇。
+- source.hesiod.theogony.886-900：宙斯吞墨提斯与继承预言。
+- source.book-of-dead.spell-125：托特记录与称心审判。
+- source.oracc.amgg：恩利尔与安／阿努的命运裁定。
+- source.ugaritic.kirta：埃尔以梦示改变王室未来与愿誓约束。
+- source.met.oracle-bones：甲骨占问只在具体日期、命辞和兆纹中成立。
+- source.shangshu.shaogao-duoshi：天命转移的德与民约束。
+
+完整书目信息见 [来源目录](../99_sources/bibliography.md)。

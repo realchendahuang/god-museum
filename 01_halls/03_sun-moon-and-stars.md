@@ -51,6 +51,14 @@ domains:
 - [羿射十日](../08_myths/chinese/yi-shoots-the-suns.md)与[夸父逐日](../08_myths/chinese/kuafu-chases-the-sun.md)：分别从公共除害和身体极限进入天体事件。
 - [烛龙](../06_beasts/chinese/zhulong.md)：闭目为晦、开目为明，不被改写成太阳神或火龙。
 
+## 当前关系
+
+太阳神在本殿不共享同一种存在方式。拉是持续显现的太阳创造力并通过夜航重生；羲和生十日并为其浴身，太阳是她的子女；乌图／沙马什是行走于天的全见者与司法者；沙普舒以穿行、传讯和跨越死亡边界为核心。四种太阳角色不能压成一套“太阳神”模板。
+
+“天体本身”与“天体的驾驭者”在殿内必须分列：拉—阿图姆与阿蒙—拉是复合显现，烛龙以闭目开目划昼夜但不等同太阳，伊南娜／伊什塔尔以金星晨昏面相进入而不被天体关系吞掉爱欲与战争神职。
+
+月相同样不统一：托特以计量和历法进入，南纳以月相、月份与誓言进入，雅里赫以月亮与聘礼婚姻进入。计时、崇拜与社会联盟不能互相代替。
+
 ## 本殿设定
 
 穹顶同时保留不同诸神域的昼夜节律。拉只照亮埃及诸神域的太阳关系，任何太阳都不能照亮全部神系，任何月相也不能规定共殿的统一历法。参观者看见的光取决于自己正在阅读哪一份传统。
@@ -67,3 +75,14 @@ domains:
 - [沙普舒](../02_deities/ugaritic/shapshu.md)：女性太阳神，以穿行、传讯、死亡边界和调停而非司法为核心。
 - [雅里赫](../02_deities/ugaritic/yarikh.md)：月亮、月份、聘礼与尼卡勒婚姻连接天体和社会联盟。
 - [沙哈尔与沙利姆](../09_silent-gallery/ugaritic/shahar-shalim.md)：黎明—黄昏双神保持 fragmentary，不强制解释为晨星／昏星标准体系。
+
+## 原典节点
+
+- source.amduat.solar-night-journey：太阳夜航十二时、杜阿特与清晨更新。
+- source.ucl.digital-egypt.ra-atum-amun：拉—阿图姆、阿蒙—拉的复合关系。
+- source.shanhaijing.dahuang.xihe-changxi：羲和生日与常羲生月十二。
+- source.shanhaijing.haiwaidong.fusang：汤谷扶桑的十日轮替空间。
+- source.bm.shamash-tablet：沙马什泥板图像与杆环释义。
+- source.ugaritic.yarikh-nikkal：雅里赫与尼卡勒的聘礼婚姻。
+
+完整书目信息见 [来源目录](../99_sources/bibliography.md)。

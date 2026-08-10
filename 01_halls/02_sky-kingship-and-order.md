@@ -59,6 +59,12 @@ domains:
 
 [宋代玉皇尊号与国家礼制重组](../08_myths/chinese/song-jade-emperor-state-cult.md)进一步证明国家能够通过册宝、宫观和尊号主动制造神圣认同；“玉皇与昊天致一”是一场宋代礼制行动，不是上古既定事实。
 
+## 当前关系
+
+本殿的神王不共享同一种权力来源。宙斯的统治来自神代继承与权能分配，马尔杜克的王权来自战胜提亚马特后的神议加冕，恩利尔的裁定来自尼普尔 Ekur 与命运泥板，玉皇大帝的尊号来自宋代国家册宝，帝与天的权威则来自晚商甲骨与周代天命话语。五种来源不能互相换算。
+
+“最高”在本殿内部也分层：三清是经教高位，玉皇是行政君主，昊天是礼制中的天，太一是汉代国家祭祀的“天神贵者”。它们各自有形成史，不能合并成一张无年代的天庭职级表。
+
 ## 本殿设定
 
 本殿没有王座，只有一张不断改变席位的议桌。任何统治者都必须说明自己的权力来自哪套神话、受什么约束，以及离开本土诸神域后还剩下什么合法性。
@@ -67,6 +73,20 @@ domains:
 
 - [雷霆、风、雨与火之殿](./04_thunder-wind-rain-and-fire.md)
 - [命运、预言与时间之殿](./10_fate-prophecy-and-time.md)
+
+## 原典节点
+
+- source.hesiod.theogony.881-885：众神推举宙斯为统治者并分配权能。
+- source.hesiod.theogony.886-900：宙斯吞下墨提斯与继承预言。
+- source.lambert.babylonian-creation-myths：马尔杜克战胜提亚马特后取得神王地位。
+- source.oracc.amgg：苏美尔神与阿卡德神后来形成的认同区分。
+- source.shangshu.shaogao-duoshi：周初天命转移与敬德话语。
+- source.shijing.wenwang-mandate：文王在帝左右与天命靡常。
+- source.shiji.fengshan.taiyi-houtu：汉代太一、五帝、后土与封禅的国家祭祀重组。
+- source.songshi.li-jade-emperor：宋代玉皇尊号与礼制行动。
+- source.keightley.ancestral-landscape：晚商甲骨中的帝、祖先与自然力量。
+
+完整书目信息见 [来源目录](../99_sources/bibliography.md)。
 
 ## 美索不达米亚馆藏
 

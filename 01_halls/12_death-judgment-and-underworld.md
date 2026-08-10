@@ -52,6 +52,12 @@ domains:
 - [三官大帝](../02_deities/chinese/sanguan-dadi.md)：地官赦罪、水官解厄等后世职能进入本殿，但早期三官手书主要是请祷文书，不能直接等同完整地府审判。
 - [灵宝天尊](../02_deities/chinese/lingbao-tianzun.md)与[灵宝经系](../08_myths/chinese/lingbao-three-purities.md)：斋醮、普度和度亡通道以具体经典和仪式成立，不吞并佛教地狱或地方亡灵传统。
 
+## 当前关系
+
+死亡秩序在本殿按职能分列：奥西里斯是被杀与复苏后的死者王权、审判和死亡王—在位王继承结构，阿努比斯是防腐、尸体保护、引导与称心天平职司而非冥界最高统治者，埃列什基伽勒是先行的冥界女王、与内尔伽勒的共治通过不同版本后起形成，莫特是死亡本身、吞噬与干旱而非道德审判型冥王，阎摩式角色保留祖先之王的引导而非惩罚职能。引导者、审判者、统治者与吞噬者不能互相覆盖。
+
+死者世界的空间也分层：杜阿特是太阳夜航、奥西里斯王国、门、守卫和死者转化的多版本空间，Irkalla 按 kur、erṣetu 与“无归之地”的语言文本分层，幽都之山是《山海经》的北方黑色地理而不预装佛教地狱或十殿阎罗。现代“地狱”概念不能覆盖所有亡者世界。
+
 ## 本殿设定
 
 本殿没有一扇写着“共同冥界”的总门。每位死者、英雄和神祇都必须返回自己的葬仪、灵魂观和文本语境；共殿只提供比较死亡秩序的回廊，不重新审判所有文明。
@@ -74,3 +80,15 @@ domains:
 - [沙普舒](../02_deities/ugaritic/shapshu.md)：跨越死亡边界、帮助寻找巴力并调停最终冲突。
 - [莫特之域](../07_places/ugaritic/mot-underworld.md)：巴力事件中的死亡空间，不吞并全部亡灵与祖先祭祀。
 - [达尼鲁与 Rephaim](../04_heroes/ugaritic/danilu.md)：王者、祖先亡灵和宴饮文本存在关联，身份与文本顺序保留争议。
+
+## 原典节点
+
+- source.book-of-dead.spell-125：称心审判、玛阿特与托特记录。
+- source.snorri.gylfaginning.33-35：赫尔之域、Eljudnir 与病老死者。
+- source.etcsl.inana-descent：埃列什基伽勒、七门与替代规则。
+- source.rigveda.10.14：阎摩、两只四眼犬与祖先之路。
+- source.ugaritic.baal-cycle：莫特的吞噬、沙普舒的调停与莫特之域。
+- source.shanhaijing.hainei.gun-xirang-youdu：幽都之山的北方黑色地理。
+- source.amduat.solar-night-journey：杜阿特的十二时与死者转化。
+
+完整书目信息见 [来源目录](../99_sources/bibliography.md)。

@@ -37,6 +37,7 @@ domains:
 ## 已连接馆藏
 
 - [阿耆尼](../02_deities/vedic/agni.md)：以祭火、祭司与使者职能让神人之间的邀请成为可通行道路。
+- [海姆达尔](../02_deities/norse/heimdallr.md)：以感官极限守在彩虹桥一端，守护通道而非建立通道；边界越界者以与洛基的末日互杀演示代价。
 - [众神殿](../07_places/pantheon.md)：本身由翻译、迁徙和承认生成，但不是绕过历史的万能传送空间。
 - [文明通道](../03_civilizations/corridors.md)：记录真实世界中名字、仪式和神格如何随人群移动。
 - [塞特](../02_deities/egyptian/seth.md)：以越界、变形、欺骗与沙漠边境进入；后期负面化不能抹去早期地方和王权位置。
@@ -47,6 +48,12 @@ domains:
 - [蓬莱五山](../07_places/chinese/penglai-five-isles.md)：海上漂移、巨鳌承山和仙圣迁徙展示仙路也依赖空间基础设施。
 - [河伯](../02_deities/chinese/hebo.md)与[黄河](../07_places/chinese/yellow-river-hebo.md)：水车、九河与河渚把神游、交通和现实水道连接起来。
 - [泰山封禅](../08_myths/chinese/han-wudi-state-rites.md)：皇帝巡行、物资、方士、儒生和地方空间共同建成国家神圣道路。
+
+## 当前关系
+
+“诡计者”在本殿不是统一人格类型。阿耆尼以祭火、祭司与使者职能让神人之间的邀请成为可通行道路，恩基／埃阿以对芦苇墙说出警告、创造微小存在等间接语言越过禁令，塞特以越界、变形、欺骗与沙漠边境进入并在后期负面化，伊西斯以伪装和语言策略服务继承合法性。维持交流、打破秩序、创造可能、承担破坏是四种不同的行动。
+
+边界穿越者也各有代价：女魃与应龙从天界下降参战后无法返回，嫦娥以窃药奔月跨越人间—月亮边界而动机留给具体版本，蓬莱五山依靠巨鳌承山等空间基础设施。没有来源的捷径不会自动生成一次跨神系会面。
 
 ## 本殿设定
 
@@ -70,3 +77,15 @@ domains:
 - [科塔尔—哈西斯](../02_deities/ugaritic/kothar-wa-khasis.md)：Kaptaru、埃及相关地点和乌加里特港口形成技艺道路，地点认同保持谨慎。
 - [雅姆使者](../08_myths/ugaritic/baal-and-yam.md)：即使在神战前，使者身份仍限制巴力暴力。
 - [乌加里特港口城市](../07_places/ugaritic/ugarit-ras-shamra.md)：语言、金属、婚姻神名与外交文本沿真实路线相遇。
+
+## 原典节点
+
+- source.rigveda.1.1：阿耆尼作为使者运载祭品。
+- source.rigveda.1.26：火的三处安置与召请道路。
+- source.lambert-millard.atrahasis：恩基以间接语言越过洪水禁令。
+- source.chester-beatty-i.contendings：伊西斯伪装与语言策略。
+- source.ugaritic.baal-cycle：雅姆使者的身份限制与沙普舒的调停。
+- source.shanhaijing.dahuangbei.yinglong-nuba-zhulong：女魃应龙下降不返的代价。
+- source.huainanzi.tianwen.change：嫦娥窃药奔月的边界跨越。
+
+完整书目信息见 [来源目录](../99_sources/bibliography.md)。

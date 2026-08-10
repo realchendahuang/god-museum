@@ -38,6 +38,7 @@ domains:
 | --- | --- |
 | [雅典娜](../02_deities/greek/athena.md) | 谋略、武装与城邦秩序必须回答“保护什么” |
 | [索尔](../02_deities/norse/thor.md) | 以身体、圣物和持续行动保护神界与人类秩序 |
+| [提尔](../02_deities/norse/tyr.md) | 以一只手臂为契约担保，战功让位于承诺的兑现 |
 | [因陀罗](../02_deities/vedic/indra.md) | 战斗只有在破障并释放水流后才完成 |
 | [奥丁](../02_deities/norse/odin.md) | 战争选择、阵亡者与未来准备互相牵连 |
 | [赫拉克勒斯](../04_heroes/greek/heracles.md) | 功业、苦难和神化不能被纯力量排名取代 |
@@ -52,6 +53,12 @@ domains:
 [泰坦战争](../08_myths/greek/titanomachy.md)、[妙尔尼尔失窃](../08_myths/norse/the-theft-of-mjolnir.md)、[因陀罗击弗栗多](../08_myths/vedic/indra-and-vritra.md)和[荷鲁斯与塞特争位](../08_myths/egyptian/contendings-of-horus-and-seth.md)分别展示战争如何服务于继承、守护、放水与法庭承认；相似的战斗表面没有产生同一种胜利。
 
 [黄帝与蚩尤之战](../08_myths/chinese/huangdi-and-chiyou.md)进一步证明战争版本可以同时属于史家王权编排和神话气象对抗；本殿不选择其中一份作为唯一战报。
+
+## 当前关系
+
+胜利在本殿没有统一定义。雅典娜的胜利是谋略、武装与城邦秩序，索尔以身体、圣物和持续行动保护秩序，因陀罗的战斗只有在破障并释放水流后才完成，荷鲁斯的胜利是王位争斗、身体受损、修复与合法继承共同作用，宁乌尔塔的胜利是夺回命运泥板并恢复土地秩序。战斗表面相似，胜利机制各自不同。
+
+“守护”也不能成为无需说明代价的口号：女魃助战后不能返天并引发旱灾，蚩尤作为失败者、兵主与地方祖先不被“怪物敌人”概括，吉尔伽美什与恩奇都的胜利同时制造越界和死亡后果。大殿拒绝只展示胜利者。
 
 ## 本殿设定
 
@@ -76,3 +83,15 @@ domains:
 - [阿纳特](../02_deities/ugaritic/anat.md)：战斗、威胁、亲族守护与哀悼共同存在，暴力不被抽象勇武净化。
 - [阿斯塔特](../02_deities/ugaritic/athtart.md)：制止巴力攻击使者、宣告海败北并尝试空缺王位。
 - [科塔尔双棒](../05_relics/ugaritic/baal-clubs.md)：神匠、命名、攻击顺序和失败首击共同定义胜利。
+
+## 原典节点
+
+- source.homer.iliad.5.733-742：雅典娜武装、埃癸斯与城邦守护。
+- source.snorri.gylfaginning.21：索尔的雷霆、巨敌与秩序守护。
+- source.rigveda.1.32：因陀罗击弗栗多、释放水流并成为诸神之王。
+- source.chester-beatty-i.contendings：荷鲁斯与塞特的争位、法庭承认与合法继承。
+- source.oracc.amgg：宁乌尔塔击败安祖、夺回命运泥板。
+- source.ugaritic.baal-cycle：巴力与雅姆之争、建宫与制度承认。
+- source.shanhaijing.dahuangbei.yinglong-nuba-zhulong：应龙、女魃助战与战后代价。
+
+完整书目信息见 [来源目录](../99_sources/bibliography.md)。

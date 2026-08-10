@@ -227,6 +227,62 @@
 - 限制：目录记录完整度不同；CDLI 编号和图像本身不能替代释读、文本重建和版权边界。
 - 访问：[CDLI](https://cdli.mpiwg-berlin.mpg.de/)
 
+### source.anet.prichard
+
+- 等级：P2（原典汇编，权威选集）
+- 编者：James B. Pritchard (ed.)
+- 作品：*Ancient Near Eastern Texts Relating to the Old Testament*（ANET），3rd ed. with Supplement，Princeton University Press，1969
+- 支持：伊南娜下冥界（苏美尔版 pp. 52–57）、伊什塔尔下冥界（阿卡德版 pp. 106–109）、《埃努玛·埃利什》（pp. 60–72）、洪水诸本（pp. 42–44、104–106）、安祖（pp. 111–113）等标准英译；用于跨文明对照时统一引用出处。
+- 限制：选集译文年代较早，个别译名与当代校勘本（Foster、Dalley、George）不同；需按现代版本复核细节。
+
+### source.ringgren.ancient-near-east
+
+- 等级：P2（宗教史综合研究）
+- 作者：Helmer Ringgren
+- 作品：*Religions of the Ancient Near East*，trans. John Sturdy，S.P.C.K.，1973
+- 支持：美索不达米亚诸神职能、神庙制度、王权与祭祀的综合梳理；用于理解神座与地方崇拜的制度语境。
+- 限制：成书较早，对具体文本的重建判断应让位于晚近校勘。
+
+### source.bottero.religion-ancient-mesopotamia
+
+- 等级：P2（学术综合研究）
+- 作者：Jean Bottéro
+- 作品：*Religion in Ancient Mesopotamia*，trans. Teresa Lavender Fagan，University of Chicago Press，2001
+- 支持：美索不达米亚宗教的诸神观、仪式、占卜与知识结构；Bottéro 强调神意通过征兆显现，而不是抽象哲学体系。
+- 限制：为综合论述，个别细节需按具体泥板文本复核。
+
+### source.jacobsen.treasures-of-darkness
+
+- 等级：P2（宗教史综合研究）
+- 作者：Thorkild Jacobsen
+- 作品：*The Treasures of Darkness: A History of Mesopotamian Religion*，Yale University Press，1976
+- 支持：从“生活观照”（intransitive）到“诸神观照”（transitive）的宗教史分期；对恩利尔、恩基、因陀罗—马尔杜克神性演变的经典分析。
+- 限制：Jacobsen 的阶段论是解释框架，不是原典事实；引用时应标注其为整理层。
+
+### source.etcsl.flood-story
+
+- 等级：P1（苏美尔原文电子校勘与英译）
+- 项目：Electronic Text Corpus of Sumerian Literature，ETCSL 1.7.4 *The Flood story*
+- 支持：苏美尔洪水传统 Ziusudra：神以洪水灭世、Ziusudra 造大船带动物得救、登岸献祭、被授永生并迁居 Dilmun。
+- 限制：文本残缺处依赖重建；与阿卡德 Atrahasis、巴比伦 Uta-napišti 版本差异需并列展示。
+- 访问：[ETCSL 1.7.4](https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.1.7.4)
+
+### source.novotny.gates-of-netherworld
+
+- 等级：P2（专文研究）
+- 作者：Jamie R. Novotny
+- 作品：“Were There Seven or Fourteen Gates of the Netherworld?”，收入 *Approaching Babylon*，2013
+- 支持：伊南娜／伊什塔尔下冥界“七或十四道门”的抄本差异问题；用于不把单一版本当作标准结构的提醒。
+- 限制：电子文档，具体页码以刊本为准。
+
+### source.veldhuis.nanse-and-birds
+
+- 等级：P2（苏美尔文学专研究）
+- 作者：Niek Veldhuis
+- 作品：*Religion, Literature, and Scholarship: The Sumerian Composition ‘Nanše and the Birds’*，Brill（Cuneiform Monographs 22），2004
+- 支持：苏美尔文献的书吏、分类与鸟名编目传统；说明泥板分类本身是知识与宗教实践，不只是“神话记录”。
+- 限制：聚焦单篇文献，用于方法示范而非全套神学结论。
+
 ## 古埃及
 
 ### source.ucl.digital-egypt.deities-framework
@@ -246,6 +302,15 @@
 - 支持：埃及创世材料包含多套并存的隐喻；《棺材文》76 的八位原初力量；拉—阿图姆从原初水域显现；舒、泰芙努特、盖布、努特直至奥西里斯—荷鲁斯神谱；不存在一份古埃及文本把全部创世母题写成统一叙事。
 - 限制：“赫尔莫波利斯神学”“赫利奥波利斯神学”是现代研究标签，不能假定它们在古代始终是互斥的固定体系。
 - 访问：[UCL Digital Egypt](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiescreation.html)
+
+### source.ucl.digital-egypt.ra-atum-amun
+
+- 等级：S2（大学博物馆与教学项目）
+- 机构：University College London, Digital Egypt for Universities
+- 页面：*Ra, Atum and Amun: solar theology*
+- 支持：拉—阿图姆是傍晚—清晨的复合显现，阿蒙—拉是地方神与太阳神的融合；复合神格必须保留各组成部分的地方与时代路径，不能倒推为始终同一位神。
+- 限制：这是神学框架导引，具体融合过程仍需对照神庙铭文、祷文与地方祭祀证据。
+- 访问：[UCL Digital Egypt](https://www.ucl.ac.uk/museums-static/digitalegypt/religion/deitiesra.html)
 
 ### source.ucl.digital-egypt.places
 
@@ -977,6 +1042,16 @@
 
 ## 北欧
 
+### source.snorri.gylfaginning.14-15
+
+- 等级：P2
+- 作者：斯诺里·斯图鲁松
+- 作品：《散文埃达·欺骗古鲁菲》
+- 定位：第 14–15 章
+- 支持：世界树三根三泉体系（Urðarbrunnr、Mímisbrunnr、Hvergelmir）及诺恩在命运之泉边的居所与善恶区分。
+- 限制：三根三泉的整齐对应与善恶诺恩分类属于斯诺里的体系化整理，诗歌层只散见各泉与"立法、择命、宣判"三动作。
+- 访问：[Völuspá.org，古诺斯语与英译对照](https://www.voluspa.org/gylfaginning11-20.htm)
+
 ### source.snorri.gylfaginning.20
 
 - 等级：P2
@@ -1004,6 +1079,16 @@
 - 定位：第 21 章
 - 支持：索尔的地位、住处、山羊车、妙尔尼尔、力量腰带、铁手套及其对巨人的战斗职能。
 - 限制：文本写于基督教化后的十三世纪冰岛，是保存和系统化北欧神话的重要材料，不等于未经整理的单一“原始版本”。
+- 访问：[Völuspá.org，古诺斯语与英译对照](https://www.voluspa.org/gylfaginning21-30.htm)
+
+### source.snorri.gylfaginning.27
+
+- 等级：P2
+- 作者：斯诺里·斯图鲁松
+- 作品：《散文埃达·欺骗古鲁菲》
+- 定位：第 27 章
+- 支持：海姆达尔的身份、白神称呼、Himinbjörg、彩虹桥守望，以及听草生长、看百里之外的感官极限描写。
+- 限制：感官极限的系统描写属于斯诺里整理层，诗歌埃达中无同等完整的细节；出身谱系另见《里格之歌》。
 - 访问：[Völuspá.org，古诺斯语与英译对照](https://www.voluspa.org/gylfaginning21-30.htm)
 
 ### source.poetic-edda.thrymskvida
@@ -1076,6 +1161,14 @@
 - 限制：《沃尔松格萨迦》的顺畅叙事是后起散文整合，不能替诗歌缺口直接发言。
 - 访问：[Völuspá.org：Fáfnismál](https://www.voluspa.org/fafnismal.htm)
 
+### source.poetic-edda.rigsthula
+
+- 等级：P2
+- 作品：《诗体埃达·里格之歌》
+- 支持：海姆达尔以里格之名行走人间、与人类三等级（奴隶、自由民、贵族）祖先同床的出身叙事。
+- 限制：本篇文本残缺较多、完成度不一；与“九母之子”的谱系分属不同文本层，不能合并为单一出身。
+- 访问：[Völuspá.org：Rígsthula](https://www.voluspa.org/rigsthula.htm)
+
 ### source.snorri.gylfaginning.23-24
 
 - 等级：P2
@@ -1138,6 +1231,14 @@
 - 支持：阿耆尼作为使者、祭祀执行者，召请诸神并接受祭品。
 - 版本提示：在线访问为 Ralph T. H. Griffith 英译；职能词翻译需继续对照梵文。
 - 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv01012.htm)
+
+### source.rigveda.1.26
+
+- 等级：P1
+- 作品：《梨俱吠陀》1.26
+- 支持：阿耆尼的三处安置与使者角色——天上为太阳、空中为闪电、地上为祭火；把凡人祭品送达诸神。
+- 版本提示：在线访问为 Ralph T. H. Griffith 英译；三处安置的系统化表述还需对照《百道梵书》与 Śrauta 文献。
+- 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv01026.htm)
 
 ### source.rigveda.1.32
 
