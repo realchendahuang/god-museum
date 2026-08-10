@@ -1094,6 +1094,15 @@
 - 限制：现代研究常把全诗的德洛斯与皮托部分作为形成问题讨论，条目不把接缝藏成单一无争议首演。
 - 访问：[Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0138:hymn=3)
 
+### source.homeric-hymn.26.dionysus
+
+- 等级：P1
+- 作品：《荷马体赞歌》第二十六首《致狄俄尼索斯》
+- 定位：全诗（约 13 行）
+- 支持：狄俄尼索斯被提坦／凶徒撕碎、死后由宙斯重生或自脐带再生的经典短颂；连接酒神密仪中死亡与更新的母题。
+- 限制：短颂本身并不提供完整“撕碎—重生”神学；与欧里庇得斯《酒神的伴侣》及后世密仪解说分层使用。
+- 访问：[Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0138:hymn=26)
+
 ### source.homer.iliad.5.733-742
 
 - 等级：P1
@@ -1276,6 +1285,16 @@
 - 限制：斯诺里把分散材料组织成强叙事链，不能假定每一环都来自同一更早正典。
 - 访问：[Völuspá.org](https://www.voluspa.org/gylfaginning31-40.htm)
 
+### source.snorri.skaldskaparmal.1
+
+- 等级：P1
+- 作者：斯诺里·斯图鲁松
+- 作品：《散文埃达·诗语》（Skáldskaparmál）
+- 定位：第 1 章
+- 支持：伊杜恩与青春苹果的完整叙事：洛基被鹰型提亚齐所迫、诱拐伊杜恩、诸神衰老、洛基借芙蕾雅的鹰羽披风营救，以及苹果作为青春维持物的角色。
+- 限制：伊杜恩的苹果故事主要见于散文埃达；诗歌层只有零散提及（如《洛基的争吵》序言），不得把散文层细节当诗歌层原典。
+- 访问：[Völuspá.org](https://www.voluspa.org/skaldskaparmal1-10.htm)
+
 ### source.snorri.gylfaginning.49-53
 
 - 等级：P2
@@ -1453,6 +1472,30 @@
 - 支持：致密特拉的单神赞歌：他使人团结、无欺诈、作为契约的化身被呼唤；把他从双神组合中单独抽出。
 - 限制：密特拉多数场合与伐楼拿并列出现，单神颂不能掩盖其双神语境。
 - 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv03059.htm)
+
+### source.rigveda.2.33
+
+- 等级：P1
+- 作品：《梨俱吠陀》2.33
+- 支持：致楼陀罗的核心赞歌：他持弓执矢、既是毁灭者也是医者，被称为“百草药主”与“山中猎人”；请求他免于伤害并赐福。
+- 限制：楼陀罗的箭与医药双面必须同存；后世湿婆形象不得倒填为吠陀专颂的完整定义。
+- 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv02033.htm)
+
+### source.rigveda.1.114
+
+- 等级：P2
+- 作品：《梨俱吠陀》1.114
+- 支持：致楼陀罗的赞歌：称他为“红猪”、双面神，颂其治疗力并祈求他远离部族；提供与 2.33 互补的短语与称呼。
+- 限制：1.114 与 2.33 属于不同曼陀罗层，称呼差异按文本并置而非混同。
+- 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv01114.htm)
+
+### source.rigveda.1.50
+
+- 等级：P1
+- 作品：《梨俱吠陀》1.50
+- 支持：致苏利耶的太阳赞歌：他升起驱散黑暗与疾病，被称为“众神之眼”；“鹰”与“天眼”意象连接光、健康与洞察。
+- 限制：苏利耶的“天之眼”是吠陀层表述，不应与密特拉、希腊赫利俄斯或后世太阳神直接合并。
+- 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv01050.htm)
 
 ### source.shatapatha.1.8.1
 

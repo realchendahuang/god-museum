@@ -46,6 +46,7 @@ domains:
 - [泰山](../07_places/chinese/mount-tai.md)：真实山体因封禅、巡狩、地方庙祀和后世冥界面相获得多重神圣地理。
 - [鹤鸣山／鹄鸣山](../07_places/chinese/heming-mountain.md)：张陵学道的史书地名与老君授道圣地分层，古地理和现代景区认定不自动一致。
 - [三官大帝](../02_deities/chinese/sanguan-dadi.md)：天地水文书通过置山、埋地、沉水运行；官署职能不等于占有全部山川。
+- [尼约尔德](../02_deities/norse/njordr.md)：以海边船场、风与航行的财富进入；海域是神格的一部分，但不是风暴主宰。
 
 ## 当前关系
 

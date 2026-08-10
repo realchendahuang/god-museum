@@ -53,6 +53,9 @@ domains:
 - [赫尔墨斯](../02_deities/greek/hermes.md)：以引魂者（psychopomp）职能把亡者送往冥界入口，不等于冥界统治者。
 - [阿瑞斯](../02_deities/greek/ares.md)：与暴力死亡、战死者相关联，但死者归宿仍由各文明冥界结构决定。
 - [杜穆济](../02_deities/mesopotamian/dumuzi.md)：作为伊南娜入冥的替身每年进入冥界；与被捉而非自愿牺牲的机制绑定。
+- [盖什提南娜](../02_deities/mesopotamian/geshtinanna.md)：姊妹替身半年轮换，使冥界入口成为可协商的制度而非单向终点。
+- [哈得斯](../02_deities/greek/hades.md)：三分世界冥王与冥界之名本身；故事由闯入者驱动，不是地狱惩罚神。
+- [狄俄尼索斯](../02_deities/greek/dionysus.md)：撕碎—重生与秘仪面向把死亡和更新连成可进入的经验。
 - [灵宝天尊](../02_deities/chinese/lingbao-tianzun.md)与[灵宝经系](../08_myths/chinese/lingbao-three-purities.md)：斋醮、普度和度亡通道以具体经典和仪式成立，不吞并佛教地狱或地方亡灵传统。
 
 ## 当前关系

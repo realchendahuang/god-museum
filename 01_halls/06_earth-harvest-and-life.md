@@ -48,6 +48,9 @@ domains:
 - [伊西斯](../02_deities/egyptian/isis.md)：寻找、哀悼、保护幼子与治疗让生命权柄成为连续行动。
 - [哈索尔](../02_deities/egyptian/hathor.md)：母性、滋养、感官力量和太阳之眼的危险面相共同存在。
 - [杜穆济](../02_deities/mesopotamian/dumuzi.md)：牧人王、丰饶与每年入冥的替身循环；死亡是被捉而非自愿牺牲。
+- [盖什提南娜](../02_deities/mesopotamian/geshtinanna.md)：葡萄之母与姊妹替身；半年轮换把丰饶与死亡绑成制度。
+- [狄俄尼索斯](../02_deities/greek/dionysus.md)：葡萄、酒与种植周期的转化；迷狂非尸体复苏。
+- [伊杜恩](../02_deities/norse/idunn.md)：青春苹果维系诸神不老；权柄系于苹果与持有者绑定。
 
 ## 当前关系
 
