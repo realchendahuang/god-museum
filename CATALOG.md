@@ -96,6 +96,7 @@
 - [苏利耶](./02_deities/vedic/surya.md)
 - [普利提维](./02_deities/vedic/prithvi.md)
 - [伐由](./02_deities/vedic/vayu.md)
+- [迪奥斯](./02_deities/vedic/dyaus.md)
 - [拉](./02_deities/egyptian/ra.md)
 - [奥西里斯](./02_deities/egyptian/osiris.md)
 - [伊西斯](./02_deities/egyptian/isis.md)
@@ -109,6 +110,8 @@
 - [普塔](./02_deities/egyptian/ptah.md)
 - [塞赫麦特](./02_deities/egyptian/sekhmet.md)
 - [努特](./02_deities/egyptian/nut.md)
+- [盖布](./02_deities/egyptian/geb.md)
+- [舒](./02_deities/egyptian/shu.md)
 - [安／阿努](./02_deities/mesopotamian/an-anu.md)
 - [恩利尔](./02_deities/mesopotamian/enlil.md)
 - [恩基／埃阿](./02_deities/mesopotamian/enki-ea.md)
@@ -299,6 +302,8 @@
 - [无主之雷](./10_chronicles/the-unclaimed-thunder.md)
 - [死者走错的门](./10_chronicles/misrouted-dead.md)
 - [重新被念出的名字](./10_chronicles/name-spoken-again.md)
+- [换季的替身](./10_chronicles/the-exchanged-seasons.md)
+- [三匠共炉](./10_chronicles/three-smiths-one-furnace.md)
 
 编年史只保存 God-Museum 原创正典；有历史来源的传统事件仍归入神话剧场。
 

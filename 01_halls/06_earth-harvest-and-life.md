@@ -53,6 +53,7 @@ domains:
 - [伊杜恩](../02_deities/norse/idunn.md)：青春苹果维系诸神不老；权柄系于苹果与持有者绑定。
 - [普利提维](../02_deities/vedic/prithvi.md)：大地承载万物、山为骨、如母牛孕育；存在方式是“被依靠”而非“被崇拜”。
 - [塞赫麦特](../02_deities/egyptian/sekhmet.md)：瘟疫与治疗同一权柄；毁灭只能被哄睡，不能被击败。
+- [盖布](../02_deities/egyptian/geb.md)：躺平的大地身体，植物从中长出、地震是身体的震动。
 
 ## 当前关系
 

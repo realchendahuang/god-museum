@@ -1505,6 +1505,14 @@
 - 限制：苏利耶的“天之眼”是吠陀层表述，不应与密特拉、希腊赫利俄斯或后世太阳神直接合并。
 - 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv01050.htm)
 
+### source.rigveda.1.89
+
+- 等级：P1
+- 作品：《梨俱吠陀》1.89
+- 支持：致诸神的祈福赞歌，含“天父迪奥斯与地母普利提维”的成对呼语（1.89.4）；把天地二分嵌入日常祈福语境，是迪奥斯最重要的文本锚点。
+- 限制：迪奥斯在《梨俱吠陀》中多为成对出现或泛称，单神颂极少；不能把“天父”写成独立的全能创世者。
+- 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv01089.htm)
+
 ### source.rigveda.5.84
 
 - 等级：P1

@@ -42,6 +42,9 @@ domains:
 - [普塔](../02_deities/egyptian/ptah.md)：孟菲斯神学以心构思、以舌宣说创世；与拉—阿图姆太阳显现并行，不合并。
 - [努特](../02_deities/egyptian/nut.md)：天空身体覆盖大地，舒举开她与盖布完成天地二分。
 - [普利提维](../02_deities/vedic/prithvi.md)：大地本身的身体，承载万物；与苍穹分开后成为可依靠的地基。
+- [盖布](../02_deities/egyptian/geb.md)：承托谱系与王权的男性大地身体，九柱神承续环。
+- [舒](../02_deities/egyptian/shu.md)：分离天地的空气之神，使世界拥有分层。
+- [迪奥斯](../02_deities/vedic/dyaus.md)：天空本身，与普利提维成对构成世界框架。
 
 ## 当前关系
 
