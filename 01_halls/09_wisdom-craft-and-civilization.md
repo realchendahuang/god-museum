@@ -40,6 +40,7 @@ domains:
 - [阿耆尼](../02_deities/vedic/agni.md)：祭火组织言语、仪式与召请，使知识和技艺成为可以重复进行的关系。
 - [托特](../02_deities/egyptian/thoth.md)：书写、计算、月时、修复与审判记录让知识成为可追踪的秩序。
 - [伊西斯](../02_deities/egyptian/isis.md)：以名字、言语、治疗和争位策略证明知识也能直接改变身体与政治结果。
+- [赫菲斯托斯](../02_deities/greek/hephaestus.md)：以锻火、器物与可用的造物进入；被弃者以制造回归秩序，器载宇宙知识。
 
 [奥丁悬树得符文](../08_myths/norse/odin-wins-runes.md)是本殿当前最完整的求知事件，[雅典娜的诞生](../08_myths/greek/birth-of-athena.md)则把谋略、继承危机和武装神显连接起来。
 

@@ -327,7 +327,7 @@ The hall is open. Here is the way in from the front gate:
 - [Chronicles of the Pantheon](./10_chronicles/README.md)
 - [Bibliography and source nodes](./99_sources/bibliography.md)
 
-Seventy-six formal Divine Seats now exist, with seven fragmentary names or groups preserved in the Silent Gallery. The Greek and Vedic collections have each grown into seven-seat networks, and the Norse collection into a ten-seat network — organized around succession and local cult, hymn, sacrifice, cosmic order, and the roads of the dead, and knowledge, constraint, exchange, and Ragnarök. They are no longer mere samples standing in for Zeus/Athena, Odin/Thor, or Indra/Agni.
+Eighty-four formal Divine Seats now exist, with seven fragmentary names or groups preserved in the Silent Gallery. The Greek collection has grown into a twelve-seat network and the Vedic into an eight-seat network, while the Norse collection now holds eleven seats — organized around succession and local cult; hymn, sacrifice, cosmic order, and the roads of the dead; and knowledge, constraint, exchange, and Ragnarök. They are no longer mere samples standing in for Zeus/Athena, Odin/Thor, or Indra/Agni.
 
 The seats form a connected collection rather than isolated biographies. Nineteen heroes or royal actors, twenty relics and textual artifacts, seventeen nonhuman beings, thirty-three mythic or historical places, forty-one sourced mythic or religious events, and three explicitly original Chronicles connect gods, people, artifacts, cities, temples, corridors, and Halls into one searchable archive.
 

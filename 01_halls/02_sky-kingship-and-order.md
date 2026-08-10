@@ -50,6 +50,7 @@ domains:
 | [元始天尊](../02_deities/chinese/yuanshi-tianzun.md)、[灵宝天尊](../02_deities/chinese/lingbao-tianzun.md)与[太上老君](../02_deities/chinese/taishang-laojun.md) | 三清经教高位、授经与诸天秩序 | 经教尊神的“最高”不等于统一行政君主 |
 | [三官大帝](../02_deities/chinese/sanguan-dadi.md) | 天地水官署、文书请祷和后世三元职能 | 不分别吞并天、后土、河伯与全部地水神 |
 | [因陀罗](../02_deities/vedic/indra.md) | 强大神祇、战斗与部分天界秩序 | 吠陀地位不能只用后世“天帝”职位解释 |
+| [密特拉](../02_deities/vedic/mitra.md) | 契约、友谊与信任秩序；与伐楼拿共掌 ṛta | 不是“吠陀太阳神”简化，与伊朗密斯拉分层 |
 | [荷鲁斯](../02_deities/egyptian/horus.md) | 活王身份、奥西里斯继承与两地王权 | 不同荷鲁斯面相和地方中心必须分层 |
 | [玛阿特](../02_deities/egyptian/maat.md) | 真理、正当秩序、称心与王权合法性 | 不是跨文明统一法律或现代因果报应 |
 | [阿蒙](../02_deities/egyptian/amun.md) | 底比斯地方神扩展为国家与普遍神力 | 新王国普遍性不能倒投为永恒最高神 |

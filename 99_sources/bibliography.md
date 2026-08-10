@@ -267,6 +267,22 @@
 - 限制：文本残缺处依赖重建；与阿卡德 Atrahasis、巴比伦 Uta-napišti 版本差异需并列展示。
 - 访问：[ETCSL 1.7.4](https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.1.7.4)
 
+### source.etcsl.dumuzid-dream
+
+- 等级：P1（苏美尔原文电子校勘与英译）
+- 项目：Electronic Text Corpus of Sumerian Literature，ETCSL 1.4.3 *Dumuzid's dream*
+- 支持：杜穆济被 demon 追捕的梦与死：梦境预兆、盖什提南娜解梦、杜穆济逃入牧区仍被捉；与伊南娜下冥界的"替身"结局衔接。
+- 限制：不同抄本结尾有残缺与分歧，不能把某个版本当作标准定本。
+- 访问：[ETCSL 1.4.3](https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.1.4.3)
+
+### source.etcsl.dumuzid-and-geshtinanna
+
+- 等级：P1（苏美尔原文电子校勘与英译）
+- 项目：Electronic Text Corpus of Sumerian Literature，ETCSL 1.4.1.1 *Dumuzid and Geštinanna*
+- 支持：盖什提南娜提出代兄入冥的替代方案：杜穆济半年、盖什提南娜半年轮换，形成丰饶与死亡交替的解释。
+- 限制：轮换方案在文本传统中的精确处理存在版本差异，须与伊南娜下冥界正文并列读。
+- 访问：[ETCSL 1.4.1.1](https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.1.4.1.1)
+
 ### source.novotny.gates-of-netherworld
 
 - 等级：P2（专文研究）
@@ -947,6 +963,77 @@
 - 限制：该段不逐项叙述十二功业，不能替代其他史诗、抒情诗、悲剧、图像与神话汇编中的版本。
 - 访问：[Harvard Center for Hellenic Studies](https://chs.harvard.edu/primary-source/hesiod-theogony-sb/)
 
+### source.hesiod.theogony.188-206
+
+- 等级：P1
+- 作者：赫西俄德
+- 作品：《神谱》
+- 定位：188–206 行
+- 支持：克洛诺斯阉割乌拉诺斯后，其血滴与浪沫在塞浦路斯附近生成阿佛洛狄忒；她随后常伴厄洛斯与欲望，并获得"爱欲的份"与凡人少女间的尊荣。
+- 限制：这只是阿佛洛狄忒众多起源版本之一（荷马传统另有宙斯与狄俄涅之女一说），不能当作唯一出生叙述。
+- 访问：[Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0130%3Acard%3D188)
+
+### source.homeric-hymn.5.aphrodite
+
+- 等级：P1
+- 作品：《荷马体赞歌》第五首《致阿佛洛狄忒》
+- 定位：全诗约 293 行，重点 1–53、45–199 行
+- 支持：阿佛洛狄忒自己向凡人（安喀塞斯）屈服于爱欲，以黄金项饰等伪装接近，并讲述自己与其他神也难逃欲望；结尾揭示生子埃涅阿斯。
+- 限制：该赞歌是阿佛洛狄忒"被欲望支配"与"支配欲望"双重面相的重要文本，但不代表其在城邦崇拜中的全部形象。
+- 访问：[Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0138:hymn=5)
+
+### source.homeric-hymn.4.hermes
+
+- 等级：P1
+- 作品：《荷马体赞歌》第四首《致赫尔墨斯》
+- 定位：全诗约 580 行，重点 1–67（婴儿诞生与偷牛）、100–502（牛群、里拉琴与交换）
+- 支持：赫尔墨斯出生当日偷阿波罗的牛、制里拉琴、以琴与阿波罗交换牛群并获得神使与路神职能；是道路、边界、交换与诡计最集中的原典。
+- 限制：婴儿神通叙事带喜剧与后起特征，不宜作为赫尔墨斯崇拜的唯一神学来源。
+- 访问：[Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0138:hymn=4)
+
+### source.homeric-hymn.27.artemis
+
+- 等级：P1
+- 作品：《荷马体赞歌》第二十七首《致阿耳忒弥斯》
+- 定位：全诗 22 行
+- 支持：阿耳忒弥斯以黄金弓与箭射猎山兽、弹拨竖琴、进入厅堂与阿波罗为伴，展现狩猎与少女神的组合特征。
+- 限制：短赞歌只呈现一个侧面；分娩守护、山林女主与地方崇拜需结合其他文本。
+- 访问：[Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0138:hymn=27)
+
+### source.homeric-hymn.8.ares
+
+- 等级：P1
+- 作品：《荷马体赞歌》第八首《致阿瑞斯》
+- 定位：全诗 17 行（晚期，行星歌）
+- 支持：以"战争之祖"、杀戮、城池与甲胄诸称号呼唤阿瑞斯，并将他与行星火星关联。
+- 限制：该短赞歌属晚期行星崇拜层；阿瑞斯的早期形象以史诗中的战斗与受伤场景为更直接依据。
+- 访问：[Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0138:hymn=8)
+
+### source.homer.iliad.5.330-430
+
+- 等级：P1
+- 作品：《伊利亚特》第五卷 330–430 行
+- 支持：狄俄墨得斯在女神指引下刺伤阿佛洛狄忒的手腕、阿瑞斯被她扶离战场，以及阿佛洛狄忒/阿瑞斯在奥林波斯承受嘲讽；展示爱神与战神在战斗中的受伤与受辱。
+- 限制：史诗对阿瑞斯的处理常带敌意与贬损，不能代表其全部崇拜与城邦位置。
+- 访问：[Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0134:book=5)
+
+### source.homer.iliad.18.478-608
+
+- 等级：P1
+- 作品：《伊利亚特》第十八卷 478–608 行
+- 支持：赫菲斯托斯为阿喀琉斯打造盾牌：大地、天空、海洋、两座城（婚礼审判之城与战争之城）、耕作、收获、畜群、舞蹈与环绕的俄刻阿诺斯。
+- 限制：盾牌是器物而非逐条宇宙学陈述，其图像应按史诗修辞而非地理实录读。
+- 访问：[Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0134:book=18)
+
+### source.homer.iliad.1-24
+
+- 等级：P1
+- 作品：《伊利亚特》全诗（重点第二十四卷）
+- 定位：24 卷；第二十四卷 331–469 行（赫尔墨斯护送普里阿摩斯）
+- 支持：赫尔墨斯以神使身份伪装护送普里阿摩斯穿越希腊营地赎回赫克托尔遗体，展示边界穿越与传讯职能。
+- 限制：全诗引用需按具体卷章定位，不能把整部史诗当作单一神学文本。
+- 访问：[Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0134:book=24)
+
 ### source.homer.odyssey.11.601-604
 
 - 等级：P1
@@ -1350,6 +1437,22 @@
 - 支持：存在／不存在、黑暗、水、欲望和宇宙起源知识边界的开放追问。
 - 限制：结尾保留最高观察者是否知道的疑问，不能改写成确定创世教义。
 - 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv10129.htm)
+
+### source.rigveda.1.151
+
+- 等级：P1
+- 作品：《梨俱吠陀》1.151
+- 支持：密特拉与伐楼拿的双神赞歌：以秩序立天与地、以轭套住工作、自称阿修罗；把作为褒义尊称的 asura 用于两位秩序神。
+- 限制：1.151 的 asura 是早期崇高用法，不能倒写为后世"阿修罗 vs 提婆"的对立。
+- 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv01151.htm)
+
+### source.rigveda.3.59
+
+- 等级：P1
+- 作品：《梨俱吠陀》3.59
+- 支持：致密特拉的单神赞歌：他使人团结、无欺诈、作为契约的化身被呼唤；把他从双神组合中单独抽出。
+- 限制：密特拉多数场合与伐楼拿并列出现，单神颂不能掩盖其双神语境。
+- 访问：[Internet Sacred Text Archive](https://sacred-texts.com/hin/rigveda/rv03059.htm)
 
 ### source.shatapatha.1.8.1
 

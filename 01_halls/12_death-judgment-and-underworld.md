@@ -50,6 +50,9 @@ domains:
 - [嫦娥](../02_deities/chinese/change.md)：不死药把她送往月亮，却没有在核心段落说明她获得何种不死状态。
 - [泰山](../07_places/chinese/mount-tai.md)：当前先以秦汉封禅历史地点进入；后世东岳治鬼、亡魂名籍与地府面相将在独立来源建立后开放。
 - [三官大帝](../02_deities/chinese/sanguan-dadi.md)：地官赦罪、水官解厄等后世职能进入本殿，但早期三官手书主要是请祷文书，不能直接等同完整地府审判。
+- [赫尔墨斯](../02_deities/greek/hermes.md)：以引魂者（psychopomp）职能把亡者送往冥界入口，不等于冥界统治者。
+- [阿瑞斯](../02_deities/greek/ares.md)：与暴力死亡、战死者相关联，但死者归宿仍由各文明冥界结构决定。
+- [杜穆济](../02_deities/mesopotamian/dumuzi.md)：作为伊南娜入冥的替身每年进入冥界；与被捉而非自愿牺牲的机制绑定。
 - [灵宝天尊](../02_deities/chinese/lingbao-tianzun.md)与[灵宝经系](../08_myths/chinese/lingbao-three-purities.md)：斋醮、普度和度亡通道以具体经典和仪式成立，不吞并佛教地狱或地方亡灵传统。
 
 ## 当前关系

@@ -48,6 +48,7 @@ domains:
 - [蓬莱五山](../07_places/chinese/penglai-five-isles.md)：海上漂移、巨鳌承山和仙圣迁徙展示仙路也依赖空间基础设施。
 - [河伯](../02_deities/chinese/hebo.md)与[黄河](../07_places/chinese/yellow-river-hebo.md)：水车、九河与河渚把神游、交通和现实水道连接起来。
 - [泰山封禅](../08_myths/chinese/han-wudi-state-rites.md)：皇帝巡行、物资、方士、儒生和地方空间共同建成国家神圣道路。
+- [赫尔墨斯](../02_deities/greek/hermes.md)：以神使、道路、边界、贸易与引魂职能进入；诡计促成通行而非破坏秩序。
 
 ## 当前关系
 

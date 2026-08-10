@@ -47,6 +47,7 @@ domains:
 - [奥西里斯](../02_deities/egyptian/osiris.md)：尸体复苏、死者持续和后续植物／谷物关联必须按文本与仪式分层，不能缩写成“春天复活神”。
 - [伊西斯](../02_deities/egyptian/isis.md)：寻找、哀悼、保护幼子与治疗让生命权柄成为连续行动。
 - [哈索尔](../02_deities/egyptian/hathor.md)：母性、滋养、感官力量和太阳之眼的危险面相共同存在。
+- [杜穆济](../02_deities/mesopotamian/dumuzi.md)：牧人王、丰饶与每年入冥的替身循环；死亡是被捉而非自愿牺牲。
 
 ## 当前关系
 

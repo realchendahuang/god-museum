@@ -48,6 +48,7 @@ domains:
 - [玛阿特](../02_deities/egyptian/maat.md)：世界持续运行所需的正当关系，不是人格化宿命。
 - [太阳夜航](../08_myths/egyptian/solar-night-journey.md)：每夜重复的十二时把循环时间、死亡与更新连成具体行动。
 - [羲和](../02_deities/chinese/xihe.md)与[常羲](../02_deities/chinese/changxi.md)：十日和十二月通过生育、沐浴与轮替组织天体时间，不是现代历法的直接说明。
+- [弗丽嘉](../02_deities/norse/frigg.md)：预见未来却从不透露；预知与沉默并存，不转化为发布预言。
 - [西王母](../02_deities/chinese/xiwangmu.md)、[嫦娥](../02_deities/chinese/change.md)与[不死之药](../05_relics/chinese/elixir-of-immortality.md)：不死追求改变个体所在时间，却不提供所有人的普遍永生规则。
 - [夸父逐日](../08_myths/chinese/kuafu-chases-the-sun.md)：追赶日影把天体时间转化为身体无法跨越的距离。
 - [帝／上帝](../02_deities/chinese/di-shangdi.md)、[天](../02_deities/chinese/tian-haotian.md)与[殷周天命转移](../08_myths/chinese/mandate-transfer-shang-zhou.md)：王朝未来受德、民与历史先例约束，不是可供统治者读取的固定预言。
