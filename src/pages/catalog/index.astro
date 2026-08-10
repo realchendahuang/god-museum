@@ -7,7 +7,7 @@ import {
   entryTitle,
   entryTypeLabel,
   isCollectionEntry,
-  plainSearchText,
+  lightSearchText,
   routeForEntry,
   sectionLabel
 } from '../../lib/content'
@@ -102,7 +102,7 @@ const sourceFilters = [
               data-type={entry.data.type || ''}
               data-tradition={entry.data.tradition || ''}
               data-source={entry.data.source_status || ''}
-              data-search={plainSearchText(entry)}
+              data-search={lightSearchText(entry)}
             >
               <span class="entry-number">{String(index + 1).padStart(2, '0')}</span>
               <strong>{entryTitle(entry)}</strong>
@@ -129,7 +129,7 @@ const sourceFilters = [
               data-type="guide"
               data-tradition=""
               data-source=""
-              data-search={plainSearchText(entry)}
+              data-search={lightSearchText(entry)}
             >
               <span class="entry-number">{String(index + 1).padStart(2, '0')}</span>
               <strong>{entryTitle(entry)}</strong>

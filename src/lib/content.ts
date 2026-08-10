@@ -181,3 +181,19 @@ export function plainSearchText(entry: DocEntry): string {
     entry.body
   ].filter(Boolean).join(' ').toLocaleLowerCase('zh-CN')
 }
+
+/** 轻量搜索文本：仅元数据，不含正文全文。用于目录页行内过滤。 */
+export function lightSearchText(entry: DocEntry): string {
+  return [
+    entryTitle(entry),
+    entry.data.id,
+    entry.data.type,
+    entry.data.name_native,
+    ...(entry.data.aliases || []),
+    traditionLabel(entry.data.tradition),
+    ...(entry.data.periods || []),
+    ...(entry.data.domains || []),
+    ...(entry.data.primary_halls || []),
+    ...(entry.data.secondary_halls || [])
+  ].filter(Boolean).join(' ').toLocaleLowerCase('zh-CN')
+}
